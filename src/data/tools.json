@@ -1,0 +1,4566 @@
+[
+  {
+    "id": "writing",
+    "icon": "✍️",
+    "name": "Writing & Content Generation",
+    "tools": [
+      {
+        "name": "ChatGPT",
+        "rank": "#1",
+        "tagline": "The world's most widely used AI writing assistant",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Models",
+            "val": "GPT-4o, GPT-4o mini, o1, o3"
+          },
+          {
+            "key": "Context",
+            "val": "128K tokens"
+          },
+          {
+            "key": "Features",
+            "val": "Chat, image gen, web browse, code, plugins"
+          },
+          {
+            "key": "API",
+            "val": "Yes — REST / Python / Node SDK"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Chat",
+          "Multimodal"
+        ]
+      },
+      {
+        "name": "Claude",
+        "rank": "#2",
+        "tagline": "Anthropic's safety-focused AI — exceptional for long-form writing",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Anthropic"
+          },
+          {
+            "key": "Models",
+            "val": "Claude Opus 4.6, Sonnet 4.6, Haiku 4.5"
+          },
+          {
+            "key": "Context",
+            "val": "200K tokens"
+          },
+          {
+            "key": "Features",
+            "val": "Writing, code, analysis, vision, artifacts"
+          },
+          {
+            "key": "API",
+            "val": "Yes — REST / Python / TypeScript SDK"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Long Context",
+          "Safe AI"
+        ]
+      },
+      {
+        "name": "Jasper AI",
+        "rank": "#3",
+        "tagline": "Enterprise content platform built for marketing teams",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Jasper"
+          },
+          {
+            "key": "Models",
+            "val": "GPT-4o + proprietary fine-tunes"
+          },
+          {
+            "key": "Templates",
+            "val": "50+ marketing templates"
+          },
+          {
+            "key": "Features",
+            "val": "Brand voice, campaigns, SEO, docs"
+          },
+          {
+            "key": "Integrations",
+            "val": "HubSpot, Surfer SEO, Google Docs"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Marketing",
+          "Brand Voice"
+        ]
+      },
+      {
+        "name": "Copy.ai",
+        "rank": "#4",
+        "tagline": "GTM AI platform for sales and marketing copy at scale",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Copy.ai"
+          },
+          {
+            "key": "Models",
+            "val": "Multiple LLM backends"
+          },
+          {
+            "key": "Templates",
+            "val": "90+ copy workflows"
+          },
+          {
+            "key": "Features",
+            "val": "Workflows, brand kit, bulk generation"
+          },
+          {
+            "key": "Languages",
+            "val": "25+"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Copywriting"
+        ]
+      },
+      {
+        "name": "Writesonic",
+        "rank": "#5",
+        "tagline": "AI writer with real-time data via web search integration",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Writesonic"
+          },
+          {
+            "key": "Models",
+            "val": "GPT-4, Claude, Gemini (switchable)"
+          },
+          {
+            "key": "Context",
+            "val": "Up to 32K tokens"
+          },
+          {
+            "key": "Features",
+            "val": "Article writer, Chatsonic (web), SEO"
+          },
+          {
+            "key": "Words/mo",
+            "val": "10K free / unlimited on paid"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "SEO Writing"
+        ]
+      },
+      {
+        "name": "Notion AI",
+        "rank": "#6",
+        "tagline": "Embedded AI writing within your Notion workspace",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Notion Labs"
+          },
+          {
+            "key": "Models",
+            "val": "GPT-4o + Claude (backend)"
+          },
+          {
+            "key": "Features",
+            "val": "Summarize, draft, translate, Q&A on docs"
+          },
+          {
+            "key": "Integration",
+            "val": "Native Notion blocks & databases"
+          },
+          {
+            "key": "Pricing",
+            "val": "$10/mo add-on to Notion plan"
+          }
+        ],
+        "tags": [
+          "Add-on",
+          "Workspace",
+          "Docs"
+        ]
+      },
+      {
+        "name": "Grammarly",
+        "rank": "#7",
+        "tagline": "AI grammar, style, and tone editor trusted by 30M+ users",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Grammarly Inc."
+          },
+          {
+            "key": "Features",
+            "val": "Grammar, clarity, tone, plagiarism, rewrite"
+          },
+          {
+            "key": "Platforms",
+            "val": "Browser ext, macOS, Windows, mobile"
+          },
+          {
+            "key": "Integration",
+            "val": "Gmail, Docs, Slack, Office 365"
+          },
+          {
+            "key": "Business",
+            "val": "Team style guides, analytics"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Editing",
+          "Grammar"
+        ]
+      },
+      {
+        "name": "Gemini",
+        "rank": "#8",
+        "tagline": "Google's multimodal AI deeply integrated with Workspace",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google DeepMind"
+          },
+          {
+            "key": "Models",
+            "val": "Gemini 2.5 Pro, Flash, Ultra"
+          },
+          {
+            "key": "Context",
+            "val": "1M tokens (2.5 Pro)"
+          },
+          {
+            "key": "Features",
+            "val": "Chat, code, image, video, audio, Docs AI"
+          },
+          {
+            "key": "Integration",
+            "val": "Google Workspace, Search, Android"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Multimodal",
+          "Google"
+        ]
+      },
+      {
+        "name": "QuillBot",
+        "rank": "#9",
+        "tagline": "The leading AI paraphrasing and summarization tool",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "QuillBot (Course Hero)"
+          },
+          {
+            "key": "Modes",
+            "val": "Standard, Fluency, Formal, Academic, Creative"
+          },
+          {
+            "key": "Features",
+            "val": "Paraphrase, summarize, grammar check, cite"
+          },
+          {
+            "key": "Limit (free)",
+            "val": "125 words per paraphrase"
+          },
+          {
+            "key": "Languages",
+            "val": "30+"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Paraphrasing",
+          "Academic"
+        ]
+      },
+      {
+        "name": "Anyword",
+        "rank": "#10",
+        "tagline": "Data-driven AI copy with predictive performance scoring",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Anyword"
+          },
+          {
+            "key": "Differentiator",
+            "val": "Predictive Performance Score per copy"
+          },
+          {
+            "key": "Features",
+            "val": "Ad copy, landing pages, email, blog"
+          },
+          {
+            "key": "Channels",
+            "val": "Facebook, Google, LinkedIn, Email"
+          },
+          {
+            "key": "Pricing",
+            "val": "From $49/mo"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Ad Copy",
+          "Analytics"
+        ]
+      },
+      {
+        "name": "Sudowrite",
+        "rank": "#11",
+        "tagline": "AI writing partner purpose-built for fiction authors",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Sudowrite"
+          },
+          {
+            "key": "Features",
+            "val": "Story Engine, Shrink Ray, Describe, Brainstorm"
+          },
+          {
+            "key": "Genre",
+            "val": "Fiction, sci-fi, fantasy, romance"
+          },
+          {
+            "key": "Unique",
+            "val": "Beat sheet & chapter planner, sensory canvas"
+          },
+          {
+            "key": "Pricing",
+            "val": "From $22/mo"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Fiction",
+          "Creative"
+        ]
+      },
+      {
+        "name": "Rytr",
+        "rank": "#12",
+        "tagline": "Budget-friendly AI writer with 40+ use cases",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Rytr"
+          },
+          {
+            "key": "Use Cases",
+            "val": "40+ templates including emails, ads, bios"
+          },
+          {
+            "key": "Tones",
+            "val": "20+ writing tones"
+          },
+          {
+            "key": "Languages",
+            "val": "30+"
+          },
+          {
+            "key": "Free Plan",
+            "val": "10,000 chars/month"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Budget",
+          "Templates"
+        ]
+      },
+      {
+        "name": "Wordtune",
+        "tagline": "Your personal writing companion and editor",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "AI21 Labs"
+          },
+          {
+            "key": "Features",
+            "val": "Rewrite, shorten, expand, tone check"
+          },
+          {
+            "key": "Integration",
+            "val": "Chrome extension, MS Word, Google Docs"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Editing"
+        ],
+        "rank": "#13"
+      },
+      {
+        "name": "Frase",
+        "tagline": "SEO content creation & optimization platform",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Frase"
+          },
+          {
+            "key": "Features",
+            "val": "Content briefs, SEO scoring, AI writer"
+          },
+          {
+            "key": "Best for",
+            "val": "Content marketers, SEO agencies"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "SEO Writing"
+        ],
+        "rank": "#14"
+      },
+      {
+        "name": "ProWritingAid",
+        "tagline": "Premium grammar checker and style editor",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "ProWritingAid"
+          },
+          {
+            "key": "Features",
+            "val": "Style improvements, grammar, reports"
+          },
+          {
+            "key": "Integration",
+            "val": "Desktop app, browser, Scrivener, Word"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Grammar"
+        ],
+        "rank": "#15"
+      },
+      {
+        "name": "Hemingway Editor AI",
+        "tagline": "Make your writing bold, clear, and concise",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Hemingway Ltd"
+          },
+          {
+            "key": "Features",
+            "val": "Readability grade, AI rewrite suggestions"
+          },
+          {
+            "key": "Access",
+            "val": "Web app, Desktop app"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Clarity"
+        ],
+        "rank": "#16"
+      }
+    ]
+  },
+  {
+    "id": "image",
+    "icon": "🎨",
+    "name": "Image Generation & Editing",
+    "tools": [
+      {
+        "name": "Midjourney",
+        "rank": "#1",
+        "tagline": "The gold standard for artistic AI image generation",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Midjourney Inc."
+          },
+          {
+            "key": "Version",
+            "val": "v7 (2025)"
+          },
+          {
+            "key": "Resolution",
+            "val": "Up to 4K upscale"
+          },
+          {
+            "key": "Interface",
+            "val": "Discord bot + web app"
+          },
+          {
+            "key": "Features",
+            "val": "Style tuning, inpaint, vary region, pan"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Art",
+          "Stylized"
+        ]
+      },
+      {
+        "name": "DALL·E 3",
+        "rank": "#2",
+        "tagline": "OpenAI's image model — best prompt adherence on the market",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Resolution",
+            "val": "1024×1024, 1024×1792, 1792×1024"
+          },
+          {
+            "key": "Formats",
+            "val": "PNG, WEBP; vivid or natural style"
+          },
+          {
+            "key": "Access",
+            "val": "ChatGPT Plus, API ($0.04–$0.12/img)"
+          },
+          {
+            "key": "Unique",
+            "val": "Rewrites prompts for safety + detail"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Photorealistic"
+        ]
+      },
+      {
+        "name": "Stable Diffusion",
+        "rank": "#3",
+        "tagline": "Open-source powerhouse — run locally or in the cloud",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Stability AI"
+          },
+          {
+            "key": "Version",
+            "val": "SDXL, SD3, SD3.5"
+          },
+          {
+            "key": "License",
+            "val": "Open weights (community license)"
+          },
+          {
+            "key": "Ecosystem",
+            "val": "A1111, ComfyUI, Forge, InvokeAI"
+          },
+          {
+            "key": "LoRA/Fine-tune",
+            "val": "Yes — Civitai community models"
+          }
+        ],
+        "tags": [
+          "Free / OSS",
+          "Local",
+          "Fine-tune"
+        ]
+      },
+      {
+        "name": "Adobe Firefly",
+        "rank": "#4",
+        "tagline": "Commercially safe generative AI native to Adobe Creative Cloud",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Adobe"
+          },
+          {
+            "key": "Model",
+            "val": "Firefly Image 3"
+          },
+          {
+            "key": "Features",
+            "val": "Text-to-image, Generative Fill, Expand"
+          },
+          {
+            "key": "License",
+            "val": "Commercially safe — trained on licensed data"
+          },
+          {
+            "key": "Integration",
+            "val": "Photoshop, Illustrator, Express, web"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Commercial",
+          "Adobe"
+        ]
+      },
+      {
+        "name": "Ideogram",
+        "rank": "#5",
+        "tagline": "Best-in-class AI image tool for text rendering in images",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Ideogram AI"
+          },
+          {
+            "key": "Version",
+            "val": "Ideogram 2.0"
+          },
+          {
+            "key": "Unique",
+            "val": "Accurate text-in-image generation"
+          },
+          {
+            "key": "Styles",
+            "val": "Anime, illustration, photo, 3D, typography"
+          },
+          {
+            "key": "Free",
+            "val": "10 slow generations/day"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Typography",
+          "Design"
+        ]
+      },
+      {
+        "name": "FLUX.1",
+        "rank": "#6",
+        "tagline": "Black Forest Labs' cutting-edge open image model",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Black Forest Labs"
+          },
+          {
+            "key": "Variants",
+            "val": "FLUX.1 Pro, Dev (OSS), Schnell (OSS)"
+          },
+          {
+            "key": "Params",
+            "val": "12B parameter transformer"
+          },
+          {
+            "key": "Speed",
+            "val": "Schnell: 1–4 steps inference"
+          },
+          {
+            "key": "License",
+            "val": "Dev/Schnell: Apache 2.0"
+          }
+        ],
+        "tags": [
+          "Free (Dev)",
+          "Open Source",
+          "Fast"
+        ]
+      },
+      {
+        "name": "Canva AI",
+        "rank": "#7",
+        "tagline": "Design-first AI suite for non-designers",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Canva Pty Ltd"
+          },
+          {
+            "key": "AI Features",
+            "val": "Magic Design, Dream Lab, Background Remover"
+          },
+          {
+            "key": "Model",
+            "val": "Proprietary + Stable Diffusion"
+          },
+          {
+            "key": "Templates",
+            "val": "1M+ design templates"
+          },
+          {
+            "key": "Platforms",
+            "val": "Web, iOS, Android, desktop"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Design",
+          "No-code"
+        ]
+      },
+      {
+        "name": "Leonardo.Ai",
+        "rank": "#8",
+        "tagline": "Game asset and concept art AI for creative professionals",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Leonardo.Ai"
+          },
+          {
+            "key": "Models",
+            "val": "Phoenix, Lightning, Alchemy, SDXL"
+          },
+          {
+            "key": "Features",
+            "val": "ControlNet, Motion, Texture Gen, 3D"
+          },
+          {
+            "key": "Free",
+            "val": "150 tokens/day (≈30 images)"
+          },
+          {
+            "key": "Best for",
+            "val": "Game dev, concept art, character design"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Game Art",
+          "3D"
+        ]
+      },
+      {
+        "name": "Runway Gen-3",
+        "rank": "#9",
+        "tagline": "Hollywood-grade AI image and video synthesis",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Runway AI"
+          },
+          {
+            "key": "Models",
+            "val": "Gen-3 Alpha, Gen-3 Turbo"
+          },
+          {
+            "key": "Features",
+            "val": "Text→video, img→video, inpainting, remove BG"
+          },
+          {
+            "key": "Resolution",
+            "val": "Up to 4K (Act One)"
+          },
+          {
+            "key": "Credits",
+            "val": "125 free credits on signup"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Video",
+          "Professional"
+        ]
+      },
+      {
+        "name": "NightCafe",
+        "rank": "#10",
+        "tagline": "Community-driven AI art platform with print-on-demand",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "NightCafe Studio"
+          },
+          {
+            "key": "Models",
+            "val": "SDXL, DALL·E 3, Coherent, FLUX"
+          },
+          {
+            "key": "Styles",
+            "val": "Artistic, cinematic, anime, abstract"
+          },
+          {
+            "key": "Community",
+            "val": "Art challenges, social feed, earn credits"
+          },
+          {
+            "key": "Free",
+            "val": "5 free credits/day"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Community",
+          "Art"
+        ]
+      },
+      {
+        "name": "Playground AI",
+        "tagline": "Free-to-use AI image creator and editor",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Playground AI"
+          },
+          {
+            "key": "Features",
+            "val": "Mixed image editing, canvas, SDXL"
+          },
+          {
+            "key": "Free Plan",
+            "val": "500 images per day"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Canvas Editor"
+        ],
+        "rank": "#11"
+      },
+      {
+        "name": "Tensor.art",
+        "tagline": "Free online stable diffusion generator and model host",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "TensorArt"
+          },
+          {
+            "key": "Features",
+            "val": "LoRA support, ControlNet, community models"
+          },
+          {
+            "key": "Free Plan",
+            "val": "100 credits daily"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Stable Diffusion"
+        ],
+        "rank": "#12"
+      },
+      {
+        "name": "Fooocus",
+        "tagline": "Open-source image generating software based on SDXL",
+        "specs": [
+          {
+            "key": "License",
+            "val": "Open Source"
+          },
+          {
+            "key": "Features",
+            "val": "Simple UI, prompt expansion, offline use"
+          },
+          {
+            "key": "Requirements",
+            "val": "Local GPU (Nvidia recommended)"
+          }
+        ],
+        "tags": [
+          "Free / OSS",
+          "Local"
+        ],
+        "rank": "#13"
+      },
+      {
+        "name": "Lexica",
+        "tagline": "Stable Diffusion search engine and image generator",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Lexica"
+          },
+          {
+            "key": "Model",
+            "val": "Aperture v3.5"
+          },
+          {
+            "key": "Features",
+            "val": "Prompt search, fast generation"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Search Engine"
+        ],
+        "rank": "#14"
+      }
+    ]
+  },
+  {
+    "id": "video",
+    "icon": "🎬",
+    "name": "Video Generation & Editing",
+    "tools": [
+      {
+        "name": "Sora",
+        "rank": "#1",
+        "tagline": "OpenAI's groundbreaking text-to-video model",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Duration",
+            "val": "Up to 20 seconds per clip"
+          },
+          {
+            "key": "Resolution",
+            "val": "Up to 1080p"
+          },
+          {
+            "key": "Features",
+            "val": "Storyboard, remix, recut, loop"
+          },
+          {
+            "key": "Access",
+            "val": "ChatGPT Plus & Pro subscribers"
+          }
+        ],
+        "tags": [
+          "Plus/Pro",
+          "Text→Video"
+        ]
+      },
+      {
+        "name": "Kling AI",
+        "rank": "#2",
+        "tagline": "China's leading AI video model — rival to Sora",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Kuaishou"
+          },
+          {
+            "key": "Duration",
+            "val": "Up to 3 minutes"
+          },
+          {
+            "key": "Resolution",
+            "val": "1080p, 16:9 / 9:16 / 1:1"
+          },
+          {
+            "key": "Features",
+            "val": "Img→video, camera control, lip-sync"
+          },
+          {
+            "key": "Free",
+            "val": "Daily free credits available"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Long Video"
+        ]
+      },
+      {
+        "name": "HeyGen",
+        "rank": "#3",
+        "tagline": "AI avatar video studio — create spokesperson videos in minutes",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "HeyGen"
+          },
+          {
+            "key": "Avatars",
+            "val": "100+ stock + custom avatar creation"
+          },
+          {
+            "key": "Voices",
+            "val": "300+ voices in 40+ languages"
+          },
+          {
+            "key": "Features",
+            "val": "Video translate, talking photo, streaming"
+          },
+          {
+            "key": "Free",
+            "val": "1 free credit (1 minute of video)"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Avatars",
+          "Multilingual"
+        ]
+      },
+      {
+        "name": "Synthesia",
+        "rank": "#4",
+        "tagline": "Enterprise AI video for L&D and corporate communications",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Synthesia"
+          },
+          {
+            "key": "Avatars",
+            "val": "230+ AI avatars"
+          },
+          {
+            "key": "Languages",
+            "val": "140+"
+          },
+          {
+            "key": "Features",
+            "val": "Screen record, slides, branching, SCORM"
+          },
+          {
+            "key": "Pricing",
+            "val": "From $29/mo (personal)"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Enterprise",
+          "L&D"
+        ]
+      },
+      {
+        "name": "InVideo AI",
+        "rank": "#5",
+        "tagline": "Text-to-video for YouTube, ads, and social content",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "InVideo"
+          },
+          {
+            "key": "Templates",
+            "val": "6,000+ video templates"
+          },
+          {
+            "key": "Media",
+            "val": "16M+ stock clips & images (iStock)"
+          },
+          {
+            "key": "AI Workflow",
+            "val": "Script → scenes → voice → video"
+          },
+          {
+            "key": "Free",
+            "val": "40 AI video minutes/week"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Social",
+          "YouTube"
+        ]
+      },
+      {
+        "name": "Descript",
+        "rank": "#6",
+        "tagline": "Edit video like a document — transcription-first editing",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Descript"
+          },
+          {
+            "key": "Unique",
+            "val": "Delete text = deletes video clip"
+          },
+          {
+            "key": "Features",
+            "val": "Overdub voice clone, Filler word remover, AI eye contact"
+          },
+          {
+            "key": "Transcription",
+            "val": "99%+ accuracy, 22 languages"
+          },
+          {
+            "key": "Free",
+            "val": "1 hour transcription, 1 watermarked export"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Podcast",
+          "Editing"
+        ]
+      },
+      {
+        "name": "Pika Labs",
+        "rank": "#7",
+        "tagline": "Fast, fun AI video generation for creative experimentation",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Pika Labs"
+          },
+          {
+            "key": "Version",
+            "val": "Pika 2.0"
+          },
+          {
+            "key": "Duration",
+            "val": "3–10 seconds"
+          },
+          {
+            "key": "Features",
+            "val": "Inflate, pikaffects, lip-sync, img→vid"
+          },
+          {
+            "key": "Free",
+            "val": "150 credits/month on free plan"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Creative",
+          "Effects"
+        ]
+      },
+      {
+        "name": "Luma Dream Machine",
+        "rank": "#8",
+        "tagline": "Smooth, cinematic AI video with realistic physics",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Luma AI"
+          },
+          {
+            "key": "Duration",
+            "val": "Up to 10 seconds"
+          },
+          {
+            "key": "Resolution",
+            "val": "720p / 1080p"
+          },
+          {
+            "key": "Features",
+            "val": "Camera paths, img→vid, Extend"
+          },
+          {
+            "key": "Free",
+            "val": "10 free generations/month"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Cinematic"
+        ]
+      },
+      {
+        "name": "Opus Clip",
+        "rank": "#9",
+        "tagline": "Auto-generates viral short clips from long-form video",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Opus Clip"
+          },
+          {
+            "key": "Features",
+            "val": "AI clipping, captions, curation score, reframe"
+          },
+          {
+            "key": "Platforms",
+            "val": "YouTube, TikTok, Reels, Shorts"
+          },
+          {
+            "key": "Virality",
+            "val": "AI scores each clip 0–100 for virality"
+          },
+          {
+            "key": "Free",
+            "val": "60 minutes of upload/month"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Clips",
+          "Social"
+        ]
+      },
+      {
+        "name": "Haiper AI",
+        "tagline": "Next-gen foundational video generation model",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Haiper"
+          },
+          {
+            "key": "Features",
+            "val": "Text-to-video, image-to-video, repainting"
+          },
+          {
+            "key": "Resolution",
+            "val": "HD generation"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Text→Video"
+        ],
+        "rank": "#10"
+      },
+      {
+        "name": "Kapwing AI",
+        "tagline": "Collaborative online video editor powered by AI",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Kapwing"
+          },
+          {
+            "key": "Features",
+            "val": "Auto-subtitles, script-to-video, smart cut"
+          },
+          {
+            "key": "Format",
+            "val": "Web-based collaborative editor"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Video Editor"
+        ],
+        "rank": "#11"
+      },
+      {
+        "name": "Fliki",
+        "tagline": "Turn text into videos with AI voices instantly",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Fliki"
+          },
+          {
+            "key": "Features",
+            "val": "Text-to-video, blog-to-video, 2000+ voices"
+          },
+          {
+            "key": "Use Cases",
+            "val": "YouTube, TikTok, Instagram Reels"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Social Media"
+        ],
+        "rank": "#12"
+      },
+      {
+        "name": "Synthesys",
+        "tagline": "AI video, audio, and avatar creation suite",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Synthesys"
+          },
+          {
+            "key": "Features",
+            "val": "Custom avatars, voice cloning, image gen"
+          },
+          {
+            "key": "Languages",
+            "val": "140+ languages"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Avatars"
+        ],
+        "rank": "#13"
+      }
+    ]
+  },
+  {
+    "id": "coding",
+    "icon": "💻",
+    "name": "Coding Assistants",
+    "tools": [
+      {
+        "name": "GitHub Copilot",
+        "rank": "#1",
+        "tagline": "The most widely adopted AI pair programmer — 1.8M+ paying users",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "GitHub (Microsoft)"
+          },
+          {
+            "key": "Models",
+            "val": "GPT-4o, Claude Sonnet, Gemini (switchable)"
+          },
+          {
+            "key": "Features",
+            "val": "Inline complete, chat, code review, CLI"
+          },
+          {
+            "key": "IDEs",
+            "val": "VS Code, JetBrains, Neovim, Visual Studio"
+          },
+          {
+            "key": "Price",
+            "val": "$10/mo individual; free for students"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "IDE Plugin",
+          "Code Review"
+        ]
+      },
+      {
+        "name": "Cursor",
+        "rank": "#2",
+        "tagline": "AI-first fork of VS Code — the new standard for AI coding",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Anysphere"
+          },
+          {
+            "key": "Models",
+            "val": "Claude 3.7, GPT-4o, o3-mini (selectable)"
+          },
+          {
+            "key": "Features",
+            "val": "Composer (multi-file), Tab complete, @-mentions"
+          },
+          {
+            "key": "Context",
+            "val": "Full codebase indexing & RAG"
+          },
+          {
+            "key": "Price",
+            "val": "Free (200 req) / $20 Pro"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "IDE",
+          "Agentic"
+        ]
+      },
+      {
+        "name": "Claude Code",
+        "rank": "#3",
+        "tagline": "Anthropic's agentic CLI coding tool — for terminal-native devs",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Anthropic"
+          },
+          {
+            "key": "Interface",
+            "val": "Terminal / CLI"
+          },
+          {
+            "key": "Model",
+            "val": "Claude Sonnet 4.6 (latest)"
+          },
+          {
+            "key": "Features",
+            "val": "File edit, bash exec, git ops, MCP servers"
+          },
+          {
+            "key": "Billing",
+            "val": "API token usage (no flat fee)"
+          }
+        ],
+        "tags": [
+          "API-based",
+          "CLI",
+          "Agentic"
+        ]
+      },
+      {
+        "name": "Windsurf (Codeium)",
+        "rank": "#4",
+        "tagline": "Flow-state AI IDE with deep agentic awareness",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Codeium"
+          },
+          {
+            "key": "Unique",
+            "val": "Cascade — agentic multi-step execution"
+          },
+          {
+            "key": "Features",
+            "val": "AI autocomplete, command, chat, terminal"
+          },
+          {
+            "key": "Context",
+            "val": "Codebase-aware RAG indexing"
+          },
+          {
+            "key": "Free",
+            "val": "Unlimited autocomplete on free plan"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "IDE",
+          "Agentic"
+        ]
+      },
+      {
+        "name": "Tabnine",
+        "rank": "#5",
+        "tagline": "Privacy-first AI code completion — self-host option available",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Tabnine"
+          },
+          {
+            "key": "Models",
+            "val": "Tabnine Protected + GPT-4 backend"
+          },
+          {
+            "key": "Privacy",
+            "val": "On-prem & air-gapped deployment options"
+          },
+          {
+            "key": "IDEs",
+            "val": "VS Code, IntelliJ, Eclipse, Vim, Emacs"
+          },
+          {
+            "key": "Trained on",
+            "val": "Open-source permissive licenses only"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Privacy",
+          "Enterprise"
+        ]
+      },
+      {
+        "name": "Replit Agent",
+        "rank": "#6",
+        "tagline": "Build full-stack apps from natural language in the browser",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Replit"
+          },
+          {
+            "key": "Features",
+            "val": "Code, run, deploy, database — all in one"
+          },
+          {
+            "key": "Deploy",
+            "val": "1-click hosting with autoscale"
+          },
+          {
+            "key": "Languages",
+            "val": "50+ programming languages"
+          },
+          {
+            "key": "Collab",
+            "val": "Real-time multiplayer editing"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Cloud IDE",
+          "Full-stack"
+        ]
+      },
+      {
+        "name": "Lovable",
+        "rank": "#7",
+        "tagline": "Turn prompts into production-ready React apps instantly",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Lovable Technologies"
+          },
+          {
+            "key": "Stack",
+            "val": "React, Tailwind, Supabase, Vite"
+          },
+          {
+            "key": "Deploy",
+            "val": "Instant custom domain deployment"
+          },
+          {
+            "key": "Integrations",
+            "val": "GitHub sync, Stripe, OpenAI"
+          },
+          {
+            "key": "Free",
+            "val": "5 messages/day"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "No-code",
+          "React"
+        ]
+      },
+      {
+        "name": "Bolt.new",
+        "rank": "#8",
+        "tagline": "StackBlitz's AI full-stack app builder — frontend to backend",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "StackBlitz"
+          },
+          {
+            "key": "Runtime",
+            "val": "WebContainers (Node.js in browser)"
+          },
+          {
+            "key": "Models",
+            "val": "Claude Sonnet, GPT-4o"
+          },
+          {
+            "key": "Deploy",
+            "val": "Netlify, Cloudflare, Vercel"
+          },
+          {
+            "key": "Free",
+            "val": "Daily token limit on free plan"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Full-stack",
+          "Browser"
+        ]
+      },
+      {
+        "name": "Amazon Q Developer",
+        "rank": "#9",
+        "tagline": "AWS-native AI coding companion for cloud development",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Amazon Web Services"
+          },
+          {
+            "key": "Strengths",
+            "val": "AWS SDK, CloudFormation, Lambda, CDK"
+          },
+          {
+            "key": "Features",
+            "val": "Code scan, test gen, doc gen, refactor"
+          },
+          {
+            "key": "IDEs",
+            "val": "VS Code, JetBrains, SageMaker Studio"
+          },
+          {
+            "key": "Free",
+            "val": "Free tier available (Individual)"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "AWS",
+          "Cloud"
+        ]
+      },
+      {
+        "name": "CodeRabbit",
+        "rank": "#10",
+        "tagline": "AI code reviewer that integrates directly into your PR workflow",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "CodeRabbit"
+          },
+          {
+            "key": "Features",
+            "val": "PR summary, line review, chat, issue tracking"
+          },
+          {
+            "key": "Integration",
+            "val": "GitHub, GitLab, Azure DevOps"
+          },
+          {
+            "key": "Models",
+            "val": "GPT-4o + Claude 3.5 ensemble"
+          },
+          {
+            "key": "Free",
+            "val": "Free for open-source repos"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Code Review",
+          "DevOps"
+        ]
+      },
+      {
+        "name": "Codeium",
+        "tagline": "Free AI code completion and developer chat",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Exafunction"
+          },
+          {
+            "key": "Features",
+            "val": "Auto-complete, chat, repository search"
+          },
+          {
+            "key": "Integration",
+            "val": "VS Code, JetBrains, Visual Studio, Neovim"
+          }
+        ],
+        "tags": [
+          "Free",
+          "Code Completion"
+        ],
+        "rank": "#11"
+      },
+      {
+        "name": "Sourcegraph Cody",
+        "tagline": "AI coding assistant that knows your entire codebase",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Sourcegraph"
+          },
+          {
+            "key": "Features",
+            "val": "Codebase context, chat, unit tests"
+          },
+          {
+            "key": "Models",
+            "val": "Claude 3, GPT-4o"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Codebase Search"
+        ],
+        "rank": "#12"
+      },
+      {
+        "name": "CodiumAI",
+        "tagline": "Generate meaningful tests and PR reviews for busy devs",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "CodiumAI"
+          },
+          {
+            "key": "Features",
+            "val": "Test generation, code analysis, PR agent"
+          },
+          {
+            "key": "Support",
+            "val": "Python, JS, TS, Java, C++"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Testing"
+        ],
+        "rank": "#13"
+      },
+      {
+        "name": "v0 by Vercel",
+        "tagline": "Generative UI system by Vercel",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Vercel"
+          },
+          {
+            "key": "Features",
+            "val": "UI from text prompt, React/Tailwind export"
+          },
+          {
+            "key": "Integration",
+            "val": "Next.js, Shadcn UI"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "UI Generation"
+        ],
+        "rank": "#14"
+      },
+      {
+        "name": "Aider",
+        "tagline": "AI pair programming in your terminal",
+        "specs": [
+          {
+            "key": "License",
+            "val": "Open Source"
+          },
+          {
+            "key": "Features",
+            "val": "Multi-file edit, automatic git commits"
+          },
+          {
+            "key": "Models",
+            "val": "Claude 3.5 Sonnet, GPT-4o, DeepSeek"
+          }
+        ],
+        "tags": [
+          "Free / OSS",
+          "Terminal"
+        ],
+        "rank": "#15"
+      },
+      {
+        "name": "Antigravity",
+        "tagline": "Advanced autonomous agentic coding assistant by Google Deepmind",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google Deepmind"
+          },
+          {
+            "key": "Capabilities",
+            "val": "Autonomous execution, complex repository navigation, planning"
+          },
+          {
+            "key": "Architecture",
+            "val": "Agentic Loop with Tool Execution"
+          }
+        ],
+        "tags": [
+          "Agent",
+          "Google",
+          "Autonomous"
+        ],
+        "rank": "#16"
+      },
+      {
+        "name": "Devin",
+        "tagline": "The world's first fully autonomous AI software engineer",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Cognition AI"
+          },
+          {
+            "key": "Capabilities",
+            "val": "Self-driven debugging, end-to-end feature building, CLI & browser integration"
+          },
+          {
+            "key": "Status",
+            "val": "Early Access / Enterprise"
+          }
+        ],
+        "tags": [
+          "Autonomous",
+          "Agent",
+          "Paid"
+        ],
+        "rank": "#17"
+      },
+      {
+        "name": "Supermaven",
+        "tagline": "The fastest copilot with a 1-million-token context window",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Supermaven"
+          },
+          {
+            "key": "Context Window",
+            "val": "1,000,000 tokens"
+          },
+          {
+            "key": "Features",
+            "val": "Ultra-low latency code generation, deep codebase understanding"
+          }
+        ],
+        "tags": [
+          "Speed",
+          "Context",
+          "Freemium"
+        ],
+        "rank": "#18"
+      },
+      {
+        "name": "Blackbox AI",
+        "tagline": "AI built specifically for developers to code faster",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Blackbox"
+          },
+          {
+            "key": "Features",
+            "val": "Code search, autocompletion, real-time code generation"
+          },
+          {
+            "key": "Access",
+            "val": "VS Code, Web"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Search"
+        ],
+        "rank": "#19"
+      }
+    ]
+  },
+  {
+    "id": "chatbot",
+    "icon": "🤖",
+    "name": "Chatbots & AI Assistants",
+    "tools": [
+      {
+        "name": "Perplexity AI",
+        "rank": "#1",
+        "tagline": "AI answer engine that cites sources in real time",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Perplexity AI"
+          },
+          {
+            "key": "Models",
+            "val": "Sonar (Llama 3.1) + GPT-4o + Claude"
+          },
+          {
+            "key": "Features",
+            "val": "Live web search, citations, Pro Search, Spaces"
+          },
+          {
+            "key": "Modes",
+            "val": "Focus: web, academic, Reddit, YouTube, X"
+          },
+          {
+            "key": "Free",
+            "val": "5 Pro searches/day free"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Search",
+          "Citations"
+        ]
+      },
+      {
+        "name": "Gemini Advanced",
+        "rank": "#2",
+        "tagline": "Google's flagship AI assistant with 1M token context",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Model",
+            "val": "Gemini 2.5 Pro"
+          },
+          {
+            "key": "Context",
+            "val": "1M tokens"
+          },
+          {
+            "key": "Features",
+            "val": "Deep research, reasoning, YouTube analysis"
+          },
+          {
+            "key": "Price",
+            "val": "$19.99/mo (Google One AI Premium)"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Google",
+          "Research"
+        ]
+      },
+      {
+        "name": "Microsoft Copilot",
+        "rank": "#3",
+        "tagline": "AI assistant baked into Windows, Edge, and Office 365",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Microsoft"
+          },
+          {
+            "key": "Model",
+            "val": "GPT-4o + Bing grounding"
+          },
+          {
+            "key": "Integration",
+            "val": "Word, Excel, PowerPoint, Teams, Outlook"
+          },
+          {
+            "key": "Features",
+            "val": "Web search, image gen (DALL·E 3), voice"
+          },
+          {
+            "key": "Free",
+            "val": "Free access; Pro at $20/mo"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Microsoft",
+          "Office"
+        ]
+      },
+      {
+        "name": "Meta AI",
+        "rank": "#4",
+        "tagline": "Llama-powered AI integrated across Facebook, WhatsApp, Instagram",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Meta"
+          },
+          {
+            "key": "Model",
+            "val": "Llama 4 (Scout & Maverick)"
+          },
+          {
+            "key": "Access",
+            "val": "FB, Instagram, WhatsApp, web, Ray-Ban"
+          },
+          {
+            "key": "Features",
+            "val": "Image gen, real-time search, memory"
+          },
+          {
+            "key": "Price",
+            "val": "Free"
+          }
+        ],
+        "tags": [
+          "Free",
+          "Social",
+          "Multiplatform"
+        ]
+      },
+      {
+        "name": "Grok",
+        "rank": "#5",
+        "tagline": "xAI's real-time AI with access to live X (Twitter) data",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "xAI (Elon Musk)"
+          },
+          {
+            "key": "Model",
+            "val": "Grok 3"
+          },
+          {
+            "key": "Unique",
+            "val": "Real-time X/Twitter data access"
+          },
+          {
+            "key": "Features",
+            "val": "Think mode, DeepSearch, image gen (Aurora)"
+          },
+          {
+            "key": "Access",
+            "val": "X Premium ($8/mo) or grok.com"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Real-time",
+          "X/Twitter"
+        ]
+      },
+      {
+        "name": "Character.AI",
+        "rank": "#6",
+        "tagline": "Roleplay and conversation with AI personas and characters",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Character Technologies"
+          },
+          {
+            "key": "Model",
+            "val": "Proprietary (Character.AI model)"
+          },
+          {
+            "key": "Characters",
+            "val": "Millions of user-created AI personas"
+          },
+          {
+            "key": "Users",
+            "val": "20M+ monthly active users"
+          },
+          {
+            "key": "Free",
+            "val": "Yes (with ads); c.ai+ for priority"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Roleplay",
+          "Personas"
+        ]
+      },
+      {
+        "name": "Pi by Inflection",
+        "rank": "#7",
+        "tagline": "Emotionally intelligent AI companion for personal conversations",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Inflection AI"
+          },
+          {
+            "key": "Model",
+            "val": "Inflection-3"
+          },
+          {
+            "key": "Style",
+            "val": "Empathetic, conversational, supportive"
+          },
+          {
+            "key": "Memory",
+            "val": "Persistent memory across sessions"
+          },
+          {
+            "key": "Price",
+            "val": "Free"
+          }
+        ],
+        "tags": [
+          "Free",
+          "Companion",
+          "Emotional"
+        ]
+      },
+      {
+        "name": "HuggingChat",
+        "rank": "#8",
+        "tagline": "Open-source alternative — run leading open models for free",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Hugging Face"
+          },
+          {
+            "key": "Models",
+            "val": "Llama 3.1, Mistral, Gemma, Qwen, Phi"
+          },
+          {
+            "key": "Features",
+            "val": "Web search, image gen, doc upload, assistants"
+          },
+          {
+            "key": "License",
+            "val": "Open-source (Apache 2.0)"
+          },
+          {
+            "key": "Price",
+            "val": "Free"
+          }
+        ],
+        "tags": [
+          "Free",
+          "Open Source",
+          "Multi-model"
+        ]
+      },
+      {
+        "name": "Poe",
+        "rank": "#9",
+        "tagline": "Chat with any AI — 100+ models in one app",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Quora"
+          },
+          {
+            "key": "Models",
+            "val": "GPT-4o, Claude, Gemini, Llama, Mistral, FLUX"
+          },
+          {
+            "key": "Create",
+            "val": "Build and monetize custom bots"
+          },
+          {
+            "key": "Platforms",
+            "val": "iOS, Android, web, macOS"
+          },
+          {
+            "key": "Free",
+            "val": "Limited daily messages on free plan"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Multi-model",
+          "Bot Builder"
+        ]
+      },
+      {
+        "name": "YouChat",
+        "tagline": "The AI search engine you control",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "You.com"
+          },
+          {
+            "key": "Features",
+            "val": "Web access, multi-model (GPT-4, Claude, Gemini)"
+          },
+          {
+            "key": "Access",
+            "val": "Web, Mobile app"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Search"
+        ],
+        "rank": "#10"
+      },
+      {
+        "name": "Replika",
+        "tagline": "The AI companion who cares",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Luka Inc."
+          },
+          {
+            "key": "Features",
+            "val": "Emotional support, memory, AR/VR integration"
+          },
+          {
+            "key": "Platform",
+            "val": "iOS, Android, Oculus"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Companion"
+        ],
+        "rank": "#11"
+      },
+      {
+        "name": "Chatsonic",
+        "tagline": "AI chat assistant with real-time Google data",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Writesonic"
+          },
+          {
+            "key": "Features",
+            "val": "Web search, image generation, PDF chat"
+          },
+          {
+            "key": "Integration",
+            "val": "Chrome Extension"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Real-time"
+        ],
+        "rank": "#13"
+      },
+      {
+        "name": "Mistral Le Chat",
+        "tagline": "A multilingual conversational AI from Europe's leading AI lab",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Mistral AI"
+          },
+          {
+            "key": "Models",
+            "val": "Mistral Large, Mistral Nemo"
+          },
+          {
+            "key": "Features",
+            "val": "High reasoning capabilities, open-weight access"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Multilingual"
+        ],
+        "rank": "#13"
+      },
+      {
+        "name": "Cohere Command R+",
+        "tagline": "Enterprise-grade LLM built specifically for RAG and tool use",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Cohere"
+          },
+          {
+            "key": "Features",
+            "val": "Retrieval Augmented Generation (RAG), extensive language support"
+          },
+          {
+            "key": "Focus",
+            "val": "Data privacy, enterprise deployment"
+          }
+        ],
+        "tags": [
+          "Enterprise",
+          "RAG"
+        ],
+        "rank": "#14"
+      }
+    ]
+  },
+  {
+    "id": "audio",
+    "icon": "🎵",
+    "name": "Audio, Music & Voice",
+    "tools": [
+      {
+        "name": "Suno",
+        "rank": "#1",
+        "tagline": "Generate complete songs with vocals from a text prompt",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Suno AI"
+          },
+          {
+            "key": "Version",
+            "val": "v4.5"
+          },
+          {
+            "key": "Output",
+            "val": "Full songs up to 4 minutes with lyrics"
+          },
+          {
+            "key": "Genres",
+            "val": "Pop, rock, hip-hop, jazz, classical, EDM, etc."
+          },
+          {
+            "key": "Free",
+            "val": "50 credits/day (≈10 songs)"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Music Gen",
+          "Vocals"
+        ]
+      },
+      {
+        "name": "Udio",
+        "rank": "#2",
+        "tagline": "High-fidelity AI music generation with studio-quality output",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Udio AI"
+          },
+          {
+            "key": "Quality",
+            "val": "44.1kHz stereo audio output"
+          },
+          {
+            "key": "Features",
+            "val": "Extend, remix, custom lyrics, stem export"
+          },
+          {
+            "key": "Genres",
+            "val": "1,200+ musical styles and sub-genres"
+          },
+          {
+            "key": "Free",
+            "val": "1,200 credits/month free"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Music Gen",
+          "Hi-fi"
+        ]
+      },
+      {
+        "name": "ElevenLabs",
+        "rank": "#3",
+        "tagline": "State-of-the-art AI voice — the best TTS available",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "ElevenLabs"
+          },
+          {
+            "key": "Voices",
+            "val": "3,000+ AI voices; custom voice clone"
+          },
+          {
+            "key": "Languages",
+            "val": "29 languages, 50+ accents"
+          },
+          {
+            "key": "Features",
+            "val": "TTS, voice clone, dubbing, audiobook, SFX"
+          },
+          {
+            "key": "Free",
+            "val": "10,000 chars/month"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "TTS",
+          "Voice Clone"
+        ]
+      },
+      {
+        "name": "Mubert",
+        "rank": "#4",
+        "tagline": "Royalty-free AI music streams generated in real time",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Mubert"
+          },
+          {
+            "key": "Use Cases",
+            "val": "Background music, podcasts, streams, apps"
+          },
+          {
+            "key": "Licensing",
+            "val": "Commercial license included"
+          },
+          {
+            "key": "API",
+            "val": "Yes — generate music programmatically"
+          },
+          {
+            "key": "Free",
+            "val": "25 tracks/month"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Royalty-free",
+          "API"
+        ]
+      },
+      {
+        "name": "Whisper (OpenAI)",
+        "rank": "#5",
+        "tagline": "Open-source speech recognition — near-human transcription accuracy",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Accuracy",
+            "val": "~5% WER on English"
+          },
+          {
+            "key": "Languages",
+            "val": "99 language support"
+          },
+          {
+            "key": "License",
+            "val": "MIT — free & open source"
+          },
+          {
+            "key": "API cost",
+            "val": "$0.006/minute via OpenAI API"
+          }
+        ],
+        "tags": [
+          "Free / OSS",
+          "Transcription",
+          "STT"
+        ]
+      },
+      {
+        "name": "Otter.ai",
+        "rank": "#6",
+        "tagline": "Real-time meeting transcription and AI notes for teams",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Otter.ai"
+          },
+          {
+            "key": "Features",
+            "val": "Live transcription, summary, action items, chat"
+          },
+          {
+            "key": "Integration",
+            "val": "Zoom, Teams, Google Meet, Webex"
+          },
+          {
+            "key": "Speaker ID",
+            "val": "Automatic speaker diarization"
+          },
+          {
+            "key": "Free",
+            "val": "300 min/month transcription"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Meetings",
+          "Notes"
+        ]
+      },
+      {
+        "name": "Play.ht",
+        "rank": "#7",
+        "tagline": "AI voice generation platform for podcasts and audio articles",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Play.ht"
+          },
+          {
+            "key": "Voices",
+            "val": "900+ AI voices"
+          },
+          {
+            "key": "Languages",
+            "val": "142 languages & accents"
+          },
+          {
+            "key": "Features",
+            "val": "Voice clone (3s sample), emotion control, API"
+          },
+          {
+            "key": "Free",
+            "val": "12,500 words/month"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Podcast",
+          "TTS"
+        ]
+      },
+      {
+        "name": "Adobe Podcast",
+        "rank": "#8",
+        "tagline": "AI audio tools to record, edit and enhance podcasts instantly",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Adobe"
+          },
+          {
+            "key": "Killer Feature",
+            "val": "Enhance Speech — removes noise & echo instantly"
+          },
+          {
+            "key": "Features",
+            "val": "Record, transcribe-edit, mic check, enhance"
+          },
+          {
+            "key": "Output",
+            "val": "WAV, MP3"
+          },
+          {
+            "key": "Free",
+            "val": "Yes (with Adobe account)"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Podcast",
+          "Enhance"
+        ]
+      },
+      {
+        "name": "Soundraw",
+        "rank": "#9",
+        "tagline": "Customizable AI music for creators — royalty-free",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Soundraw"
+          },
+          {
+            "key": "Customize",
+            "val": "Adjust length, tempo, instruments, section energy"
+          },
+          {
+            "key": "License",
+            "val": "Royalty-free for commercial use"
+          },
+          {
+            "key": "Moods",
+            "val": "30+ moods, 10 genres"
+          },
+          {
+            "key": "Pricing",
+            "val": "$19.99/mo unlimited"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Music",
+          "Royalty-free"
+        ]
+      },
+      {
+        "name": "Krisp",
+        "rank": "#10",
+        "tagline": "AI noise cancellation that mutes background sounds in any call",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Krisp Technologies"
+          },
+          {
+            "key": "How",
+            "val": "Virtual audio device — works with any app"
+          },
+          {
+            "key": "Features",
+            "val": "Noise cancel, echo removal, meeting summary"
+          },
+          {
+            "key": "Platforms",
+            "val": "macOS, Windows"
+          },
+          {
+            "key": "Free",
+            "val": "60 min/week noise cancel"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Noise Cancel",
+          "Calls"
+        ]
+      },
+      {
+        "name": "Lovo.ai",
+        "tagline": "Award-winning AI voice generator and text-to-speech",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Lovo"
+          },
+          {
+            "key": "Features",
+            "val": "500+ voices, 100 languages, video editor"
+          },
+          {
+            "key": "Use Cases",
+            "val": "Marketing, eLearning, YouTube"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Voiceover"
+        ],
+        "rank": "#11"
+      },
+      {
+        "name": "Murf AI",
+        "tagline": "Versatile studio-quality text to speech software",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Murf"
+          },
+          {
+            "key": "Features",
+            "val": "Voice cloning, pitch control, video syncing"
+          },
+          {
+            "key": "Voices",
+            "val": "120+ text-to-speech voices"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "TTS"
+        ],
+        "rank": "#12"
+      },
+      {
+        "name": "Kits AI",
+        "tagline": "AI voice platform designed for musicians",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Kits"
+          },
+          {
+            "key": "Features",
+            "val": "Voice models, royalty-free voices, stem separation"
+          },
+          {
+            "key": "Access",
+            "val": "Web app"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Music Production"
+        ],
+        "rank": "#13"
+      }
+    ]
+  },
+  {
+    "id": "productivity",
+    "icon": "⚡",
+    "name": "Productivity & Workflow Automation",
+    "tools": [
+      {
+        "name": "Zapier AI",
+        "rank": "#1",
+        "tagline": "Automate 7,000+ apps with natural language",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Zapier"
+          },
+          {
+            "key": "Integrations",
+            "val": "7,000+ app connectors"
+          },
+          {
+            "key": "AI Features",
+            "val": "AI Zap builder, Copilot, Agents (beta)"
+          },
+          {
+            "key": "Triggers",
+            "val": "Webhooks, schedules, email, form, app events"
+          },
+          {
+            "key": "Free",
+            "val": "100 tasks/month"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Automation",
+          "No-code"
+        ]
+      },
+      {
+        "name": "Make (Integromat)",
+        "rank": "#2",
+        "tagline": "Visual automation builder with advanced logic for power users",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Celonis (Make)"
+          },
+          {
+            "key": "Connectors",
+            "val": "1,500+ app integrations"
+          },
+          {
+            "key": "Unique",
+            "val": "Visual canvas with branching & iterators"
+          },
+          {
+            "key": "Features",
+            "val": "Data transformers, AI modules, error handling"
+          },
+          {
+            "key": "Free",
+            "val": "1,000 ops/month"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Automation",
+          "Visual"
+        ]
+      },
+      {
+        "name": "Mem AI",
+        "rank": "#3",
+        "tagline": "Self-organizing AI workspace — your second brain",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Mem Labs"
+          },
+          {
+            "key": "Unique",
+            "val": "Auto-tags and links notes with AI"
+          },
+          {
+            "key": "Features",
+            "val": "Smart search, chat with notes, AI writer"
+          },
+          {
+            "key": "Integration",
+            "val": "Gmail, Slack, Twitter/X"
+          },
+          {
+            "key": "Pricing",
+            "val": "$14.99/mo"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "PKM",
+          "Notes"
+        ]
+      },
+      {
+        "name": "Reclaim AI",
+        "rank": "#4",
+        "tagline": "AI calendar optimizer that protects focus time automatically",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Reclaim.ai"
+          },
+          {
+            "key": "Features",
+            "val": "Smart scheduling, habit blocks, task sync"
+          },
+          {
+            "key": "Integration",
+            "val": "Google Cal, Asana, Jira, Linear, Todoist"
+          },
+          {
+            "key": "AI",
+            "val": "Auto-reschedule, priority scoring, time defense"
+          },
+          {
+            "key": "Free",
+            "val": "Lite plan available"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Calendar",
+          "Time Mgmt"
+        ]
+      },
+      {
+        "name": "n8n",
+        "rank": "#5",
+        "tagline": "Open-source workflow automation with AI agent capabilities",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "n8n GmbH"
+          },
+          {
+            "key": "License",
+            "val": "Source-available (fair code)"
+          },
+          {
+            "key": "Nodes",
+            "val": "400+ app integrations"
+          },
+          {
+            "key": "AI",
+            "val": "AI Agent nodes with tool calling & memory"
+          },
+          {
+            "key": "Deploy",
+            "val": "Self-host Docker or n8n Cloud"
+          }
+        ],
+        "tags": [
+          "Free / OSS",
+          "Self-host",
+          "Agent"
+        ]
+      },
+      {
+        "name": "Fireflies.ai",
+        "rank": "#6",
+        "tagline": "AI meeting notetaker that records, transcribes, and summarizes",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Fireflies.ai"
+          },
+          {
+            "key": "Features",
+            "val": "Transcribe, summarize, action items, search"
+          },
+          {
+            "key": "Integrations",
+            "val": "Zoom, Teams, Meet, Salesforce, HubSpot"
+          },
+          {
+            "key": "Accuracy",
+            "val": "~95%+ transcription accuracy"
+          },
+          {
+            "key": "Free",
+            "val": "800 min storage free"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Meetings",
+          "CRM"
+        ]
+      },
+      {
+        "name": "Taskade",
+        "rank": "#7",
+        "tagline": "AI-powered project management with multi-agent teams",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Taskade"
+          },
+          {
+            "key": "Features",
+            "val": "Tasks, mind maps, docs, video calls, AI agents"
+          },
+          {
+            "key": "AI Agents",
+            "val": "Build custom agents with tools & workflows"
+          },
+          {
+            "key": "Templates",
+            "val": "1,000+ project templates"
+          },
+          {
+            "key": "Free",
+            "val": "Yes — unlimited projects"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "PM",
+          "Agents"
+        ]
+      },
+      {
+        "name": "Superhuman",
+        "rank": "#8",
+        "tagline": "The fastest email client ever built — now with AI superpowers",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Superhuman"
+          },
+          {
+            "key": "AI Features",
+            "val": "AI write, triage, summary, instant reply"
+          },
+          {
+            "key": "Speed",
+            "val": "Keyboard-first, <100ms interactions"
+          },
+          {
+            "key": "Compatible",
+            "val": "Gmail + Outlook"
+          },
+          {
+            "key": "Pricing",
+            "val": "$30/mo"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Email",
+          "Speed"
+        ]
+      },
+      {
+        "name": "Motion",
+        "rank": "#9",
+        "tagline": "AI automatically builds and optimizes your daily schedule",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Motion"
+          },
+          {
+            "key": "AI",
+            "val": "Auto-schedules tasks around meetings & deadlines"
+          },
+          {
+            "key": "Features",
+            "val": "Task mgmt, calendar, project, booking page"
+          },
+          {
+            "key": "Reschedule",
+            "val": "Instantly replans when priorities change"
+          },
+          {
+            "key": "Pricing",
+            "val": "$34/mo individual"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Scheduling",
+          "Calendar"
+        ]
+      },
+      {
+        "name": "Linear + AI",
+        "rank": "#10",
+        "tagline": "Beautiful issue tracker for software teams with AI built in",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Linear"
+          },
+          {
+            "key": "AI Features",
+            "val": "Issue write, sub-issue gen, summarize, triage"
+          },
+          {
+            "key": "Best for",
+            "val": "Engineering teams, sprint planning"
+          },
+          {
+            "key": "Integrations",
+            "val": "GitHub, Figma, Slack, Sentry, Intercom"
+          },
+          {
+            "key": "Free",
+            "val": "Free for up to 250 issues"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Issue Tracking",
+          "Dev"
+        ]
+      },
+      {
+        "name": "Tome",
+        "tagline": "AI-powered storytelling and presentation format",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Tome"
+          },
+          {
+            "key": "Features",
+            "val": "Generative presentations, interactive embeds"
+          },
+          {
+            "key": "Design",
+            "val": "Mobile-responsive layouts"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Presentations"
+        ],
+        "rank": "#11"
+      },
+      {
+        "name": "SaneBox",
+        "tagline": "AI email management and inbox cleanup tool",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "SaneBox"
+          },
+          {
+            "key": "Features",
+            "val": "Email filtering, do-not-disturb, tracking"
+          },
+          {
+            "key": "Integration",
+            "val": "Gmail, Outlook, iCloud"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Email Management"
+        ],
+        "rank": "#12"
+      },
+      {
+        "name": "Clockwise",
+        "tagline": "AI calendar assistant that optimizes your schedule",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Clockwise"
+          },
+          {
+            "key": "Features",
+            "val": "Focus time scheduling, meeting conflict resolution"
+          },
+          {
+            "key": "Integration",
+            "val": "Google Calendar, Slack, Asana"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Scheduling"
+        ],
+        "rank": "#13"
+      },
+      {
+        "name": "AutoGPT",
+        "tagline": "An experimental open-source attempt to make GPT fully autonomous",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Significant Gravitas"
+          },
+          {
+            "key": "Features",
+            "val": "Task chaining, internet access, memory management"
+          },
+          {
+            "key": "Deployment",
+            "val": "Local CLI, Docker"
+          }
+        ],
+        "tags": [
+          "Open Source",
+          "Agent",
+          "Autonomous"
+        ],
+        "rank": "#14"
+      },
+      {
+        "name": "Harvey",
+        "tagline": "Generative AI platform designed specifically for elite law firms",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Harvey AI"
+          },
+          {
+            "key": "Features",
+            "val": "Contract analysis, legal research, regulatory compliance"
+          },
+          {
+            "key": "Clients",
+            "val": "PwC, Allen & Overy"
+          }
+        ],
+        "tags": [
+          "Enterprise",
+          "Legal",
+          "Paid"
+        ],
+        "rank": "#15"
+      }
+    ]
+  },
+  {
+    "id": "marketing",
+    "icon": "📣",
+    "name": "SEO, Marketing & Sales AI",
+    "tools": [
+      {
+        "name": "Surfer SEO",
+        "rank": "#1",
+        "tagline": "Data-driven on-page SEO optimization with AI content scoring",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Surfer"
+          },
+          {
+            "key": "Features",
+            "val": "Content Editor, Audit, SERP Analyzer, Topical Map"
+          },
+          {
+            "key": "AI Writer",
+            "val": "Auto-optimized article generation"
+          },
+          {
+            "key": "Data",
+            "val": "Analyzes top 20 SERP results in real time"
+          },
+          {
+            "key": "Pricing",
+            "val": "From $89/mo"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "SEO",
+          "Content"
+        ]
+      },
+      {
+        "name": "Semrush AI",
+        "rank": "#2",
+        "tagline": "All-in-one SEO & competitive intelligence platform",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Semrush"
+          },
+          {
+            "key": "AI Tools",
+            "val": "ContentShake, Copilot, AI SEO Writing"
+          },
+          {
+            "key": "Database",
+            "val": "43B keywords, 808M domains tracked"
+          },
+          {
+            "key": "Features",
+            "val": "KW research, backlinks, site audit, ads, social"
+          },
+          {
+            "key": "Pricing",
+            "val": "From $139.95/mo"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "SEO",
+          "Analytics"
+        ]
+      },
+      {
+        "name": "HubSpot AI",
+        "rank": "#3",
+        "tagline": "AI-powered CRM for marketing, sales, and customer service",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "HubSpot"
+          },
+          {
+            "key": "AI Features",
+            "val": "Breeze AI — copilot, agents, content, data enrich"
+          },
+          {
+            "key": "Coverage",
+            "val": "Marketing, Sales, Service, CMS, Ops hubs"
+          },
+          {
+            "key": "CRM",
+            "val": "Free CRM for unlimited users"
+          },
+          {
+            "key": "Free",
+            "val": "Generous free tier for CRM"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "CRM",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Salesloft AI",
+        "rank": "#4",
+        "tagline": "Revenue AI platform for sales engagement and forecasting",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Salesloft"
+          },
+          {
+            "key": "AI",
+            "val": "Duo AI — coaching, forecast, deal insights"
+          },
+          {
+            "key": "Features",
+            "val": "Cadences, calls, email, pipeline, analytics"
+          },
+          {
+            "key": "Integration",
+            "val": "Salesforce, HubSpot, LinkedIn"
+          },
+          {
+            "key": "Best for",
+            "val": "Mid-market and enterprise B2B sales"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Sales",
+          "Revenue"
+        ]
+      },
+      {
+        "name": "Albert AI",
+        "rank": "#5",
+        "tagline": "Autonomous AI for paid digital advertising optimization",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Albert Technologies"
+          },
+          {
+            "key": "Channels",
+            "val": "Google, Facebook, YouTube, Bing, Instagram"
+          },
+          {
+            "key": "Features",
+            "val": "Auto bid, audience discovery, creative testing"
+          },
+          {
+            "key": "Unique",
+            "val": "Fully autonomous budget reallocation"
+          },
+          {
+            "key": "Best for",
+            "val": "Enterprise digital advertising at scale"
+          }
+        ],
+        "tags": [
+          "Enterprise",
+          "Paid Ads",
+          "Autonomous"
+        ]
+      },
+      {
+        "name": "Persado",
+        "rank": "#6",
+        "tagline": "AI that generates emotionally optimized marketing language",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Persado"
+          },
+          {
+            "key": "Unique",
+            "val": "Emotion AI — tags messages with emotion labels"
+          },
+          {
+            "key": "Channels",
+            "val": "Email, push, display, landing pages, SMS"
+          },
+          {
+            "key": "Results",
+            "val": "Claims avg 40%+ lift in conversions"
+          },
+          {
+            "key": "Clients",
+            "val": "JPMorgan, Microsoft, Gap, Verizon"
+          }
+        ],
+        "tags": [
+          "Enterprise",
+          "Emotion AI",
+          "Copy"
+        ]
+      },
+      {
+        "name": "Brandwatch AI",
+        "rank": "#7",
+        "tagline": "AI-powered consumer intelligence and social listening",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Brandwatch (Cision)"
+          },
+          {
+            "key": "Data",
+            "val": "500M+ sources, 1.4T conversations indexed"
+          },
+          {
+            "key": "Features",
+            "val": "Mention tracking, sentiment, trend, influencers"
+          },
+          {
+            "key": "AI",
+            "val": "Iris AI — insights, anomaly detect, questions"
+          },
+          {
+            "key": "Best for",
+            "val": "Brand monitoring, crisis management"
+          }
+        ],
+        "tags": [
+          "Enterprise",
+          "Social Listen",
+          "Brand"
+        ]
+      },
+      {
+        "name": "Seventh Sense",
+        "rank": "#8",
+        "tagline": "AI send-time optimization for email marketing",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Seventh Sense"
+          },
+          {
+            "key": "How",
+            "val": "Analyzes each contact's open history"
+          },
+          {
+            "key": "Integration",
+            "val": "HubSpot, Marketo"
+          },
+          {
+            "key": "Impact",
+            "val": "Claims 20–35% open rate improvement"
+          },
+          {
+            "key": "Pricing",
+            "val": "From $64/mo"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Email",
+          "Timing AI"
+        ]
+      },
+      {
+        "name": "VidIQ",
+        "rank": "#9",
+        "tagline": "AI coach for YouTube growth — ideas, SEO, and analytics",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "VidIQ"
+          },
+          {
+            "key": "Features",
+            "val": "AI title/desc gen, thumbnail A/B, KW research"
+          },
+          {
+            "key": "AI Coach",
+            "val": "Daily video ideas tailored to your channel"
+          },
+          {
+            "key": "Analytics",
+            "val": "Competitor tracking, trend alerts"
+          },
+          {
+            "key": "Free",
+            "val": "Yes — limited features"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "YouTube",
+          "Growth"
+        ]
+      },
+      {
+        "name": "Pencil",
+        "rank": "#10",
+        "tagline": "AI generates and tests ad creatives at scale",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Pencil"
+          },
+          {
+            "key": "Features",
+            "val": "Static, video, GIF ad generation for all channels"
+          },
+          {
+            "key": "Prediction",
+            "val": "Predicts ROAS before spending budget"
+          },
+          {
+            "key": "Channels",
+            "val": "Facebook, Instagram, TikTok, Pinterest, Google"
+          },
+          {
+            "key": "Pricing",
+            "val": "From $119/mo"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Ad Creative",
+          "ROAS"
+        ]
+      },
+      {
+        "name": "Mutiny",
+        "tagline": "No-code AI personalization platform for B2B",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Mutiny"
+          },
+          {
+            "key": "Features",
+            "val": "Website personalization, ABM scaling"
+          },
+          {
+            "key": "Integrations",
+            "val": "Salesforce, Clearbit, Marketo"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "B2B Personalization"
+        ],
+        "rank": "#11"
+      },
+      {
+        "name": "AdCreative.ai",
+        "tagline": "Generate conversion-focused ad creatives using AI",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "AdCreative"
+          },
+          {
+            "key": "Features",
+            "val": "Banner generation, ROAS insights, copy generation"
+          },
+          {
+            "key": "Platforms",
+            "val": "Facebook, Google, LinkedIn Ads"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Ad Creatives"
+        ],
+        "rank": "#12"
+      },
+      {
+        "name": "Phrasee",
+        "tagline": "Enterprise AI content platform for digital marketing",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Phrasee"
+          },
+          {
+            "key": "Features",
+            "val": "Email subject lines, brand safety, performance prediction"
+          },
+          {
+            "key": "Clients",
+            "val": "Enterprise brands"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Email Marketing"
+        ],
+        "rank": "#13"
+      }
+    ]
+  },
+  {
+    "id": "data",
+    "icon": "📊",
+    "name": "Data, Analytics & Research AI",
+    "tools": [
+      {
+        "name": "Julius AI",
+        "rank": "#1",
+        "tagline": "Chat with your data — AI data analyst for everyone",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Julius AI"
+          },
+          {
+            "key": "Input",
+            "val": "CSV, Excel, Google Sheets, SQL DB"
+          },
+          {
+            "key": "Features",
+            "val": "Chart generation, stats, ML models, SQL"
+          },
+          {
+            "key": "Output",
+            "val": "Charts, tables, insights, Python/R code"
+          },
+          {
+            "key": "Free",
+            "val": "10 messages/day"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Data Analysis",
+          "Charts"
+        ]
+      },
+      {
+        "name": "Akkio",
+        "rank": "#2",
+        "tagline": "No-code AI for business analysts — forecasting & predictions",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Akkio"
+          },
+          {
+            "key": "Features",
+            "val": "AutoML, chat with data, forecast, anomaly detect"
+          },
+          {
+            "key": "Data Sources",
+            "val": "Salesforce, HubSpot, Snowflake, CSV, BigQuery"
+          },
+          {
+            "key": "Deploy",
+            "val": "API, Zapier, Slack, embedded reports"
+          },
+          {
+            "key": "Pricing",
+            "val": "From $49/mo"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "AutoML",
+          "No-code"
+        ]
+      },
+      {
+        "name": "Tableau + Einstein AI",
+        "rank": "#3",
+        "tagline": "Enterprise BI platform powered by Salesforce Einstein",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Salesforce (Tableau)"
+          },
+          {
+            "key": "AI Features",
+            "val": "Ask Data, Explain Data, Einstein Copilot"
+          },
+          {
+            "key": "Connectors",
+            "val": "100+ data sources"
+          },
+          {
+            "key": "Users",
+            "val": "60,000+ organizations globally"
+          },
+          {
+            "key": "Pricing",
+            "val": "From $75/user/mo (Creator)"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "BI",
+          "Enterprise"
+        ]
+      },
+      {
+        "name": "Elicit",
+        "rank": "#4",
+        "tagline": "AI research assistant for systematic literature reviews",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Ought"
+          },
+          {
+            "key": "Database",
+            "val": "200M+ research papers (Semantic Scholar)"
+          },
+          {
+            "key": "Features",
+            "val": "Find papers, extract data, summarize, compare"
+          },
+          {
+            "key": "Best for",
+            "val": "Researchers, academics, systematic reviews"
+          },
+          {
+            "key": "Free",
+            "val": "5,000 credits free/month"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Research",
+          "Academic"
+        ]
+      },
+      {
+        "name": "Consensus",
+        "rank": "#5",
+        "tagline": "AI search engine for scientific research and evidence",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Consensus"
+          },
+          {
+            "key": "Papers",
+            "val": "200M+ peer-reviewed papers"
+          },
+          {
+            "key": "Unique",
+            "val": "Consensus Meter — shows % of papers agreeing"
+          },
+          {
+            "key": "Features",
+            "val": "AI summary, study snapshots, citation export"
+          },
+          {
+            "key": "Free",
+            "val": "20 searches/month"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Science",
+          "Research"
+        ]
+      },
+      {
+        "name": "Microsoft Fabric AI",
+        "rank": "#6",
+        "tagline": "Unified analytics platform from data lake to dashboard with Copilot",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Microsoft"
+          },
+          {
+            "key": "Components",
+            "val": "Data Factory, Synapse, Power BI, Data Science"
+          },
+          {
+            "key": "AI",
+            "val": "Copilot in every workload"
+          },
+          {
+            "key": "Storage",
+            "val": "OneLake — unified data lake"
+          },
+          {
+            "key": "Free Trial",
+            "val": "60-day trial available"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Data Platform",
+          "Enterprise"
+        ]
+      },
+      {
+        "name": "Obviously AI",
+        "rank": "#7",
+        "tagline": "Build and deploy predictive models without code in minutes",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Obviously AI"
+          },
+          {
+            "key": "Input",
+            "val": "CSV, Excel, Snowflake, Google Sheets"
+          },
+          {
+            "key": "Tasks",
+            "val": "Classification, regression, time-series forecast"
+          },
+          {
+            "key": "Deploy",
+            "val": "API endpoint, Zapier, Google Sheets"
+          },
+          {
+            "key": "Pricing",
+            "val": "From $75/mo"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "AutoML",
+          "Predict"
+        ]
+      },
+      {
+        "name": "GPT Researcher",
+        "rank": "#8",
+        "tagline": "Open-source autonomous deep research agent",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Open Source (Assaf Elovic)"
+          },
+          {
+            "key": "License",
+            "val": "MIT"
+          },
+          {
+            "key": "How",
+            "val": "Scrapes 20+ sources, synthesizes into report"
+          },
+          {
+            "key": "Output",
+            "val": "Long-form research report with citations"
+          },
+          {
+            "key": "Deploy",
+            "val": "Self-host Python / Docker"
+          }
+        ],
+        "tags": [
+          "Free / OSS",
+          "Research",
+          "Agentic"
+        ]
+      },
+      {
+        "name": "Polymer",
+        "rank": "#9",
+        "tagline": "Turn any spreadsheet into an AI-powered web app and database",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Polymer"
+          },
+          {
+            "key": "Input",
+            "val": "Google Sheets, Airtable, CSV, Shopify, MySQL"
+          },
+          {
+            "key": "AI",
+            "val": "Insights, charts, search, filtering from NL queries"
+          },
+          {
+            "key": "Output",
+            "val": "Interactive web app, embeddable dashboard"
+          },
+          {
+            "key": "Free",
+            "val": "1 dataset free"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "No-code",
+          "Dashboard"
+        ]
+      },
+      {
+        "name": "Browse AI",
+        "rank": "#10",
+        "tagline": "Train AI robots to scrape and monitor any website",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Browse AI"
+          },
+          {
+            "key": "No-code",
+            "val": "Point-and-click robot training"
+          },
+          {
+            "key": "Features",
+            "val": "Extraction, monitoring, pagination, login sites"
+          },
+          {
+            "key": "Output",
+            "val": "Google Sheets, Zapier, webhook, CSV"
+          },
+          {
+            "key": "Free",
+            "val": "50 credits free"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Scraping",
+          "Monitoring"
+        ]
+      },
+      {
+        "name": "Hex",
+        "tagline": "Collaborative analytics and data science workspace",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Hex"
+          },
+          {
+            "key": "Features",
+            "val": "Magic AI, SQL, Python, interactive data apps"
+          },
+          {
+            "key": "Integration",
+            "val": "Snowflake, BigQuery, dbt"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Data Science"
+        ],
+        "rank": "#11"
+      },
+      {
+        "name": "DataRobot",
+        "tagline": "Value-driven AI platform for the enterprise",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "DataRobot"
+          },
+          {
+            "key": "Features",
+            "val": "Predictive models, MLOps, generative AI APIs"
+          },
+          {
+            "key": "Deployment",
+            "val": "Cloud, On-premise"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Enterprise ML"
+        ],
+        "rank": "#12"
+      },
+      {
+        "name": "Palantir AIP",
+        "tagline": "Activate large language models securely on your private enterprise network",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Palantir Technologies"
+          },
+          {
+            "key": "Features",
+            "val": "Data ontology, defense-grade security, enterprise agents"
+          },
+          {
+            "key": "Use Cases",
+            "val": "Defense, Supply Chain, Healthcare"
+          }
+        ],
+        "tags": [
+          "Enterprise",
+          "Security"
+        ],
+        "rank": "#13"
+      },
+      {
+        "name": "Scale GenAI Platform",
+        "tagline": "The data platform powering the world's best generative AI",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Scale AI"
+          },
+          {
+            "key": "Capabilities",
+            "val": "RLHF, data labeling, model evaluation, red-teaming"
+          },
+          {
+            "key": "Clients",
+            "val": "OpenAI, Meta, Microsoft"
+          }
+        ],
+        "tags": [
+          "Enterprise",
+          "Data"
+        ],
+        "rank": "#14"
+      },
+      {
+        "name": "AlphaFold 3",
+        "tagline": "Predicting the structure of life’s molecules with unprecedented accuracy",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google Deepmind & Isomorphic Labs"
+          },
+          {
+            "key": "Features",
+            "val": "Protein folding, drug discovery, biological interaction modeling"
+          },
+          {
+            "key": "Impact",
+            "val": "Nobel Prize winning architecture"
+          }
+        ],
+        "tags": [
+          "Science",
+          "BioTech",
+          "Google"
+        ],
+        "rank": "#15"
+      }
+    ]
+  },
+  {
+    "id": "design",
+    "icon": "🖌️",
+    "name": "Design & Creative AI",
+    "tools": [
+      {
+        "name": "Figma AI",
+        "rank": "#1",
+        "tagline": "AI-native design platform with auto-layout and component generation",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Figma"
+          },
+          {
+            "key": "AI Features",
+            "val": "Make Designs, Auto-rename layers, search, fill"
+          },
+          {
+            "key": "Collaborate",
+            "val": "Real-time multiplayer design"
+          },
+          {
+            "key": "Dev Mode",
+            "val": "Inspect + code export for devs"
+          },
+          {
+            "key": "Free",
+            "val": "3 files free for individuals"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "UI/UX",
+          "Collab"
+        ]
+      },
+      {
+        "name": "Uizard",
+        "rank": "#2",
+        "tagline": "Sketch to app: AI converts hand-drawn wireframes to UI",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Uizard"
+          },
+          {
+            "key": "Features",
+            "val": "Autodesigner, scan sketch, screenshot to design"
+          },
+          {
+            "key": "Templates",
+            "val": "100+ UI component library"
+          },
+          {
+            "key": "Export",
+            "val": "PNG, PDF, to Figma"
+          },
+          {
+            "key": "Free",
+            "val": "2 projects free"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Wireframe",
+          "Prototype"
+        ]
+      },
+      {
+        "name": "Looka",
+        "rank": "#3",
+        "tagline": "AI logo and brand identity generator for startups",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Looka"
+          },
+          {
+            "key": "Generates",
+            "val": "Logos, brand kit, business cards, website"
+          },
+          {
+            "key": "Input",
+            "val": "Company name, industry, style preferences"
+          },
+          {
+            "key": "Formats",
+            "val": "SVG, PNG, PDF (vector)"
+          },
+          {
+            "key": "Pricing",
+            "val": "One-time $65 or $96/yr brand subscription"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Logo",
+          "Brand"
+        ]
+      },
+      {
+        "name": "Khroma",
+        "rank": "#4",
+        "tagline": "AI that learns your color taste and generates infinite palettes",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Khroma (Jay Salvat)"
+          },
+          {
+            "key": "How",
+            "val": "Train on 50 fave colors → personalized palette AI"
+          },
+          {
+            "key": "Views",
+            "val": "Typography, gradient, palette, image, custom"
+          },
+          {
+            "key": "Output",
+            "val": "CSS hex codes + accessibility ratings"
+          },
+          {
+            "key": "Price",
+            "val": "Free"
+          }
+        ],
+        "tags": [
+          "Free",
+          "Color",
+          "Palette"
+        ]
+      },
+      {
+        "name": "Luma AI (3D)",
+        "rank": "#5",
+        "tagline": "Capture photorealistic 3D scenes with your phone using NeRF",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Luma AI"
+          },
+          {
+            "key": "Tech",
+            "val": "Neural Radiance Fields (NeRF) + 3D Gaussian"
+          },
+          {
+            "key": "Input",
+            "val": "iPhone video (ARKit) or standard video"
+          },
+          {
+            "key": "Export",
+            "val": "GLTF, USD, MP4, embed"
+          },
+          {
+            "key": "Free",
+            "val": "10 captures free"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "3D Capture",
+          "NeRF"
+        ]
+      },
+      {
+        "name": "Beautiful.ai",
+        "rank": "#6",
+        "tagline": "AI-designed presentations that always look polished",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Beautiful.ai"
+          },
+          {
+            "key": "Smart Slides",
+            "val": "Auto-format as you add content"
+          },
+          {
+            "key": "AI",
+            "val": "DesignerBot — generate slides from prompt"
+          },
+          {
+            "key": "Templates",
+            "val": "100+ smart slide templates"
+          },
+          {
+            "key": "Pricing",
+            "val": "From $12/mo"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "Slides",
+          "Presentations"
+        ]
+      },
+      {
+        "name": "Fontjoy",
+        "rank": "#7",
+        "tagline": "Deep learning font pairing — find harmonious font combinations",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Fontjoy (Jack Qiao)"
+          },
+          {
+            "key": "How",
+            "val": "Neural net embeds fonts — pairs similar + contrast"
+          },
+          {
+            "key": "Library",
+            "val": "Google Fonts (1,400+)"
+          },
+          {
+            "key": "Controls",
+            "val": "Similarity slider for contrast control"
+          },
+          {
+            "key": "Price",
+            "val": "Free"
+          }
+        ],
+        "tags": [
+          "Free",
+          "Typography",
+          "Fonts"
+        ]
+      },
+      {
+        "name": "Krea AI",
+        "rank": "#8",
+        "tagline": "Real-time AI canvas for concept art and creative exploration",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Krea AI"
+          },
+          {
+            "key": "Unique",
+            "val": "Real-time generation as you draw/type"
+          },
+          {
+            "key": "Features",
+            "val": "AI canvas, enhance, upscale, video gen, patterns"
+          },
+          {
+            "key": "Models",
+            "val": "FLUX, SDXL, proprietary"
+          },
+          {
+            "key": "Free",
+            "val": "50 daily generations"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Real-time",
+          "Canvas"
+        ]
+      },
+      {
+        "name": "Gamma",
+        "rank": "#9",
+        "tagline": "AI-generated presentations, docs, and webpages in seconds",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Gamma"
+          },
+          {
+            "key": "Output",
+            "val": "Presentations, docs, web pages"
+          },
+          {
+            "key": "Features",
+            "val": "AI rewrite, themes, embed media, analytics"
+          },
+          {
+            "key": "Share",
+            "val": "Publish to web with one click"
+          },
+          {
+            "key": "Free",
+            "val": "400 AI credits free"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Slides",
+          "Docs"
+        ]
+      },
+      {
+        "name": "Recraft",
+        "rank": "#10",
+        "tagline": "Vector & raster AI image generator built for professional designers",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Recraft AI"
+          },
+          {
+            "key": "Unique",
+            "val": "Native SVG vector output (vs raster PNG)"
+          },
+          {
+            "key": "Model",
+            "val": "Recraft v3 (top SOTA benchmark score)"
+          },
+          {
+            "key": "Styles",
+            "val": "Illustration, icon, flat, 3D, realistic"
+          },
+          {
+            "key": "Free",
+            "val": "200 credits free"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Vector",
+          "SVG"
+        ]
+      },
+      {
+        "name": "Framer AI",
+        "tagline": "Generate stunning websites from text prompts",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Framer"
+          },
+          {
+            "key": "Features",
+            "val": "AI site generation, copywriting, color palettes"
+          },
+          {
+            "key": "Output",
+            "val": "Published production-ready website"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Website Builder"
+        ],
+        "rank": "#11"
+      },
+      {
+        "name": "Relume",
+        "tagline": "AI website builder for Figma & Webflow",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Relume"
+          },
+          {
+            "key": "Features",
+            "val": "Wireframes, sitemaps, UI component library"
+          },
+          {
+            "key": "Integration",
+            "val": "Figma, Webflow"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Wireframing"
+        ],
+        "rank": "#12"
+      },
+      {
+        "name": "Galileo AI",
+        "tagline": "Generative AI for high-fidelity UI design",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Galileo"
+          },
+          {
+            "key": "Features",
+            "val": "Text-to-UI, editable Figma designs"
+          },
+          {
+            "key": "Export",
+            "val": "Directly to Figma"
+          }
+        ],
+        "tags": [
+          "Paid",
+          "UI Generation"
+        ],
+        "rank": "#13"
+      }
+    ]
+  },
+  {
+    "id": "search",
+    "icon": "🔍",
+    "name": "AI Search Engines",
+    "tools": [
+      {
+        "name": "You.com",
+        "rank": "#1",
+        "tagline": "AI search that lets you choose your model and source type",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "You.com"
+          },
+          {
+            "key": "Models",
+            "val": "GPT-4o, Claude, Gemini (selectable)"
+          },
+          {
+            "key": "Modes",
+            "val": "Smart, Genius, Research, Creative, Code"
+          },
+          {
+            "key": "Privacy",
+            "val": "No tracking, anonymous search option"
+          },
+          {
+            "key": "Free",
+            "val": "Yes (limited GPT-4o queries)"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "Search",
+          "Privacy"
+        ]
+      },
+      {
+        "name": "Phind",
+        "rank": "#2",
+        "tagline": "AI search engine built specifically for developers",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Phind"
+          },
+          {
+            "key": "Model",
+            "val": "Phind-70B + GPT-4o"
+          },
+          {
+            "key": "Features",
+            "val": "Code-focused answers, pair programmer, web search"
+          },
+          {
+            "key": "Sources",
+            "val": "Stack Overflow, GitHub, docs, MDN"
+          },
+          {
+            "key": "Free",
+            "val": "Yes"
+          }
+        ],
+        "tags": [
+          "Free",
+          "Dev Search",
+          "Code"
+        ]
+      },
+      {
+        "name": "Brave Leo AI",
+        "rank": "#3",
+        "tagline": "Private AI assistant baked into the Brave browser",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Brave Software"
+          },
+          {
+            "key": "Models",
+            "val": "Llama 3, Claude Haiku, Mixtral (selectable)"
+          },
+          {
+            "key": "Privacy",
+            "val": "Conversations not logged or used for training"
+          },
+          {
+            "key": "Features",
+            "val": "Page summarize, rewrite, Q&A on any page"
+          },
+          {
+            "key": "Free",
+            "val": "Yes (in Brave browser)"
+          }
+        ],
+        "tags": [
+          "Free",
+          "Privacy",
+          "Browser"
+        ]
+      },
+      {
+        "name": "Bing Copilot",
+        "rank": "#4",
+        "tagline": "Microsoft's AI-powered search with GPT-4o and real-time web",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Microsoft"
+          },
+          {
+            "key": "Model",
+            "val": "GPT-4o with Bing grounding"
+          },
+          {
+            "key": "Features",
+            "val": "Cited answers, image gen, voice, notebook"
+          },
+          {
+            "key": "Integration",
+            "val": "Edge sidebar, Windows, mobile"
+          },
+          {
+            "key": "Free",
+            "val": "Yes"
+          }
+        ],
+        "tags": [
+          "Free",
+          "Search",
+          "Microsoft"
+        ]
+      },
+      {
+        "name": "Exa AI",
+        "rank": "#5",
+        "tagline": "Neural web search API designed for AI agents and developers",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Exa (formerly Metaphor)"
+          },
+          {
+            "key": "Type",
+            "val": "Neural search (not keyword-based)"
+          },
+          {
+            "key": "Best for",
+            "val": "LLM apps, RAG pipelines, research agents"
+          },
+          {
+            "key": "API",
+            "val": "REST API — returns full webpage content"
+          },
+          {
+            "key": "Free",
+            "val": "1,000 free searches/month"
+          }
+        ],
+        "tags": [
+          "Freemium",
+          "API",
+          "RAG"
+        ]
+      },
+      {
+        "name": "Komo",
+        "tagline": "AI-powered search engine without ads",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Komo"
+          },
+          {
+            "key": "Features",
+            "val": "Chat, explore, ad-free search experience"
+          },
+          {
+            "key": "Privacy",
+            "val": "Private searches"
+          }
+        ],
+        "tags": [
+          "Free",
+          "Ad-Free Search"
+        ],
+        "rank": "#6"
+      },
+      {
+        "name": "Andi",
+        "tagline": "Generative AI search for the next generation",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Andi Search"
+          },
+          {
+            "key": "Features",
+            "val": "Summarized answers, conversational interface"
+          },
+          {
+            "key": "Access",
+            "val": "Web app"
+          }
+        ],
+        "tags": [
+          "Free",
+          "Conversational"
+        ],
+        "rank": "#7"
+      },
+      {
+        "name": "Arc Search",
+        "tagline": "The browser that browses for you",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "The Browser Company"
+          },
+          {
+            "key": "Features",
+            "val": "Browse for me, auto-summarization, ad block"
+          },
+          {
+            "key": "Platform",
+            "val": "iOS"
+          }
+        ],
+        "tags": [
+          "Free",
+          "Mobile Browser"
+        ],
+        "rank": "#8"
+      },
+      {
+        "name": "Glean",
+        "tagline": "The AI-powered work assistant that connects all your company's knowledge",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Glean"
+          },
+          {
+            "key": "Features",
+            "val": "Enterprise search, knowledge graph, strict permissions"
+          },
+          {
+            "key": "Integrations",
+            "val": "Slack, Google Drive, Jira, Confluence"
+          }
+        ],
+        "tags": [
+          "Enterprise",
+          "Search"
+        ],
+        "rank": "#9"
+      }
+    ]
+  }
+]

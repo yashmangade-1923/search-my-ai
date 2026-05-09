@@ -1,0 +1,104 @@
+:root {
+  --bg: #050508;
+  --surface: rgba(15, 15, 25, 0.6);
+  --card: rgba(20, 20, 30, 0.4);
+  --border: rgba(255, 255, 255, 0.08);
+  --border-hover: rgba(255, 255, 255, 0.2);
+  
+  --accent: #e8ff47;
+  --accent-rgb: 232, 255, 71;
+  
+  --text: #ffffff;
+  --text-muted: #8b8ba7;
+  --tag-bg: rgba(255, 255, 255, 0.05);
+
+  --cat-writing: #e8ff47;
+  --cat-writing-rgb: 232, 255, 71;
+  --cat-image: #ff6b6b;
+  --cat-image-rgb: 255, 107, 107;
+  --cat-video: #f97316;
+  --cat-video-rgb: 249, 115, 22;
+  --cat-coding: #47a3ff;
+  --cat-coding-rgb: 71, 163, 255;
+  --cat-chatbot: #a78bfa;
+  --cat-chatbot-rgb: 167, 139, 250;
+  --cat-audio: #34d399;
+  --cat-audio-rgb: 52, 211, 153;
+  --cat-productivity: #fb923c;
+  --cat-productivity-rgb: 251, 146, 60;
+  --cat-marketing: #f472b6;
+  --cat-marketing-rgb: 244, 114, 182;
+  --cat-data: #22d3ee;
+  --cat-data-rgb: 34, 211, 238;
+  --cat-design: #c084fc;
+  --cat-design-rgb: 192, 132, 252;
+  --cat-search: #a3e635;
+  --cat-search-rgb: 163, 230, 53;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', sans-serif;
+  min-height: 100vh;
+  overflow-x: hidden;
+  position: relative;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Animated Background Orbs */
+body::before, body::after {
+  content: '';
+  position: fixed;
+  border-radius: 50%;
+  filter: blur(140px);
+  z-index: -1;
+  animation: float 20s infinite alternate ease-in-out;
+  pointer-events: none;
+}
+body::before {
+  top: -10%; left: -10%;
+  width: 50vw; height: 50vw;
+  background: radial-gradient(circle, rgba(71, 163, 255, 0.15), transparent 60%);
+}
+body::after {
+  bottom: -10%; right: -10%;
+  width: 60vw; height: 60vw;
+  background: radial-gradient(circle, rgba(167, 139, 250, 0.12), transparent 60%);
+  animation-delay: -10s;
+}
+@keyframes float {
+  0% { transform: translate(0, 0) scale(1); }
+  100% { transform: translate(5%, 5%) scale(1.1); }
+}
+
+h1, h2, h3, .heading-font {
+  font-family: 'Syne', sans-serif;
+}
+
+button, input {
+  font-family: inherit;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-hover);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+.tool-card:hover .top-glow { opacity: 1 !important; height: 4px !important; }
+.tool-card:hover .ambient-glow { opacity: 0.15 !important; }
