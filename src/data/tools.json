@@ -1816,6 +1816,27 @@
           "Search"
         ],
         "rank": "#19"
+      },
+      {
+        "name": "Mythos",
+        "tagline": "AI tool for unearthing high-severity software bugs",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Anthropic"
+          },
+          {
+            "key": "Features",
+            "val": "Cybersecurity analysis, vulnerability detection in software"
+          }
+        ],
+        "tags": [
+          "Cybersecurity",
+          "Bug Detection",
+          "Vulnerability Analysis",
+          "Code Analysis"
+        ],
+        "rank": "#20"
       }
     ]
   },
@@ -2226,6 +2247,26 @@
           "RAG"
         ],
         "rank": "#14"
+      },
+      {
+        "name": "Bee",
+        "tagline": "AI dating assistant",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Bumble"
+          },
+          {
+            "key": "Features",
+            "val": "AI-powered assistance for dating and relationships"
+          }
+        ],
+        "tags": [
+          "Dating",
+          "Assistant",
+          "Chatbot"
+        ],
+        "rank": "#15"
       }
     ]
   },
