@@ -2663,6 +2663,27 @@
           "Music Production"
         ],
         "rank": "#13"
+      },
+      {
+        "name": "Wispr Flow",
+        "tagline": "A voice AI product focusing on growth in India with Hinglish (Hindi+English) language support.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Wispr Flow (implied)"
+          },
+          {
+            "key": "Features",
+            "val": "Voice AI capabilities, Hinglish (Hindi + English) language support, targets Indian market."
+          }
+        ],
+        "tags": [
+          "Voice AI",
+          "Multilingual",
+          "Hinglish",
+          "Speech Recognition"
+        ],
+        "rank": "#14"
       }
     ]
   },
