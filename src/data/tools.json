@@ -4363,6 +4363,28 @@
           "UI Generation"
         ],
         "rank": "#13"
+      },
+      {
+        "name": "Tripo AI",
+        "tagline": "AI-powered platform for generating high-quality 3D models from text or image prompts.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Tripo AI"
+          },
+          {
+            "key": "Features",
+            "val": "Text-to-3D model generation, Image-to-3D model generation, high-fidelity mesh output, support for various 3D export formats."
+          }
+        ],
+        "tags": [
+          "3D generation",
+          "text-to-3D",
+          "image-to-3D",
+          "design",
+          "modeling"
+        ],
+        "rank": "#14"
       }
     ]
   },
