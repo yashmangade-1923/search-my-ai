@@ -2267,6 +2267,27 @@
           "Chatbot"
         ],
         "rank": "#15"
+      },
+      {
+        "name": "Vapi",
+        "tagline": "AI voice platform for customer support and sales calls.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Vapi"
+          },
+          {
+            "key": "Features",
+            "val": "Enterprise-grade voice AI, AI agents for customer support and sales."
+          }
+        ],
+        "tags": [
+          "Voice AI",
+          "Customer Support",
+          "Sales Automation",
+          "AI Agents"
+        ],
+        "rank": "#16"
       }
     ]
   },
@@ -4385,6 +4406,46 @@
           "modeling"
         ],
         "rank": "#14"
+      },
+      {
+        "name": "Create My Widget",
+        "tagline": "AI-powered feature to design custom widgets using natural language.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "Natural language widget description, custom dashboard creation, resizing."
+          }
+        ],
+        "tags": [
+          "Widget Design",
+          "Natural Language UI",
+          "Android"
+        ],
+        "rank": "#15"
+      },
+      {
+        "name": "Dessn",
+        "tagline": "AI-powered design tool that integrates with production codebases.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Dessn"
+          },
+          {
+            "key": "Features",
+            "val": "Works directly with production codebases, AI-powered design."
+          }
+        ],
+        "tags": [
+          "Design",
+          "Code Integration",
+          "AI Design"
+        ],
+        "rank": "#16"
       }
     ]
   },
