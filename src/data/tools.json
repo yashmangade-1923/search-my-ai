@@ -3149,6 +3149,28 @@
           "Paid"
         ],
         "rank": "#15"
+      },
+      {
+        "name": "Poppy",
+        "tagline": "A proactive AI assistant to help organize your digital life.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Poppy"
+          },
+          {
+            "key": "Features",
+            "val": "Connects calendar, email, messages, and other services; surfaces reminders, suggestions, and tasks based on what’s happening in your life."
+          }
+        ],
+        "tags": [
+          "assistant",
+          "productivity",
+          "organization",
+          "personal assistant",
+          "task management"
+        ],
+        "rank": "#16"
       }
     ]
   },
@@ -3988,6 +4010,28 @@
           "Google"
         ],
         "rank": "#15"
+      },
+      {
+        "name": "AutoScientist",
+        "tagline": "An AI tool that helps models train themselves through automated fine-tuning.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Adaption"
+          },
+          {
+            "key": "Features",
+            "val": "Enables models to adapt to specific capabilities quickly; automates conventional fine-tuning."
+          }
+        ],
+        "tags": [
+          "machine learning",
+          "model training",
+          "fine-tuning",
+          "automation",
+          "MLOps"
+        ],
+        "rank": "#16"
       }
     ]
   },
@@ -4705,6 +4749,28 @@
           "Search"
         ],
         "rank": "#9"
+      },
+      {
+        "name": "Alexa for Shopping",
+        "tagline": "An AI shopping assistant for the search bar.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Amazon"
+          },
+          {
+            "key": "Features",
+            "val": "Voice- and touch-enabled shopping experience; personalized recommendations; automates shopping across Amazon and other online retailers."
+          }
+        ],
+        "tags": [
+          "shopping",
+          "assistant",
+          "e-commerce",
+          "recommendations",
+          "voice AI"
+        ],
+        "rank": "#10"
       }
     ]
   }
