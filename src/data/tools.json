@@ -1837,6 +1837,23 @@
           "Code Analysis"
         ],
         "rank": "#20"
+      },
+      {
+        "name": "Clawdmeter",
+        "tagline": "An open source desktop dashboard for Claude Code usage statistics.",
+        "specs": [
+          {
+            "key": "Features",
+            "val": "Turns Claude Code usage stats into a tiny desktop dashboard; open source."
+          }
+        ],
+        "tags": [
+          "Coding AI",
+          "Usage Monitoring",
+          "Open Source",
+          "Desktop App"
+        ],
+        "rank": "#21"
       }
     ]
   },
@@ -3171,6 +3188,44 @@
           "task management"
         ],
         "rank": "#16"
+      },
+      {
+        "name": "Osaurus",
+        "tagline": "A Mac app that combines local and cloud AI models.",
+        "specs": [
+          {
+            "key": "Features",
+            "val": "Keeps users’ memory, files, and tools on their own hardware; combines local and cloud AI models."
+          }
+        ],
+        "tags": [
+          "Mac app",
+          "Local AI",
+          "Cloud AI",
+          "Model Management"
+        ],
+        "rank": "#17"
+      },
+      {
+        "name": "Synthetic",
+        "tagline": "A fully autonomous AI bookkeeping service for startups.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Ian Crosby"
+          },
+          {
+            "key": "Features",
+            "val": "Fully autonomous AI bookkeeping service."
+          }
+        ],
+        "tags": [
+          "Bookkeeping",
+          "Financial AI",
+          "Business Automation",
+          "Startups"
+        ],
+        "rank": "#18"
       }
     ]
   },
