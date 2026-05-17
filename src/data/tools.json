@@ -1854,6 +1854,27 @@
           "Desktop App"
         ],
         "rank": "#21"
+      },
+      {
+        "name": "LangChain",
+        "tagline": "A framework for developing applications powered by large language models (LLMs).",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "LangChain Inc."
+          },
+          {
+            "key": "Features",
+            "val": "Chaining LLMs and other components, agents, memory, retrieval augmented generation, output parsing."
+          }
+        ],
+        "tags": [
+          "LLM Framework",
+          "Developer Tool",
+          "Python",
+          "JavaScript"
+        ],
+        "rank": "#22"
       }
     ]
   },
@@ -4087,6 +4108,27 @@
           "MLOps"
         ],
         "rank": "#16"
+      },
+      {
+        "name": "LlamaIndex",
+        "tagline": "A data framework for LLM applications to ingest, structure, and access private or domain-specific data.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "LlamaIndex Inc."
+          },
+          {
+            "key": "Features",
+            "val": "Data ingestion, indexing, retrieval, query engines, building RAG applications."
+          }
+        ],
+        "tags": [
+          "LLM Framework",
+          "Data Management",
+          "RAG",
+          "Python"
+        ],
+        "rank": "#17"
       }
     ]
   },
