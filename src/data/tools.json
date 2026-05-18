@@ -1279,6 +1279,28 @@
           "Avatars"
         ],
         "rank": "#13"
+      },
+      {
+        "name": "DeepMotion",
+        "tagline": "AI-powered motion capture and 3D animation platform.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "DeepMotion Inc."
+          },
+          {
+            "key": "Features",
+            "val": "Generate 3D animations from 2D video, text, or audio inputs. AI motion capture, realistic physics simulation, character animation tools."
+          }
+        ],
+        "tags": [
+          "3D Animation",
+          "Motion Capture",
+          "Video to 3D",
+          "Character Animation",
+          "Mocap"
+        ],
+        "rank": "#14"
       }
     ]
   },
