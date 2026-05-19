@@ -1897,6 +1897,28 @@
           "JavaScript"
         ],
         "rank": "#22"
+      },
+      {
+        "name": "Stainless",
+        "tagline": "Automates the creation and maintenance of software development kits (SDKs).",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Stainless (acquired by Anthropic)"
+          },
+          {
+            "key": "Features",
+            "val": "SDK automation, API interaction libraries"
+          }
+        ],
+        "tags": [
+          "developer tools",
+          "SDK",
+          "API",
+          "automation",
+          "devops"
+        ],
+        "rank": "#23"
       }
     ]
   },
@@ -2765,6 +2787,27 @@
           "Speech Recognition"
         ],
         "rank": "#14"
+      },
+      {
+        "name": "Alexa+",
+        "tagline": "Amazon's personalized AI content platform for generating custom podcast episodes.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Amazon"
+          },
+          {
+            "key": "Features",
+            "val": "Custom AI podcast generation, personalized content platform"
+          }
+        ],
+        "tags": [
+          "audio generation",
+          "podcast",
+          "content creation",
+          "personalization"
+        ],
+        "rank": "#15"
       }
     ]
   },
