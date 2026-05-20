@@ -895,6 +895,26 @@
           "Search Engine"
         ],
         "rank": "#14"
+      },
+      {
+        "name": "SynthID",
+        "tagline": "A Google tool to help detect AI-generated imagery.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "Helps detect AI-generated imagery (e.g., via invisible watermarks)."
+          }
+        ],
+        "tags": [
+          "AI detection",
+          "image verification",
+          "watermarking"
+        ],
+        "rank": "#15"
       }
     ]
   },
@@ -1919,6 +1939,48 @@
           "devops"
         ],
         "rank": "#23"
+      },
+      {
+        "name": "Google AI Studio",
+        "tagline": "A web-based platform for generating native Android apps using AI.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "Generates native Android apps in minutes, AI-powered software development."
+          }
+        ],
+        "tags": [
+          "app development",
+          "Android",
+          "no-code",
+          "AI assistant"
+        ],
+        "rank": "#24"
+      },
+      {
+        "name": "Android CLI",
+        "tagline": "Google's command-line interface tools for agentic Android app coding.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "Works with AI coding agents (like Claude Code and OpenAI’s Codex), allows building Android apps faster from the command line."
+          }
+        ],
+        "tags": [
+          "CLI",
+          "Android development",
+          "AI coding",
+          "developer tools"
+        ],
+        "rank": "#25"
       }
     ]
   },
@@ -3312,6 +3374,68 @@
           "Startups"
         ],
         "rank": "#18"
+      },
+      {
+        "name": "Ocean",
+        "tagline": "An agentic email security platform to detect fraud and impersonation.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Ocean (Implied)"
+          },
+          {
+            "key": "Features",
+            "val": "Thoroughly analyzes context of incoming emails, detects fraud and impersonation attempts."
+          }
+        ],
+        "tags": [
+          "email security",
+          "phishing detection",
+          "AI agent"
+        ],
+        "rank": "#19"
+      },
+      {
+        "name": "Universal Cart",
+        "tagline": "A Google service designed to track users' shopping journeys across the internet.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "Follows shopping journeys across multiple devices, retailers, and over time."
+          }
+        ],
+        "tags": [
+          "shopping assistant",
+          "e-commerce",
+          "personal assistant",
+          "productivity"
+        ],
+        "rank": "#20"
+      },
+      {
+        "name": "Gemini Spark",
+        "tagline": "A 24/7 agentic personal assistant with Gmail integration.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "24/7 agentic assistant, Gmail integration, built from Gemini's base models and Google Antigravity's agentic harness."
+          }
+        ],
+        "tags": [
+          "personal assistant",
+          "AI agent",
+          "productivity",
+          "email integration"
+        ],
+        "rank": "#21"
       }
     ]
   },
@@ -4652,6 +4776,29 @@
           "AI Design"
         ],
         "rank": "#16"
+      },
+      {
+        "name": "Project Genie",
+        "tagline": "A Google DeepMind world model for simulating real-world environments.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google DeepMind"
+          },
+          {
+            "key": "Features",
+            "val": "Integrates Street View, creates immersive interactive world simulations for robotics, gaming, and travel, allows exploration of environments, weather changes, and rare scenarios."
+          }
+        ],
+        "tags": [
+          "world model",
+          "simulation",
+          "robotics",
+          "gaming",
+          "travel",
+          "environment generation"
+        ],
+        "rank": "#17"
       }
     ]
   },
