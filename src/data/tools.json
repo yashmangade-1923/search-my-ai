@@ -1321,6 +1321,26 @@
           "Mocap"
         ],
         "rank": "#14"
+      },
+      {
+        "name": "Clouted",
+        "tagline": "Takes the guesswork out of making short videos go viral.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Clouted (startup)"
+          },
+          {
+            "key": "Features",
+            "val": "Helps make short videos go viral, video clipping capabilities"
+          }
+        ],
+        "tags": [
+          "video clipping",
+          "social media",
+          "virality"
+        ],
+        "rank": "#15"
       }
     ]
   },
@@ -1981,6 +2001,27 @@
           "developer tools"
         ],
         "rank": "#25"
+      },
+      {
+        "name": "NanoClaw",
+        "tagline": "A secure, sandboxed environment for running AI agents, designed as an alternative to OpenClaw.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "NanoClaw creator"
+          },
+          {
+            "key": "Features",
+            "val": "Secure AI agent execution, runs sandboxed in a container, assists firms using AI agents"
+          }
+        ],
+        "tags": [
+          "AI agents",
+          "secure environment",
+          "containerization",
+          "agent deployment"
+        ],
+        "rank": "#26"
       }
     ]
   },
@@ -2870,6 +2911,26 @@
           "personalization"
         ],
         "rank": "#15"
+      },
+      {
+        "name": "Stability Audio 3.0",
+        "tagline": "An audio model capable of creating songs up to 6 minutes long.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Stability AI"
+          },
+          {
+            "key": "Features",
+            "val": "Generates 6-minute songs, small model runs on-device, generates two-minute tracks"
+          }
+        ],
+        "tags": [
+          "audio generation",
+          "music creation",
+          "on-device AI"
+        ],
+        "rank": "#16"
       }
     ]
   },
@@ -3436,6 +3497,26 @@
           "email integration"
         ],
         "rank": "#21"
+      },
+      {
+        "name": "IrisGo",
+        "tagline": "An AI desktop buddy that watches desktop activity and automates tasks.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "IrisGo (startup)"
+          },
+          {
+            "key": "Features",
+            "val": "Watches desktop activity, automatically learns how to do tasks, functions as an AI butler"
+          }
+        ],
+        "tags": [
+          "desktop automation",
+          "AI assistant",
+          "personal assistant"
+        ],
+        "rank": "#22"
       }
     ]
   },
