@@ -2473,6 +2473,27 @@
           "AI Agents"
         ],
         "rank": "#16"
+      },
+      {
+        "name": "The Path",
+        "tagline": "An AI therapy platform focused on safety and mental health support.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "The Path"
+          },
+          {
+            "key": "Features",
+            "val": "AI-powered therapy, scored 95 on the Vera-MH mental health safety AI benchmark."
+          }
+        ],
+        "tags": [
+          "Mental Health",
+          "Therapy",
+          "AI Chatbot",
+          "Wellness"
+        ],
+        "rank": "#17"
       }
     ]
   },
@@ -3517,6 +3538,27 @@
           "personal assistant"
         ],
         "rank": "#22"
+      },
+      {
+        "name": "NotebookLM",
+        "tagline": "Google's AI-powered research and note-taking assistant.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "AI-powered Q&A, briefing generation, knowledge organization from user-provided documents."
+          }
+        ],
+        "tags": [
+          "Research",
+          "Note-taking",
+          "Knowledge Management",
+          "Briefing"
+        ],
+        "rank": "#23"
       }
     ]
   },
