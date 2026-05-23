@@ -4922,6 +4922,27 @@
           "environment generation"
         ],
         "rank": "#17"
+      },
+      {
+        "name": "Microsoft Designer",
+        "tagline": "Create stunning designs and images with AI assistance for social media, invitations, and more.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Microsoft"
+          },
+          {
+            "key": "Features",
+            "val": "AI-powered design generation, image creation from text, social media post creation, invitation design, brand kit integration, DALL-E integration."
+          }
+        ],
+        "tags": [
+          "design",
+          "image generation",
+          "graphic design",
+          "microsoft"
+        ],
+        "rank": "#18"
       }
     ]
   },
