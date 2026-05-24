@@ -3559,6 +3559,28 @@
           "Briefing"
         ],
         "rank": "#23"
+      },
+      {
+        "name": "Rewind AI",
+        "tagline": "Your personal AI assistant that remembers everything you’ve seen, said, or heard.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Rewind AI"
+          },
+          {
+            "key": "Features",
+            "val": "Captures screen, audio, and text activity; intelligent search; personalized summaries; privacy-focused local processing."
+          }
+        ],
+        "tags": [
+          "Personal AI",
+          "Memory Assistant",
+          "Productivity",
+          "Desktop App",
+          "Privacy"
+        ],
+        "rank": "#24"
       }
     ]
   },
@@ -5224,6 +5246,28 @@
           "voice AI"
         ],
         "rank": "#10"
+      },
+      {
+        "name": "Tavily AI",
+        "tagline": "Real-time search API optimized for AI agents.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Tavily"
+          },
+          {
+            "key": "Features",
+            "val": "Optimized for AI agents; real-time results; supports various search types (web, news, academic); integrates with LLMs."
+          }
+        ],
+        "tags": [
+          "API",
+          "AI Agents",
+          "Search",
+          "Real-time data",
+          "Developer Tool"
+        ],
+        "rank": "#11"
       }
     ]
   }
