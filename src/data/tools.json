@@ -915,6 +915,47 @@
           "watermarking"
         ],
         "rank": "#15"
+      },
+      {
+        "name": "Upscale.media",
+        "tagline": "AI-powered image upscaler to enhance resolution without losing quality.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "PixelBin.io"
+          },
+          {
+            "key": "Features",
+            "val": "Enhance image resolution, remove background, enhance quality, supports various formats."
+          }
+        ],
+        "tags": [
+          "Image Upscaling",
+          "Photo Enhancement",
+          "AI Editor"
+        ],
+        "rank": "#16"
+      },
+      {
+        "name": "Remove.bg",
+        "tagline": "Remove image backgrounds automatically and for free.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Kaleido AI (part of Canva)"
+          },
+          {
+            "key": "Features",
+            "val": "Automatic background removal, transparent backgrounds, background editing, API access."
+          }
+        ],
+        "tags": [
+          "Image Editing",
+          "Background Remover",
+          "AI Editor",
+          "Photo Manipulation"
+        ],
+        "rank": "#17"
       }
     ]
   },
