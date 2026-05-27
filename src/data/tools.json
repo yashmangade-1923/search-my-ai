@@ -2063,6 +2063,26 @@
           "agent deployment"
         ],
         "rank": "#26"
+      },
+      {
+        "name": "OpenRouter",
+        "tagline": "A platform for accessing and managing multiple AI models.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenRouter"
+          },
+          {
+            "key": "Features",
+            "val": "Connects developers to a diverse ecosystem of AI models; facilitates integration and usage across different AI providers."
+          }
+        ],
+        "tags": [
+          "Multi-model AI",
+          "API Management",
+          "Developer Tools"
+        ],
+        "rank": "#27"
       }
     ]
   },
