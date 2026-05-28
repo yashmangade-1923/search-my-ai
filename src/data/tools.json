@@ -2083,6 +2083,26 @@
           "Developer Tools"
         ],
         "rank": "#27"
+      },
+      {
+        "name": "Cognition",
+        "tagline": "AI software engineering assistant",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Cognition"
+          },
+          {
+            "key": "Features",
+            "val": "Provides AI-powered assistance for software development tasks."
+          }
+        ],
+        "tags": [
+          "coding",
+          "AI assistant",
+          "development"
+        ],
+        "rank": "#28"
       }
     ]
   },
