@@ -2575,6 +2575,27 @@
           "Wellness"
         ],
         "rank": "#17"
+      },
+      {
+        "name": "Sesame",
+        "tagline": "A conversational AI app designed for natural, human-like back-and-forth interactions.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Sesame (from Oculus founders)"
+          },
+          {
+            "key": "Features",
+            "val": "Conversational AI agents, natural language interaction, iOS app"
+          }
+        ],
+        "tags": [
+          "Conversational AI",
+          "Chatbot",
+          "Mobile App",
+          "AI Agents"
+        ],
+        "rank": "#18"
       }
     ]
   },
@@ -3662,6 +3683,27 @@
           "Privacy"
         ],
         "rank": "#24"
+      },
+      {
+        "name": "StackAI",
+        "tagline": "A no-code platform for building AI agents and automating workflows, now integrated with Asana.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Acquired by Asana"
+          },
+          {
+            "key": "Features",
+            "val": "No-code agent builder, workflow automation, integration with Asana's suite"
+          }
+        ],
+        "tags": [
+          "No-code",
+          "AI Agents",
+          "Workflow Automation",
+          "Productivity"
+        ],
+        "rank": "#25"
       }
     ]
   },
