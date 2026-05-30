@@ -2596,6 +2596,48 @@
           "AI Agents"
         ],
         "rank": "#18"
+      },
+      {
+        "name": "Phi-3",
+        "tagline": "A family of small, yet highly capable large language models from Microsoft, optimized for local deployment.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Microsoft"
+          },
+          {
+            "key": "Features",
+            "val": "Efficient, multi-modal capabilities (mini-series), optimized for edge devices and local deployment, suitable for a range of general AI tasks."
+          }
+        ],
+        "tags": [
+          "LLM",
+          "Generative AI",
+          "Local AI",
+          "Small Language Model"
+        ],
+        "rank": "#19"
+      },
+      {
+        "name": "Llama 3",
+        "tagline": "Meta's latest generation of open-source large language models, designed for broad applicability.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Meta"
+          },
+          {
+            "key": "Features",
+            "val": "Available in various sizes (8B, 70B, 400B+), strong performance across benchmarks, instruction-tuned versions, open-source for developers to build applications."
+          }
+        ],
+        "tags": [
+          "LLM",
+          "Open Source",
+          "Generative AI",
+          "Large Language Model"
+        ],
+        "rank": "#20"
       }
     ]
   },
