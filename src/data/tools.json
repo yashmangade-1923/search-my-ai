@@ -956,6 +956,28 @@
           "Photo Manipulation"
         ],
         "rank": "#17"
+      },
+      {
+        "name": "Topaz Photo AI",
+        "tagline": "Intelligent photo enhancement and upscaling software.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Topaz Labs"
+          },
+          {
+            "key": "Features",
+            "val": "Denoise AI, Sharpen AI, Upscale AI, Autopilot for automatic detection and enhancement."
+          }
+        ],
+        "tags": [
+          "Image Editing",
+          "Photo Enhancement",
+          "Upscaling",
+          "Denoising",
+          "Sharpening"
+        ],
+        "rank": "#18"
       }
     ]
   },
@@ -1382,6 +1404,28 @@
           "virality"
         ],
         "rank": "#15"
+      },
+      {
+        "name": "CapCut AI",
+        "tagline": "AI-powered video editing for social media and content creation.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "ByteDance"
+          },
+          {
+            "key": "Features",
+            "val": "Auto-captioning, background removal, text-to-speech, smart cutouts, video stabilization, generative AI features for video creation."
+          }
+        ],
+        "tags": [
+          "Video Editing",
+          "AI Video",
+          "Content Creation",
+          "Social Media",
+          "Mobile App"
+        ],
+        "rank": "#16"
       }
     ]
   },
