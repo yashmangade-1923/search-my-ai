@@ -978,6 +978,28 @@
           "Sharpening"
         ],
         "rank": "#18"
+      },
+      {
+        "name": "Magic Studio",
+        "tagline": "AI photo editor for magic edits.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Magic Studio"
+          },
+          {
+            "key": "Features",
+            "val": "Instant edits, background removal, image upscaling, object removal, text to image"
+          }
+        ],
+        "tags": [
+          "photo editing",
+          "image enhancement",
+          "ai image editor",
+          "background removal",
+          "generative fill"
+        ],
+        "rank": "#19"
       }
     ]
   },
@@ -3790,6 +3812,29 @@
           "Productivity"
         ],
         "rank": "#25"
+      },
+      {
+        "name": "Airtable AI",
+        "tagline": "AI-powered workflows for your Airtable bases.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Airtable"
+          },
+          {
+            "key": "Features",
+            "val": "Generate text, summarize records, automate data entry, classify information, extract insights"
+          }
+        ],
+        "tags": [
+          "database",
+          "automation",
+          "data management",
+          "no-code",
+          "ai assistant",
+          "workflow"
+        ],
+        "rank": "#26"
       }
     ]
   },
