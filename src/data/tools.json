@@ -2169,6 +2169,28 @@
           "development"
         ],
         "rank": "#28"
+      },
+      {
+        "name": "Adaptive Spec-driven Scoring for Evaluation and Regression Testing",
+        "tagline": "An open source framework for developers to spin up AI behavior tests using text descriptions.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Microsoft"
+          },
+          {
+            "key": "Features",
+            "val": "Spin up AI behavior tests, uses text descriptions, open source framework, AI evaluations, regression testing."
+          }
+        ],
+        "tags": [
+          "AI Evaluation",
+          "Testing",
+          "Open Source",
+          "Developer Tools",
+          "AI Safety"
+        ],
+        "rank": "#29"
       }
     ]
   },
@@ -2704,6 +2726,28 @@
           "Large Language Model"
         ],
         "rank": "#20"
+      },
+      {
+        "name": "Microsoft Scout",
+        "tagline": "A new AI personal assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Microsoft"
+          },
+          {
+            "key": "Features",
+            "val": "AI personal assistant, inspired by OpenClaw, integrates with Microsoft 365, enhances productivity."
+          }
+        ],
+        "tags": [
+          "AI Assistant",
+          "Productivity",
+          "Microsoft 365",
+          "Personal Assistant",
+          "Chatbot"
+        ],
+        "rank": "#21"
       }
     ]
   },
