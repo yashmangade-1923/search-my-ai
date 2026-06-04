@@ -1000,6 +1000,26 @@
           "generative fill"
         ],
         "rank": "#19"
+      },
+      {
+        "name": "Dreambeans",
+        "tagline": "Transforms personal data into AI-illustrated stories or cartoons.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "Creates personalized AI-illustrated narratives using data from your Google account."
+          }
+        ],
+        "tags": [
+          "Image Generation",
+          "Personalization",
+          "Storytelling"
+        ],
+        "rank": "#20"
       }
     ]
   },
