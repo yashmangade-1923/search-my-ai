@@ -2768,6 +2768,27 @@
           "Chatbot"
         ],
         "rank": "#21"
+      },
+      {
+        "name": "Poke",
+        "tagline": "AI agent platform enabling interaction through simple text messages.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Poke (the startup)"
+          },
+          {
+            "key": "Features",
+            "val": "Allows users to interact with AI agents via text messages; First AI agent approved for Apple’s Messages for Business platform."
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Messaging",
+          "Business",
+          "Text-based"
+        ],
+        "rank": "#22"
       }
     ]
   },
