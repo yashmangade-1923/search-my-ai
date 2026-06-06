@@ -3920,6 +3920,28 @@
           "workflow"
         ],
         "rank": "#26"
+      },
+      {
+        "name": "Apple Intelligence",
+        "tagline": "Apple's personal intelligence system integrating generative AI models deeply across its devices and applications.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Apple"
+          },
+          {
+            "key": "Features",
+            "val": "System-wide generative AI capabilities, enhanced Siri, context-aware personalized assistance, on-device processing for privacy."
+          }
+        ],
+        "tags": [
+          "Generative AI",
+          "Operating System Integration",
+          "Personal Assistant",
+          "Privacy",
+          "Productivity Platform"
+        ],
+        "rank": "#27"
       }
     ]
   },
@@ -4316,6 +4338,28 @@
           "Email Marketing"
         ],
         "rank": "#13"
+      },
+      {
+        "name": "Facebook Creator Assistant",
+        "tagline": "An AI assistant on Facebook to help creators understand performance, optimize content, and manage engagement.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Meta"
+          },
+          {
+            "key": "Features",
+            "val": "Analyzes creator performance metrics, suggests optimal posting times, summarizes comments and engagement insights."
+          }
+        ],
+        "tags": [
+          "Social Media",
+          "Content Creation",
+          "Creator Tools",
+          "Analytics",
+          "Engagement"
+        ],
+        "rank": "#14"
       }
     ]
   },
