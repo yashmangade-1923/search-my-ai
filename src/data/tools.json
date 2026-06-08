@@ -2211,6 +2211,28 @@
           "AI Safety"
         ],
         "rank": "#29"
+      },
+      {
+        "name": "SuperAGI",
+        "tagline": "Open-source autonomous AI agent framework for building and deploying AI agents.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "SuperAGI"
+          },
+          {
+            "key": "Features",
+            "val": "Build, deploy, and run autonomous AI agents; graphical user interface for agent management; agent collaboration and communication; extensible toolkit."
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Open Source",
+          "Development",
+          "Framework",
+          "Automation"
+        ],
+        "rank": "#30"
       }
     ]
   },
@@ -3942,6 +3964,27 @@
           "Productivity Platform"
         ],
         "rank": "#27"
+      },
+      {
+        "name": "Adept AI",
+        "tagline": "An AI agent that can perform any software task by interacting with applications and APIs.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Adept AI"
+          },
+          {
+            "key": "Features",
+            "val": "Understand and execute complex commands across software; learn from human demonstrations; automate workflows across various applications."
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Automation",
+          "Productivity",
+          "Software Interaction"
+        ],
+        "rank": "#28"
       }
     ]
   },
