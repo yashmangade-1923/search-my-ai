@@ -1020,6 +1020,26 @@
           "Storytelling"
         ],
         "rank": "#20"
+      },
+      {
+        "name": "Apple Image Playground",
+        "tagline": "Apple's AI image generator for creative expression.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Apple"
+          },
+          {
+            "key": "Features",
+            "val": "Generates images from text prompts; expected to receive a significant makeover for enhanced competitiveness."
+          }
+        ],
+        "tags": [
+          "Image Generation",
+          "AI Art",
+          "Creative Tool"
+        ],
+        "rank": "#21"
       }
     ]
   },
