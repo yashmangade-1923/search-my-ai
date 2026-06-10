@@ -4909,6 +4909,28 @@
           "Python"
         ],
         "rank": "#17"
+      },
+      {
+        "name": "Sandstone",
+        "tagline": "AI platform for in-house legal teams.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Sandstone"
+          },
+          {
+            "key": "Features",
+            "val": "Applies AI to legal workflows and data analysis for internal legal departments."
+          }
+        ],
+        "tags": [
+          "legal tech",
+          "enterprise AI",
+          "legal AI",
+          "productivity",
+          "data analysis"
+        ],
+        "rank": "#18"
       }
     ]
   },
