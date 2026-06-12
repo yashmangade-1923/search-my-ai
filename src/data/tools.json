@@ -2253,6 +2253,27 @@
           "Automation"
         ],
         "rank": "#30"
+      },
+      {
+        "name": "Niteshift",
+        "tagline": "An AI coding agent startup focused on preventing lock-in with major AI model providers.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Niteshift"
+          },
+          {
+            "key": "Features",
+            "val": "Provides AI coding agent capabilities, aiming to give companies more power and control over their AI models rather than being dependent on specific providers."
+          }
+        ],
+        "tags": [
+          "AI Coding",
+          "Developer Tools",
+          "Code Generation",
+          "Agentic AI"
+        ],
+        "rank": "#31"
       }
     ]
   },
@@ -2831,6 +2852,47 @@
           "Text-based"
         ],
         "rank": "#22"
+      },
+      {
+        "name": "Ask DoorDash",
+        "tagline": "An AI chatbot for DoorDash that allows users to order with natural language prompts and photos.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "DoorDash"
+          },
+          {
+            "key": "Features",
+            "val": "Users can search and order using their own words or photos, eliminating the need to scroll through restaurants and stores."
+          }
+        ],
+        "tags": [
+          "Food Delivery",
+          "AI Assistant",
+          "E-commerce",
+          "Conversational AI"
+        ],
+        "rank": "#23"
+      },
+      {
+        "name": "Fable",
+        "tagline": "An Anthropic AI model criticized for strict guardrails, particularly for cybersecurity work.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Anthropic"
+          },
+          {
+            "key": "Features",
+            "val": "An AI model designed with guardrails, though these have been noted as too strict for certain applications like cybersecurity research."
+          }
+        ],
+        "tags": [
+          "AI Model",
+          "Generative AI",
+          "Safety Guardrails"
+        ],
+        "rank": "#24"
       }
     ]
   },
@@ -3289,6 +3351,26 @@
           "on-device AI"
         ],
         "rank": "#16"
+      },
+      {
+        "name": "Deezer AI Music Identifier",
+        "tagline": "A tool from Deezer that identifies AI-generated music across various streaming platforms.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Deezer"
+          },
+          {
+            "key": "Features",
+            "val": "Scans playlists from Spotify, Apple Music, and other platforms to identify AI music."
+          }
+        ],
+        "tags": [
+          "AI Music Detection",
+          "Audio Analysis",
+          "Streaming"
+        ],
+        "rank": "#17"
       }
     ]
   },
@@ -4005,6 +4087,27 @@
           "Software Interaction"
         ],
         "rank": "#28"
+      },
+      {
+        "name": "Pool",
+        "tagline": "An app that automatically organizes screenshots, tracks original links, and helps rediscover saved content.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Pool"
+          },
+          {
+            "key": "Features",
+            "val": "Automatically sorts screenshots into personalized collections, tracks down original links, and helps users rediscover products, recipes, travel ideas, and more."
+          }
+        ],
+        "tags": [
+          "Screenshot Management",
+          "Organization",
+          "Productivity",
+          "Content Curation"
+        ],
+        "rank": "#29"
       }
     ]
   },
