@@ -1488,6 +1488,27 @@
           "Mobile App"
         ],
         "rank": "#16"
+      },
+      {
+        "name": "Avataar AI",
+        "tagline": "Distilled video model built for India’s scale, offering cost-effective video generation.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Avataar AI"
+          },
+          {
+            "key": "Features",
+            "val": "Video generation, cost-effective ($0.005 per second), culturally aware, built for large scale."
+          }
+        ],
+        "tags": [
+          "Video Generation",
+          "AI Model",
+          "Cost-effective",
+          "Scalable"
+        ],
+        "rank": "#17"
       }
     ]
   },
