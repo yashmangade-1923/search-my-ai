@@ -4129,6 +4129,27 @@
           "Content Curation"
         ],
         "rank": "#29"
+      },
+      {
+        "name": "Prometheus",
+        "tagline": "A 'physical AI' platform designed as an 'artificial general engineer' to automate heavy engineering and drug design.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Prometheus (backed by Jeff Bezos)"
+          },
+          {
+            "key": "Features",
+            "val": "Automates heavy engineering tasks, facilitates drug design and discovery."
+          }
+        ],
+        "tags": [
+          "engineering automation",
+          "drug discovery",
+          "physical AI",
+          "AGI"
+        ],
+        "rank": "#30"
       }
     ]
   },
