@@ -477,6 +477,27 @@
           "Clarity"
         ],
         "rank": "#16"
+      },
+      {
+        "name": "DeepL",
+        "tagline": "AI-powered translation for text, files, and websites.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "DeepL SE"
+          },
+          {
+            "key": "Features",
+            "val": "High-quality translations across many languages, document translation, glossary, API access."
+          }
+        ],
+        "tags": [
+          "Translation",
+          "Multilingual",
+          "Productivity",
+          "AI Assistant"
+        ],
+        "rank": "#17"
       }
     ]
   },
@@ -2295,6 +2316,29 @@
           "Agentic AI"
         ],
         "rank": "#31"
+      },
+      {
+        "name": "Open Interpreter",
+        "tagline": "Empower large language models to run code on your computer, bridging the gap between LLMs and real-world tasks.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Open-source (primarily by Killian Valkhof)"
+          },
+          {
+            "key": "Features",
+            "val": "Executes code (Python, JavaScript, Shell, etc.), interacts with files and system, provides secure sandbox environment, extendable."
+          }
+        ],
+        "tags": [
+          "Open Source",
+          "LLM",
+          "Code Execution",
+          "Automation",
+          "Developer Tool",
+          "AI Agent"
+        ],
+        "rank": "#32"
       }
     ]
   },
