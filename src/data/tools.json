@@ -2339,6 +2339,27 @@
           "AI Agent"
         ],
         "rank": "#32"
+      },
+      {
+        "name": "Agentforce",
+        "tagline": "Salesforce's enterprise platform for building custom AI agents",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Salesforce"
+          },
+          {
+            "key": "Features",
+            "val": "Enables businesses to build custom AI agents, automates tasks"
+          }
+        ],
+        "tags": [
+          "Enterprise AI",
+          "AI Agent Builder",
+          "Automation",
+          "Low-Code/No-Code"
+        ],
+        "rank": "#33"
       }
     ]
   },
@@ -2958,6 +2979,26 @@
           "Safety Guardrails"
         ],
         "rank": "#24"
+      },
+      {
+        "name": "Fin",
+        "tagline": "AI customer service platform acquired by Salesforce",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Salesforce (Acquired)"
+          },
+          {
+            "key": "Features",
+            "val": "Improves Agentforce, builds custom AI agents, automates customer service tasks"
+          }
+        ],
+        "tags": [
+          "Customer Service",
+          "AI Agents",
+          "Automation"
+        ],
+        "rank": "#25"
       }
     ]
   },
