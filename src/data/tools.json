@@ -2999,6 +2999,27 @@
           "Automation"
         ],
         "rank": "#25"
+      },
+      {
+        "name": "Respond.io",
+        "tagline": "An AI agent-powered messaging app for managing customer inquiries.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Respond.io"
+          },
+          {
+            "key": "Features",
+            "val": "Uses AI agents to handle high volumes of customer inquiries, pricing based on conversations."
+          }
+        ],
+        "tags": [
+          "Customer Service",
+          "AI Agent",
+          "Messaging",
+          "CRM"
+        ],
+        "rank": "#26"
       }
     ]
   },
@@ -4235,6 +4256,26 @@
           "AGI"
         ],
         "rank": "#30"
+      },
+      {
+        "name": "Plaud",
+        "tagline": "AI-powered software for meeting notetaking and transcription.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Plaud"
+          },
+          {
+            "key": "Features",
+            "val": "Processes meetings to generate AI-powered notes, handles transcription."
+          }
+        ],
+        "tags": [
+          "Meeting Assistant",
+          "Notetaking",
+          "Transcription"
+        ],
+        "rank": "#31"
       }
     ]
   },
