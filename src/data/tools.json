@@ -1530,6 +1530,28 @@
           "Scalable"
         ],
         "rank": "#17"
+      },
+      {
+        "name": "Google Vids",
+        "tagline": "AI-powered video creation assistant for business communications.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "Helps create videos with AI-generated scripts, storyboards, and voiceovers. Part of Google Workspace."
+          }
+        ],
+        "tags": [
+          "Video generation",
+          "business video",
+          "presentation",
+          "AI assistant",
+          "Workspace"
+        ],
+        "rank": "#18"
       }
     ]
   },
@@ -3020,6 +3042,28 @@
           "CRM"
         ],
         "rank": "#26"
+      },
+      {
+        "name": "Kimi Chat",
+        "tagline": "Chatbot with an exceptionally long context window for complex document understanding.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Moonshot AI"
+          },
+          {
+            "key": "Features",
+            "val": "200k token context window, supports multi-turn conversations, excels at summarizing and analyzing long documents."
+          }
+        ],
+        "tags": [
+          "LLM",
+          "chatbot",
+          "long context",
+          "document analysis",
+          "productivity"
+        ],
+        "rank": "#27"
       }
     ]
   },
