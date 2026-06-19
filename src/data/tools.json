@@ -2382,6 +2382,26 @@
           "Low-Code/No-Code"
         ],
         "rank": "#33"
+      },
+      {
+        "name": "DeductiveAI",
+        "tagline": "A startup that uses AI to catch and resolve bugs in software.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "DeductiveAI"
+          },
+          {
+            "key": "Features",
+            "val": "AI-powered bug catching and resolution for software."
+          }
+        ],
+        "tags": [
+          "bug fixing",
+          "code debugging",
+          "ai assistance"
+        ],
+        "rank": "#34"
       }
     ]
   },
@@ -4320,6 +4340,28 @@
           "Transcription"
         ],
         "rank": "#31"
+      },
+      {
+        "name": "Kē",
+        "tagline": "A wellness app featuring an AI digital clone for personal growth, fitness, and relationships.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Karamo Brown"
+          },
+          {
+            "key": "Features",
+            "val": "Wellness coaching, AI digital clone, meditation, fitness, nutrition, sobriety, relationships, personal growth."
+          }
+        ],
+        "tags": [
+          "wellness",
+          "mental health",
+          "personal development",
+          "ai companion",
+          "digital clone"
+        ],
+        "rank": "#32"
       }
     ]
   },
@@ -5246,6 +5288,27 @@
           "data analysis"
         ],
         "rank": "#18"
+      },
+      {
+        "name": "Baseten",
+        "tagline": "An AI inference startup, providing a platform for deploying and serving AI models.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Baseten"
+          },
+          {
+            "key": "Features",
+            "val": "AI inference platform, model deployment."
+          }
+        ],
+        "tags": [
+          "MLOps",
+          "AI deployment",
+          "model serving",
+          "machine learning"
+        ],
+        "rank": "#19"
       }
     ]
   },
