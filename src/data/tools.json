@@ -1552,6 +1552,26 @@
           "Workspace"
         ],
         "rank": "#18"
+      },
+      {
+        "name": "Dotmo",
+        "tagline": "A new company spun off from Snap Inc. dedicated to AI video development.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Spun off from Snap Inc."
+          },
+          {
+            "key": "Features",
+            "val": "Focuses on AI video development and related platforms."
+          }
+        ],
+        "tags": [
+          "AI Video",
+          "Video Development",
+          "Video Generation"
+        ],
+        "rank": "#19"
       }
     ]
   },
