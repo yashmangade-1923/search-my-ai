@@ -6134,6 +6134,26 @@
           "Developer Tool"
         ],
         "rank": "#11"
+      },
+      {
+        "name": "In the Weights",
+        "tagline": "An AI-centric vanity search tool.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "N/A"
+          },
+          {
+            "key": "Features",
+            "val": "AI-centric vanity search, provides a 'score'"
+          }
+        ],
+        "tags": [
+          "Search",
+          "Vanity",
+          "AI-centric"
+        ],
+        "rank": "#12"
       }
     ]
   }
