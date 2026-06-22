@@ -2422,6 +2422,29 @@
           "ai assistance"
         ],
         "rank": "#34"
+      },
+      {
+        "name": "CrewAI",
+        "tagline": "A powerful framework for orchestrating role-playing autonomous AI agents to collaborate and solve complex tasks.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "João Moura (Open Source)"
+          },
+          {
+            "key": "Features",
+            "val": "Defines and assigns roles to agents, facilitates multi-agent collaboration, automates complex workflows, integrates with various Large Language Models (LLMs), supports sequential and hierarchical task execution."
+          }
+        ],
+        "tags": [
+          "ai agents",
+          "multi-agent system",
+          "framework",
+          "python",
+          "developer tools",
+          "automation"
+        ],
+        "rank": "#35"
       }
     ]
   },
@@ -4382,6 +4405,28 @@
           "digital clone"
         ],
         "rank": "#32"
+      },
+      {
+        "name": "Copilot for Microsoft 365",
+        "tagline": "AI assistant integrated into Microsoft 365 apps to boost productivity and enhance workflows.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Microsoft"
+          },
+          {
+            "key": "Features",
+            "val": "Generates drafts in Word, analyzes data in Excel, creates presentations in PowerPoint, manages emails in Outlook, summarizes meetings in Teams, streamlines business processes."
+          }
+        ],
+        "tags": [
+          "productivity",
+          "enterprise",
+          "microsoft 365",
+          "ai assistant",
+          "business"
+        ],
+        "rank": "#33"
       }
     ]
   },
