@@ -2445,6 +2445,27 @@
           "automation"
         ],
         "rank": "#35"
+      },
+      {
+        "name": "Copilot Studio",
+        "tagline": "Build, test, and publish custom generative AI copilots.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Microsoft"
+          },
+          {
+            "key": "Features",
+            "val": "Low-code copilot creation, integration with data sources, custom GPTs, RAG capabilities."
+          }
+        ],
+        "tags": [
+          "low-code",
+          "copilot builder",
+          "custom AI",
+          "enterprise"
+        ],
+        "rank": "#36"
       }
     ]
   },
@@ -5374,6 +5395,27 @@
           "machine learning"
         ],
         "rank": "#19"
+      },
+      {
+        "name": "Chatbot Arena",
+        "tagline": "A crowdsourced platform for evaluating and comparing large language models.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "LMSYS Org"
+          },
+          {
+            "key": "Features",
+            "val": "Side-by-side LLM comparisons, Elo rating system, user voting, open-source model integration."
+          }
+        ],
+        "tags": [
+          "LLM evaluation",
+          "benchmarking",
+          "opensource",
+          "comparison"
+        ],
+        "rank": "#20"
       }
     ]
   },
