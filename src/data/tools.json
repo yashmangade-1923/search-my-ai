@@ -4448,6 +4448,28 @@
           "business"
         ],
         "rank": "#33"
+      },
+      {
+        "name": "Fika Jobs",
+        "tagline": "A video-first hiring platform combining AI interview agents with short-form video profiles.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Fika Jobs"
+          },
+          {
+            "key": "Features",
+            "val": "AI interview agents, short-form video profiles, feels like a cross between LinkedIn and TikTok for hiring."
+          }
+        ],
+        "tags": [
+          "Hiring",
+          "Recruitment",
+          "Video Interviews",
+          "AI Agents",
+          "HR Tech"
+        ],
+        "rank": "#34"
       }
     ]
   },
