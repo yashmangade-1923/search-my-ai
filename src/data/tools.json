@@ -4470,6 +4470,28 @@
           "HR Tech"
         ],
         "rank": "#34"
+      },
+      {
+        "name": "Claude Tag",
+        "tagline": "An always-on AI teammate for Slack that captures organizational context and institutional knowledge.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Anthropic"
+          },
+          {
+            "key": "Features",
+            "val": "Slack integration, captures organizational context, learns from Slack messages, supports enterprise workflows"
+          }
+        ],
+        "tags": [
+          "Slack integration",
+          "Enterprise AI",
+          "Knowledge Management",
+          "AI Assistant",
+          "Productivity"
+        ],
+        "rank": "#35"
       }
     ]
   },
