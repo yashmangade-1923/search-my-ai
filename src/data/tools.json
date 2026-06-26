@@ -498,6 +498,27 @@
           "AI Assistant"
         ],
         "rank": "#17"
+      },
+      {
+        "name": "GPT 5.6",
+        "tagline": "OpenAI's newest, more powerful large language model for advanced language tasks.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Features",
+            "val": "Advanced natural language understanding and generation, conversational AI capabilities, improved reasoning and context awareness."
+          }
+        ],
+        "tags": [
+          "Large Language Model",
+          "Generative AI",
+          "Text Generation",
+          "Conversational AI"
+        ],
+        "rank": "#18"
       }
     ]
   },
@@ -1061,6 +1082,26 @@
           "Creative Tool"
         ],
         "rank": "#21"
+      },
+      {
+        "name": "Un-0",
+        "tagline": "An image-generation system tool designed to replicate conventional AI systems.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Creator not specified (associated with Databricks' former AI chief)"
+          },
+          {
+            "key": "Features",
+            "val": "Image generation, replication of traditional AI system behaviors, potential for power-efficient AI."
+          }
+        ],
+        "tags": [
+          "Image Generation",
+          "Generative AI",
+          "AI System Replication"
+        ],
+        "rank": "#22"
       }
     ]
   },
@@ -5460,6 +5501,27 @@
           "comparison"
         ],
         "rank": "#20"
+      },
+      {
+        "name": "Patronus AI",
+        "tagline": "A platform for building digital worlds to stress-test and evaluate AI agents.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Patronus AI"
+          },
+          {
+            "key": "Features",
+            "val": "AI agent evaluation, stress testing, simulated digital environments, safety and robustness assessment for AI."
+          }
+        ],
+        "tags": [
+          "AI Testing",
+          "Agent Evaluation",
+          "AI Safety",
+          "Simulation"
+        ],
+        "rank": "#21"
       }
     ]
   },
