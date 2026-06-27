@@ -3189,6 +3189,27 @@
           "productivity"
         ],
         "rank": "#27"
+      },
+      {
+        "name": "Open Assistant",
+        "tagline": "A chat-based AI assistant that understands tasks, can interact with third-party systems, and retrieve information. An open-source, community-driven alternative to proprietary chatbots.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "LAION (supported by the community)"
+          },
+          {
+            "key": "Features",
+            "val": "Conversational AI, task execution, information retrieval, multilingual support, open-source model access"
+          }
+        ],
+        "tags": [
+          "Open Source",
+          "Chatbot",
+          "Assistant",
+          "LLM"
+        ],
+        "rank": "#28"
       }
     ]
   },
@@ -5522,6 +5543,28 @@
           "Simulation"
         ],
         "rank": "#21"
+      },
+      {
+        "name": "Weights & Biases",
+        "tagline": "The MLOps platform for experiment tracking, dataset versioning, and model management for machine learning teams.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Weights & Biases"
+          },
+          {
+            "key": "Features",
+            "val": "Experiment tracking, model versioning, dataset versioning, hyperparameter optimization, collaborative dashboards, report generation"
+          }
+        ],
+        "tags": [
+          "MLOps",
+          "Experiment Tracking",
+          "Model Management",
+          "Data Science",
+          "Deep Learning"
+        ],
+        "rank": "#22"
       }
     ]
   },
