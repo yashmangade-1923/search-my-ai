@@ -3210,6 +3210,49 @@
           "LLM"
         ],
         "rank": "#28"
+      },
+      {
+        "name": "Reka Core",
+        "tagline": "A state-of-the-art multimodal AI model known for its strong performance and reasoning capabilities.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Reka AI"
+          },
+          {
+            "key": "Features",
+            "val": "Multimodal understanding (text, images, video), advanced reasoning, code generation, multilingual support."
+          }
+        ],
+        "tags": [
+          "Multimodal",
+          "Large Language Model",
+          "AI Model",
+          "Generative AI"
+        ],
+        "rank": "#29"
+      },
+      {
+        "name": "Mixtral",
+        "tagline": "An open-source, sparse mixture-of-experts (SMoE) large language model by Mistral AI, offering high performance and efficiency.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Mistral AI"
+          },
+          {
+            "key": "Features",
+            "val": "Open-source, high performance, efficient inference, supports multiple languages, code generation."
+          }
+        ],
+        "tags": [
+          "Large Language Model",
+          "Open Source",
+          "Mixture of Experts",
+          "AI Model",
+          "Generative AI"
+        ],
+        "rank": "#30"
       }
     ]
   },
