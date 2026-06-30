@@ -2507,6 +2507,26 @@
           "enterprise"
         ],
         "rank": "#36"
+      },
+      {
+        "name": "Base44",
+        "tagline": "A vibe coding platform rolling out its own AI model to assist developers.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Wix-owned"
+          },
+          {
+            "key": "Features",
+            "val": "Internally developed AI model aiming to outperform frontier models; assists with coding."
+          }
+        ],
+        "tags": [
+          "Coding",
+          "AI Model",
+          "Development"
+        ],
+        "rank": "#37"
       }
     ]
   },
