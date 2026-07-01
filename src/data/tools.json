@@ -1102,6 +1102,25 @@
           "AI System Replication"
         ],
         "rank": "#22"
+      },
+      {
+        "name": "Nano Banana 2 Lite",
+        "tagline": "A faster, cheaper image generator from Google.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "Faster and cheaper image generation."
+          }
+        ],
+        "tags": [
+          "image generation",
+          "google"
+        ],
+        "rank": "#23"
       }
     ]
   },
@@ -3273,6 +3292,26 @@
           "Generative AI"
         ],
         "rank": "#30"
+      },
+      {
+        "name": "Lumo",
+        "tagline": "Proton’s privacy-focused AI chatbot with upgraded capabilities.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Proton"
+          },
+          {
+            "key": "Features",
+            "val": "Privacy-focused AI chatbot, upgraded capabilities (Lumo 2.0)."
+          }
+        ],
+        "tags": [
+          "chatbot",
+          "privacy",
+          "proton"
+        ],
+        "rank": "#31"
       }
     ]
   },
@@ -4617,6 +4656,48 @@
           "Productivity"
         ],
         "rank": "#35"
+      },
+      {
+        "name": "OpenClaw",
+        "tagline": "Free open source agentic program available on Android and iOS.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Open Source"
+          },
+          {
+            "key": "Features",
+            "val": "Open source agentic program, available on Android and iOS."
+          }
+        ],
+        "tags": [
+          "agent",
+          "open source",
+          "mobile",
+          "productivity"
+        ],
+        "rank": "#36"
+      },
+      {
+        "name": "Acti",
+        "tagline": "AI agent integrated into a smartphone keyboard for iOS and Android.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Acti"
+          },
+          {
+            "key": "Features",
+            "val": "Smartphone keyboard for iOS and Android, works across apps, create custom AI-powered shortcuts using natural language."
+          }
+        ],
+        "tags": [
+          "ai assistant",
+          "mobile",
+          "keyboard",
+          "productivity"
+        ],
+        "rank": "#37"
       }
     ]
   },
