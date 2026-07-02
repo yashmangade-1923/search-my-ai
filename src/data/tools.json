@@ -5709,6 +5709,26 @@
           "Deep Learning"
         ],
         "rank": "#22"
+      },
+      {
+        "name": "Venice AI",
+        "tagline": "A privacy-first AI platform that has achieved unicorn status.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Venice AI"
+          },
+          {
+            "key": "Features",
+            "val": "Privacy-first approach, AI platform, profitable with high annual revenue."
+          }
+        ],
+        "tags": [
+          "Privacy",
+          "AI Platform",
+          "Data Management"
+        ],
+        "rank": "#23"
       }
     ]
   },
