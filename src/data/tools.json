@@ -2546,6 +2546,51 @@
           "Development"
         ],
         "rank": "#37"
+      },
+      {
+        "name": "Ollama",
+        "tagline": "Run large language models locally on your computer.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Ollama"
+          },
+          {
+            "key": "Features",
+            "val": "Download and run various open-source LLMs (Llama 2, Mistral, Gemma, etc.), command-line interface, desktop application, provides an OpenAI-compatible API for local inference."
+          }
+        ],
+        "tags": [
+          "Local LLMs",
+          "Open-source",
+          "Developer tools",
+          "Offline AI",
+          "CLI",
+          "Desktop app"
+        ],
+        "rank": "#38"
+      },
+      {
+        "name": "LM Studio",
+        "tagline": "Discover, download, and run local Large Language Models (LLMs) with ease.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "GGUF.dev"
+          },
+          {
+            "key": "Features",
+            "val": "User-friendly GUI for browsing and downloading GGUF-compatible models, local inference on CPU/GPU, built-in chat UI, local server for API access, supports various open-source models."
+          }
+        ],
+        "tags": [
+          "Local LLMs",
+          "Open-source",
+          "Desktop application",
+          "Offline AI",
+          "GUI"
+        ],
+        "rank": "#39"
       }
     ]
   },
