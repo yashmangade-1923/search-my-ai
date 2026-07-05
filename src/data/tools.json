@@ -519,6 +519,27 @@
           "Conversational AI"
         ],
         "rank": "#18"
+      },
+      {
+        "name": "Gemma",
+        "tagline": "A family of lightweight, state-of-the-art open models built from Google DeepMind research.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google DeepMind"
+          },
+          {
+            "key": "Features",
+            "val": "Open-source, lightweight, pre-trained and instruction-tuned models, suitable for deployment on various devices, from laptops to data centers, for text generation and understanding."
+          }
+        ],
+        "tags": [
+          "Open-source",
+          "Language Model",
+          "Text Generation",
+          "Developer Tool"
+        ],
+        "rank": "#19"
       }
     ]
   },
@@ -2591,6 +2612,28 @@
           "GUI"
         ],
         "rank": "#39"
+      },
+      {
+        "name": "NVIDIA NeMo",
+        "tagline": "An end-to-end framework for building, customizing, and deploying generative AI models.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "NVIDIA"
+          },
+          {
+            "key": "Features",
+            "val": "Tools for large language models (LLMs), including data processing, model training, fine-tuning, and deployment. Supports various tasks such as conversational AI, code generation, and content creation."
+          }
+        ],
+        "tags": [
+          "AI Framework",
+          "LLM Development",
+          "Model Training",
+          "Deployment",
+          "Generative AI"
+        ],
+        "rank": "#40"
       }
     ]
   },
