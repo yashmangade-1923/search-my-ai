@@ -2634,6 +2634,29 @@
           "Generative AI"
         ],
         "rank": "#40"
+      },
+      {
+        "name": "Hugging Face Hub",
+        "tagline": "A collaborative platform for the AI community to build, train, and deploy machine learning models, datasets, and applications.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Hugging Face"
+          },
+          {
+            "key": "Features",
+            "val": "Model & dataset repositories, Spaces for demo apps, AutoTrain, Inference API, community features"
+          }
+        ],
+        "tags": [
+          "Machine Learning",
+          "Model Hosting",
+          "Datasets",
+          "AI Development",
+          "Open Source",
+          "Platform"
+        ],
+        "rank": "#41"
       }
     ]
   },
@@ -5837,6 +5860,29 @@
           "Data Management"
         ],
         "rank": "#23"
+      },
+      {
+        "name": "Pinecone",
+        "tagline": "A vector database designed for building and scaling high-performance AI applications, enabling fast and relevant semantic search.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Pinecone Systems Inc."
+          },
+          {
+            "key": "Features",
+            "val": "Scalable vector search, real-time data ingestion, metadata filtering, hybrid search, RAG support"
+          }
+        ],
+        "tags": [
+          "Vector Database",
+          "AI Infrastructure",
+          "RAG",
+          "Semantic Search",
+          "Machine Learning",
+          "Database"
+        ],
+        "rank": "#24"
       }
     ]
   },
