@@ -1142,6 +1142,26 @@
           "google"
         ],
         "rank": "#23"
+      },
+      {
+        "name": "Muse Image",
+        "tagline": "A new AI image-generating model with numerous use cases, including advertising, decorating, and creator-based opportunities.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Meta"
+          },
+          {
+            "key": "Features",
+            "val": "Image generation for advertising, decorating, and creator opportunities."
+          }
+        ],
+        "tags": [
+          "Image Generation",
+          "Creative Tools",
+          "Advertising"
+        ],
+        "rank": "#24"
       }
     ]
   },
@@ -4829,6 +4849,26 @@
           "Productivity AI"
         ],
         "rank": "#38"
+      },
+      {
+        "name": "Savi",
+        "tagline": "An app designed to protect consumers from realistic AI scams, such as deepfake kidnapper ransom demands.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Savi"
+          },
+          {
+            "key": "Features",
+            "val": "Protection against AI-powered scams; available on iPhone and Android."
+          }
+        ],
+        "tags": [
+          "Scam Protection",
+          "Security",
+          "Mobile App"
+        ],
+        "rank": "#39"
       }
     ]
   },
