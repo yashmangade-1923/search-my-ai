@@ -1673,6 +1673,26 @@
           "Video Generation"
         ],
         "rank": "#19"
+      },
+      {
+        "name": "Video Remix",
+        "tagline": "An AI tool within Google Photos for enhancing videos with cinematic relighting, background swaps, and artistic styles.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "Apply cinematic relighting, swap backgrounds, add artistic styles to videos."
+          }
+        ],
+        "tags": [
+          "Video Editing",
+          "AI Editing",
+          "Google Photos"
+        ],
+        "rank": "#20"
       }
     ]
   },
@@ -2677,6 +2697,27 @@
           "Platform"
         ],
         "rank": "#41"
+      },
+      {
+        "name": "ZML/LLMD",
+        "tagline": "Software designed to speed up AI inference across multiple AI chips, making AI operations more cost-effective.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "ZML"
+          },
+          {
+            "key": "Features",
+            "val": "Speeds inference across AI chips, reduces AI running costs."
+          }
+        ],
+        "tags": [
+          "AI Optimization",
+          "Inference",
+          "Cost Reduction",
+          "Developer Tool"
+        ],
+        "rank": "#42"
       }
     ]
   },
