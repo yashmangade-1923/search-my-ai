@@ -2718,6 +2718,27 @@
           "Developer Tool"
         ],
         "rank": "#42"
+      },
+      {
+        "name": "Muse Spark 1.1",
+        "tagline": "Meta's AI coding tool designed for handling large agentic workloads, bug fixing, and code migrations.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Meta"
+          },
+          {
+            "key": "Features",
+            "val": "Handles large agentic workloads, fixes bugs, assists with large code migrations."
+          }
+        ],
+        "tags": [
+          "Coding Assistant",
+          "AI Agent",
+          "Code Migration",
+          "Developer Tool"
+        ],
+        "rank": "#43"
       }
     ]
   },
@@ -3962,6 +3983,26 @@
           "Streaming"
         ],
         "rank": "#17"
+      },
+      {
+        "name": "Gradium",
+        "tagline": "An AI voice startup developing advanced AI voice technology.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Gradium"
+          },
+          {
+            "key": "Features",
+            "val": "AI voice technology (specifics not detailed in the text, but implies generation/synthesis)."
+          }
+        ],
+        "tags": [
+          "AI Voice",
+          "Audio Generation",
+          "Speech Synthesis"
+        ],
+        "rank": "#18"
       }
     ]
   },
@@ -4910,6 +4951,26 @@
           "Mobile App"
         ],
         "rank": "#39"
+      },
+      {
+        "name": "Lyzr",
+        "tagline": "A startup that builds AI agents for enterprises to automate complex tasks.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Lyzr"
+          },
+          {
+            "key": "Features",
+            "val": "Builds AI agents for enterprises; proven capability in managing fundraising."
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Enterprise AI",
+          "Automation"
+        ],
+        "rank": "#40"
       }
     ]
   },
