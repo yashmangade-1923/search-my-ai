@@ -2739,6 +2739,28 @@
           "Developer Tool"
         ],
         "rank": "#43"
+      },
+      {
+        "name": "Jupyter AI",
+        "tagline": "Generative AI extension for Jupyter notebooks, bringing large language models into your data science workflow.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Project Jupyter (open source)"
+          },
+          {
+            "key": "Features",
+            "val": "Generate code, explain code, answer questions, summarize notebooks, integrate with various LLMs (GPT-4, Claude, Llama 2, etc.) for in-notebook assistance."
+          }
+        ],
+        "tags": [
+          "Coding",
+          "Data Science",
+          "Jupyter",
+          "LLM Integration",
+          "Open Source"
+        ],
+        "rank": "#44"
       }
     ]
   },
@@ -6025,6 +6047,28 @@
           "Database"
         ],
         "rank": "#24"
+      },
+      {
+        "name": "Google Cloud Vertex AI",
+        "tagline": "Unified platform for building, deploying, and scaling machine learning models.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google Cloud"
+          },
+          {
+            "key": "Features",
+            "val": "End-to-end MLOps platform, generative AI services, custom model training, model deployment & monitoring, MLOps tools."
+          }
+        ],
+        "tags": [
+          "ML Platform",
+          "Generative AI",
+          "Cloud",
+          "Development",
+          "Data Science"
+        ],
+        "rank": "#25"
       }
     ]
   },
