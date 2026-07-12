@@ -6914,6 +6914,26 @@
           "AI-centric"
         ],
         "rank": "#12"
+      },
+      {
+        "name": "Atlas",
+        "tagline": "OpenAI's AI-powered browser.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Features",
+            "val": "AI-powered browsing, agentic browsing features. (Note: Being sunsetted, features are transitioning to other OpenAI products.)"
+          }
+        ],
+        "tags": [
+          "browser",
+          "agentic",
+          "search"
+        ],
+        "rank": "#13"
       }
     ]
   }
