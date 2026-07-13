@@ -4993,6 +4993,27 @@
           "Automation"
         ],
         "rank": "#40"
+      },
+      {
+        "name": "ResearchRabbit",
+        "tagline": "Discover and visualize academic papers and collaborators.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "ResearchRabbit.ai"
+          },
+          {
+            "key": "Features",
+            "val": "Connects related papers, visualizes citation networks, discovers new relevant literature, helps identify key researchers."
+          }
+        ],
+        "tags": [
+          "Academic Research",
+          "Literature Discovery",
+          "Citation Network",
+          "Productivity"
+        ],
+        "rank": "#41"
       }
     ]
   },
@@ -6069,6 +6090,28 @@
           "Data Science"
         ],
         "rank": "#25"
+      },
+      {
+        "name": "Weaviate",
+        "tagline": "An open-source vector database to power your AI applications.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Weaviate B.V."
+          },
+          {
+            "key": "Features",
+            "val": "Scalable vector search, semantic search, RAG capabilities, multiple data types, cloud-native deployment."
+          }
+        ],
+        "tags": [
+          "Vector Database",
+          "Semantic Search",
+          "RAG",
+          "Open Source",
+          "Data Infrastructure"
+        ],
+        "rank": "#26"
       }
     ]
   },
