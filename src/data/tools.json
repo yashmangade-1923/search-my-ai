@@ -1693,6 +1693,26 @@
           "Google Photos"
         ],
         "rank": "#20"
+      },
+      {
+        "name": "PixVerse",
+        "tagline": "AI-powered video generation platform expanding its world model offering.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "PixVerse"
+          },
+          {
+            "key": "Features",
+            "val": "Video generation, world model capabilities"
+          }
+        ],
+        "tags": [
+          "Video Generation",
+          "AI Model",
+          "World Model"
+        ],
+        "rank": "#21"
       }
     ]
   },
