@@ -3547,6 +3547,28 @@
           "proton"
         ],
         "rank": "#31"
+      },
+      {
+        "name": "Overtone",
+        "tagline": "A voice- and audio-forward service, enabled by AI, that provides highly curated introductions.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Overtone"
+          },
+          {
+            "key": "Features",
+            "val": "Voice- and audio-forward, AI-enabled, provides highly curated introductions for dating."
+          }
+        ],
+        "tags": [
+          "Dating",
+          "AI-powered",
+          "Voice",
+          "Audio",
+          "Matchmaking"
+        ],
+        "rank": "#32"
       }
     ]
   },
