@@ -1713,6 +1713,27 @@
           "World Model"
         ],
         "rank": "#21"
+      },
+      {
+        "name": "Reelful",
+        "tagline": "An AI app that turns your camera roll content into short-form videos for social media.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Reelful"
+          },
+          {
+            "key": "Features",
+            "val": "Simplifies video creation for social media, converts personal media into shareable short videos."
+          }
+        ],
+        "tags": [
+          "video editing",
+          "social media",
+          "content creation",
+          "mobile app"
+        ],
+        "rank": "#22"
       }
     ]
   },
@@ -2781,6 +2802,27 @@
           "Open Source"
         ],
         "rank": "#44"
+      },
+      {
+        "name": "Emergent",
+        "tagline": "Indian AI coding startup offering AI-powered coding tools and solutions.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Emergent"
+          },
+          {
+            "key": "Features",
+            "val": "AI coding solutions with over 200,000 paying customers, achieving significant annual recurring revenue."
+          }
+        ],
+        "tags": [
+          "code generation",
+          "developer tools",
+          "AI assistant for coding",
+          "coding platform"
+        ],
+        "rank": "#45"
       }
     ]
   },
@@ -3569,6 +3611,48 @@
           "Matchmaking"
         ],
         "rank": "#32"
+      },
+      {
+        "name": "Qwen AI",
+        "tagline": "Alibaba's AI model approved for use with Apple Intelligence in China.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Alibaba"
+          },
+          {
+            "key": "Features",
+            "val": "General purpose AI model, integrated into major platforms for conversational AI and other applications."
+          }
+        ],
+        "tags": [
+          "LLM",
+          "AI model",
+          "China",
+          "enterprise AI"
+        ],
+        "rank": "#33"
+      },
+      {
+        "name": "Rime",
+        "tagline": "AI solution for enterprises to field and manage customer calls.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Rime"
+          },
+          {
+            "key": "Features",
+            "val": "Handles over 100 million customer calls monthly, provides advanced customer call automation for enterprises."
+          }
+        ],
+        "tags": [
+          "customer service AI",
+          "call automation",
+          "enterprise AI",
+          "voice AI"
+        ],
+        "rank": "#34"
       }
     ]
   },
@@ -5474,6 +5558,27 @@
           "Engagement"
         ],
         "rank": "#14"
+      },
+      {
+        "name": "Shaped",
+        "tagline": "An AI machine learning company focused on real-time recommendations and search.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Shaped (acquired by Whatnot)"
+          },
+          {
+            "key": "Features",
+            "val": "Powers real-time live shopping recommendations, bolsters personalization and discovery features for e-commerce."
+          }
+        ],
+        "tags": [
+          "recommendation engine",
+          "e-commerce AI",
+          "personalization",
+          "machine learning"
+        ],
+        "rank": "#15"
       }
     ]
   },
@@ -6154,6 +6259,26 @@
           "Data Infrastructure"
         ],
         "rank": "#26"
+      },
+      {
+        "name": "Inkling",
+        "tagline": "Thinking Machines' first open AI model for building AI infrastructure.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Thinking Machines"
+          },
+          {
+            "key": "Features",
+            "val": "First public open model from a company focused on AI infrastructure development."
+          }
+        ],
+        "tags": [
+          "AI model",
+          "open model",
+          "AI infrastructure"
+        ],
+        "rank": "#27"
       }
     ]
   },
