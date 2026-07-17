@@ -2823,6 +2823,48 @@
           "coding platform"
         ],
         "rank": "#45"
+      },
+      {
+        "name": "dd-cli",
+        "tagline": "Command-line tool enabling developers and AI agents to interact with DoorDash for ordering.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "DoorDash"
+          },
+          {
+            "key": "Features",
+            "val": "Search stores, build carts, place orders from the terminal."
+          }
+        ],
+        "tags": [
+          "CLI",
+          "e-commerce",
+          "AI agent integration",
+          "developer tool"
+        ],
+        "rank": "#46"
+      },
+      {
+        "name": "Codex",
+        "tagline": "OpenAI's agentic coding application/model, facilitating code generation and programming tasks.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Features",
+            "val": "Agentic coding, powers code generation, designed for developer interaction."
+          }
+        ],
+        "tags": [
+          "AI model",
+          "code generation",
+          "developer tool",
+          "agentic AI"
+        ],
+        "rank": "#47"
       }
     ]
   },
@@ -3653,6 +3695,27 @@
           "voice AI"
         ],
         "rank": "#34"
+      },
+      {
+        "name": "Kimi K3",
+        "tagline": "An upcoming large open AI model from China, developed by Moonshot AI, with a vast parameter count.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Moonshot AI"
+          },
+          {
+            "key": "Features",
+            "val": "Largest open AI model from China, 2-3 trillion parameters, aims to close gap with top models like Anthropic's Opus."
+          }
+        ],
+        "tags": [
+          "LLM",
+          "open model",
+          "chatbot model",
+          "large language model"
+        ],
+        "rank": "#35"
       }
     ]
   },
