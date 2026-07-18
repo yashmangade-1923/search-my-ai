@@ -2865,6 +2865,28 @@
           "agentic AI"
         ],
         "rank": "#47"
+      },
+      {
+        "name": "OpenPipe",
+        "tagline": "A platform for fine-tuning large language models with minimal code and seamless deployment.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenPipe, Inc."
+          },
+          {
+            "key": "Features",
+            "val": "Simplified LLM fine-tuning, dataset management, model deployment, API integration, prompt logging and evaluation."
+          }
+        ],
+        "tags": [
+          "LLM Fine-tuning",
+          "Developer Tools",
+          "AI Platform",
+          "Custom Models",
+          "MLOps"
+        ],
+        "rank": "#48"
       }
     ]
   },
@@ -6342,6 +6364,28 @@
           "AI infrastructure"
         ],
         "rank": "#27"
+      },
+      {
+        "name": "Groq",
+        "tagline": "Ultra-fast LLM inference API and platform designed for real-time AI applications.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Groq Inc."
+          },
+          {
+            "key": "Features",
+            "val": "Real-time inference, high throughput, low latency for large language models using Language Processing Units (LPUs)."
+          }
+        ],
+        "tags": [
+          "LLM Inference",
+          "API",
+          "Developer Tools",
+          "Performance",
+          "AI Platform"
+        ],
+        "rank": "#28"
       }
     ]
   },
