@@ -2887,6 +2887,28 @@
           "MLOps"
         ],
         "rank": "#48"
+      },
+      {
+        "name": "Replicate",
+        "tagline": "Run and fine-tune open-source AI models with a few lines of code.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Replicate AI"
+          },
+          {
+            "key": "Features",
+            "val": "API for running models, fine-tuning capabilities, vast library of models, scalable inference, developer tools."
+          }
+        ],
+        "tags": [
+          "Model Hosting",
+          "AI API",
+          "Developer Tool",
+          "Model Inference",
+          "Fine-tuning"
+        ],
+        "rank": "#49"
       }
     ]
   },
@@ -6386,6 +6408,28 @@
           "AI Platform"
         ],
         "rank": "#28"
+      },
+      {
+        "name": "Qdrant",
+        "tagline": "Open-source vector database for a new generation of AI applications.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Qdrant"
+          },
+          {
+            "key": "Features",
+            "val": "Fast semantic search, similarity learning, hybrid search, filtering, custom payloads, cloud and self-hosted options."
+          }
+        ],
+        "tags": [
+          "Vector Database",
+          "Semantic Search",
+          "Open Source",
+          "Data Infrastructure",
+          "AI Backend"
+        ],
+        "rank": "#29"
       }
     ]
   },
