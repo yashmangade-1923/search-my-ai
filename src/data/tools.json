@@ -1162,6 +1162,27 @@
           "Advertising"
         ],
         "rank": "#24"
+      },
+      {
+        "name": "Project Indigo",
+        "tagline": "An AI feature within Adobe's camera app that critiques photos and removes backgrounds.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Adobe"
+          },
+          {
+            "key": "Features",
+            "val": "AI photo critique, background removal from photos"
+          }
+        ],
+        "tags": [
+          "Photo Editing",
+          "AI Critique",
+          "Camera App",
+          "Background Removal"
+        ],
+        "rank": "#25"
       }
     ]
   },
