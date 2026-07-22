@@ -5268,6 +5268,27 @@
           "Productivity"
         ],
         "rank": "#41"
+      },
+      {
+        "name": "Buzz",
+        "tagline": "A group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Jack Dorsey (implied)"
+          },
+          {
+            "key": "Features",
+            "val": "Group chat, AI agent integration, team communication."
+          }
+        ],
+        "tags": [
+          "Collaboration",
+          "Workplace",
+          "AI Agents",
+          "Chat"
+        ],
+        "rank": "#42"
       }
     ]
   },
