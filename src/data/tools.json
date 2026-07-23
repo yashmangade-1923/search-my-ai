@@ -5289,6 +5289,49 @@
           "Chat"
         ],
         "rank": "#42"
+      },
+      {
+        "name": "Glow",
+        "tagline": "An endpoint security solution for the AI era, challenging new classes of risks.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Glow"
+          },
+          {
+            "key": "Features",
+            "val": "Targets new endpoint risks created by AI agents and developer tools inside enterprises."
+          }
+        ],
+        "tags": [
+          "Security",
+          "Endpoint Protection",
+          "AI Agents",
+          "Enterprise"
+        ],
+        "rank": "#43"
+      },
+      {
+        "name": "AI Roleplay Sessions",
+        "tagline": "An interactive enterprise training platform using AI avatars for workplace conversation practice.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Synthesia"
+          },
+          {
+            "key": "Features",
+            "val": "Practice workplace conversations with AI avatars; provides feedback, scoring, and analytics to measure training effectiveness."
+          }
+        ],
+        "tags": [
+          "Training",
+          "Enterprise",
+          "Roleplay",
+          "AI Avatars",
+          "Learning & Development"
+        ],
+        "rank": "#44"
       }
     ]
   },
