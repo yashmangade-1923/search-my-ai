@@ -6515,6 +6515,26 @@
           "AI Backend"
         ],
         "rank": "#29"
+      },
+      {
+        "name": "Moonshot",
+        "tagline": "An AI model or platform reportedly used for distilling other large language models.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Unspecified"
+          },
+          {
+            "key": "Features",
+            "val": "Model distillation (implied)."
+          }
+        ],
+        "tags": [
+          "AI Model",
+          "Model Distillation",
+          "LLM"
+        ],
+        "rank": "#30"
       }
     ]
   },
@@ -7037,6 +7057,27 @@
           "AI App"
         ],
         "rank": "#19"
+      },
+      {
+        "name": "Media Router",
+        "tagline": "A tool that automatically selects the best generative media model for image, video, or audio generation.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Runway"
+          },
+          {
+            "key": "Features",
+            "val": "Automatically selects optimal image, video, or audio generation model; allows prioritization of quality, speed, or cost."
+          }
+        ],
+        "tags": [
+          "Generative AI",
+          "Model Selection",
+          "Media Generation",
+          "Developer Tool"
+        ],
+        "rank": "#20"
       }
     ]
   },
