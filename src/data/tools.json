@@ -5332,6 +5332,27 @@
           "Learning & Development"
         ],
         "rank": "#44"
+      },
+      {
+        "name": "AegisAI",
+        "tagline": "AI-powered platform to prevent AI-driven spear phishing.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "AegisAI"
+          },
+          {
+            "key": "Features",
+            "val": "Develops AI agents that analyze messages for small anomalies to detect and stop elaborate spear phishing attempts."
+          }
+        ],
+        "tags": [
+          "Cybersecurity",
+          "AI Security",
+          "Phishing Protection",
+          "Enterprise AI"
+        ],
+        "rank": "#45"
       }
     ]
   },
@@ -7421,6 +7442,26 @@
           "search"
         ],
         "rank": "#13"
+      },
+      {
+        "name": "Attie",
+        "tagline": "AI assistant for open social research.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Bluesky"
+          },
+          {
+            "key": "Features",
+            "val": "Allows users to ask questions about news, trends, and conversations on Bluesky and other AT Protocol apps."
+          }
+        ],
+        "tags": [
+          "Social Search",
+          "AI Assistant",
+          "Bluesky"
+        ],
+        "rank": "#14"
       }
     ]
   }
