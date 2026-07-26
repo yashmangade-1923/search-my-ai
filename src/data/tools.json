@@ -2930,6 +2930,26 @@
           "Fine-tuning"
         ],
         "rank": "#49"
+      },
+      {
+        "name": "OpenAI's AI Keypad",
+        "tagline": "A new physical AI keypad from OpenAI, offering a unique interaction experience for coders and enabling control over agents and task completion.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Features",
+            "val": "Fun for some coders; works with ChatGPT Work and Codex to complete tasks and control agents."
+          }
+        ],
+        "tags": [
+          "coding",
+          "developer tool",
+          "human-computer interaction"
+        ],
+        "rank": "#50"
       }
     ]
   },
@@ -3781,6 +3801,26 @@
           "large language model"
         ],
         "rank": "#35"
+      },
+      {
+        "name": "Opus 5",
+        "tagline": "A new, more affordable and less restrictive large language model from Anthropic.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Anthropic"
+          },
+          {
+            "key": "Features",
+            "val": "Cheaper and less restrictive than Fable; preferable in most use cases."
+          }
+        ],
+        "tags": [
+          "AI model",
+          "large language model",
+          "general purpose AI"
+        ],
+        "rank": "#36"
       }
     ]
   },
