@@ -540,6 +540,27 @@
           "Developer Tool"
         ],
         "rank": "#19"
+      },
+      {
+        "name": "Hyperwrite AI",
+        "tagline": "Your personal AI writing assistant that generates high-quality content for any purpose.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Hyperwrite AI"
+          },
+          {
+            "key": "Features",
+            "val": "AI document editor, content generation (essays, blogs, emails), rewriting, summarizing, brainstorming, custom AI models."
+          }
+        ],
+        "tags": [
+          "AI writer",
+          "content generation",
+          "rewriting",
+          "productivity"
+        ],
+        "rank": "#20"
       }
     ]
   },
@@ -1183,6 +1204,27 @@
           "Background Removal"
         ],
         "rank": "#25"
+      },
+      {
+        "name": "Artbreeder",
+        "tagline": "Create unique images and collaborate on generative art by 'breeding' new images from existing ones.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Artbreeder"
+          },
+          {
+            "key": "Features",
+            "val": "Image mixing, character generation, landscape generation, custom gene editing, collaborative creation."
+          }
+        ],
+        "tags": [
+          "AI art",
+          "generative art",
+          "image mixing",
+          "collaboration"
+        ],
+        "rank": "#26"
       }
     ]
   },
