@@ -6638,6 +6638,28 @@
           "LLM"
         ],
         "rank": "#30"
+      },
+      {
+        "name": "ChromaDB",
+        "tagline": "The AI-native open-source vector database.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Chroma"
+          },
+          {
+            "key": "Features",
+            "val": "Embedding generation, query, persistent storage for vector embeddings, supports local and cloud deployments."
+          }
+        ],
+        "tags": [
+          "vector database",
+          "open source",
+          "RAG",
+          "embeddings",
+          "LLM infrastructure"
+        ],
+        "rank": "#31"
       }
     ]
   },
