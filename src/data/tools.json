@@ -6660,6 +6660,46 @@
           "LLM infrastructure"
         ],
         "rank": "#31"
+      },
+      {
+        "name": "Oasis Security",
+        "tagline": "Platform for safeguarding proliferating AI agents.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Oasis Security (acquired by Cyera)"
+          },
+          {
+            "key": "Features",
+            "val": "AI agent security, data protection"
+          }
+        ],
+        "tags": [
+          "AI Security",
+          "Agent Protection",
+          "Cybersecurity"
+        ],
+        "rank": "#32"
+      },
+      {
+        "name": "Spur Intelligence",
+        "tagline": "Identifies legitimate human traffic from bots.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Spur Intelligence"
+          },
+          {
+            "key": "Features",
+            "val": "Bot detection, human traffic verification, traffic analysis"
+          }
+        ],
+        "tags": [
+          "Bot Detection",
+          "Traffic Analysis",
+          "Cybersecurity"
+        ],
+        "rank": "#33"
       }
     ]
   },
