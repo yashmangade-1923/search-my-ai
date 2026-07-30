@@ -3863,6 +3863,27 @@
           "general purpose AI"
         ],
         "rank": "#36"
+      },
+      {
+        "name": "Encore AI",
+        "tagline": "Builds AI agents that learn from customer calls to identify effective sales techniques.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Encore AI"
+          },
+          {
+            "key": "Features",
+            "val": "Analyzes customer calls, messages, and CRM data; identifies effective sales techniques; generates playbooks for AI agents."
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Sales",
+          "Customer Service",
+          "Business Intelligence"
+        ],
+        "rank": "#37"
       }
     ]
   },
@@ -5435,6 +5456,26 @@
           "Enterprise AI"
         ],
         "rank": "#45"
+      },
+      {
+        "name": "Hint",
+        "tagline": "An AI assistant for homeowners, combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Hint (co-founded by Martha Stewart)"
+          },
+          {
+            "key": "Features",
+            "val": "Manages property records, maintenance schedules, home documents, provides AI assistance."
+          }
+        ],
+        "tags": [
+          "Home Management",
+          "AI Assistant",
+          "Productivity"
+        ],
+        "rank": "#46"
       }
     ]
   },
@@ -6700,6 +6741,26 @@
           "Cybersecurity"
         ],
         "rank": "#33"
+      },
+      {
+        "name": "Pangram",
+        "tagline": "AI detection software for text and images.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Pangram"
+          },
+          {
+            "key": "Features",
+            "val": "AI text detection model (Pangram 4), AI image detection model (research preview)."
+          }
+        ],
+        "tags": [
+          "AI Detection",
+          "Content Verification",
+          "Authenticity"
+        ],
+        "rank": "#34"
       }
     ]
   },
