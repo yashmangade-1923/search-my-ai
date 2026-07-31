@@ -6761,6 +6761,68 @@
           "Authenticity"
         ],
         "rank": "#34"
+      },
+      {
+        "name": "Permiso",
+        "tagline": "AI security startup for identity threat detection in cloud environments.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Permiso (acquired by Okta)"
+          },
+          {
+            "key": "Features",
+            "val": "Identity threat detection capabilities, secures AI agents and non-human identities across cloud environments."
+          }
+        ],
+        "tags": [
+          "AI Security",
+          "Identity Management",
+          "Cloud Security"
+        ],
+        "rank": "#35"
+      },
+      {
+        "name": "Anyscale",
+        "tagline": "Software platform for scaling AI workloads across data centers and servers.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Anyscale (acquired by Nscale)"
+          },
+          {
+            "key": "Features",
+            "val": "Helps companies scale their AI workloads, manages across data centers and servers."
+          }
+        ],
+        "tags": [
+          "AI Infrastructure",
+          "Workload Management",
+          "Cloud AI",
+          "MLOps"
+        ],
+        "rank": "#36"
+      },
+      {
+        "name": "Dili",
+        "tagline": "AI compliance platform for infrastructure.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Dili"
+          },
+          {
+            "key": "Features",
+            "val": "Brings AI compliance to infrastructure."
+          }
+        ],
+        "tags": [
+          "AI Compliance",
+          "Governance",
+          "Infrastructure",
+          "AI Ethics"
+        ],
+        "rank": "#37"
       }
     ]
   },
