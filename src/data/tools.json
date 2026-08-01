@@ -5476,6 +5476,49 @@
           "Productivity"
         ],
         "rank": "#46"
+      },
+      {
+        "name": "AgentGPT",
+        "tagline": "Create autonomous AI agents to achieve any goal.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "AgentGPT"
+          },
+          {
+            "key": "Features",
+            "val": "Configure and deploy AI agents; agents can perform tasks, research, and execute plans autonomously."
+          }
+        ],
+        "tags": [
+          "Autonomous Agents",
+          "AI Agents",
+          "No-code",
+          "Task Automation"
+        ],
+        "rank": "#47"
+      },
+      {
+        "name": "Bardeen AI",
+        "tagline": "Automate your workflows with AI and custom playbooks.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Bardeen.ai"
+          },
+          {
+            "key": "Features",
+            "val": "AI-powered automation, web scraping, data extraction, custom playbooks, integrations with popular apps."
+          }
+        ],
+        "tags": [
+          "Automation",
+          "Productivity",
+          "Workflow",
+          "AI Assistant",
+          "Web Scraping"
+        ],
+        "rank": "#48"
       }
     ]
   },
