@@ -3884,6 +3884,27 @@
           "Business Intelligence"
         ],
         "rank": "#37"
+      },
+      {
+        "name": "GigaChat",
+        "tagline": "An advanced conversational AI developed by Sber, designed for a wide range of tasks including text generation, summarization, and creative content.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Sber"
+          },
+          {
+            "key": "Features",
+            "val": "Multilingual capabilities, text generation, summarization, code generation, image generation, context-aware conversations."
+          }
+        ],
+        "tags": [
+          "Conversational AI",
+          "Text Generation",
+          "Chatbot",
+          "Multilingual"
+        ],
+        "rank": "#38"
       }
     ]
   },
@@ -6866,6 +6887,28 @@
           "AI Ethics"
         ],
         "rank": "#37"
+      },
+      {
+        "name": "Giskard",
+        "tagline": "An open-source platform for testing, evaluating, and securing AI models, ensuring reliability and fairness.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Giskard AI"
+          },
+          {
+            "key": "Features",
+            "val": "Automated model testing, vulnerability detection (robustness, fairness, privacy), performance monitoring, debugging, dataset analysis."
+          }
+        ],
+        "tags": [
+          "MLOps",
+          "Model Testing",
+          "AI Security",
+          "Fairness",
+          "Open Source"
+        ],
+        "rank": "#38"
       }
     ]
   },
