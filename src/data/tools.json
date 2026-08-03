@@ -561,6 +561,28 @@
           "productivity"
         ],
         "rank": "#20"
+      },
+      {
+        "name": "GPTZero",
+        "tagline": "AI writing and plagiarism detection for educators and content creators.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "GPTZero"
+          },
+          {
+            "key": "Features",
+            "val": "Detects AI-generated content (ChatGPT, Claude, etc.), identifies human-written text, checks for plagiarism, offers batch processing."
+          }
+        ],
+        "tags": [
+          "AI Detection",
+          "Plagiarism",
+          "Content Authenticity",
+          "Education",
+          "Writing"
+        ],
+        "rank": "#21"
       }
     ]
   },
