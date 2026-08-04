@@ -3014,6 +3014,26 @@
           "human-computer interaction"
         ],
         "rank": "#50"
+      },
+      {
+        "name": "Superblocks",
+        "tagline": "A vibe-coding tool that can be embedded into private clouds.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Superblocks"
+          },
+          {
+            "key": "Features",
+            "val": "Allows embedding into AWS private clouds for coding and development workflows."
+          }
+        ],
+        "tags": [
+          "Coding",
+          "Development",
+          "AWS Integration"
+        ],
+        "rank": "#51"
       }
     ]
   },
@@ -5562,6 +5582,26 @@
           "Web Scraping"
         ],
         "rank": "#48"
+      },
+      {
+        "name": "June",
+        "tagline": "A platform designed to simplify AI adoption for enterprises.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "June"
+          },
+          {
+            "key": "Features",
+            "val": "Aims to make AI integration and utilization simpler for businesses and organizations."
+          }
+        ],
+        "tags": [
+          "AI Adoption",
+          "Enterprise AI",
+          "Productivity Platform"
+        ],
+        "rank": "#49"
       }
     ]
   },
@@ -6931,6 +6971,26 @@
           "Open Source"
         ],
         "rank": "#38"
+      },
+      {
+        "name": "Design Arena",
+        "tagline": "A platform for human evaluation of AI models and data.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Design Arena creators"
+          },
+          {
+            "key": "Features",
+            "val": "Provides critical human evaluations to frontier labs, used by millions for AI model feedback."
+          }
+        ],
+        "tags": [
+          "AI Evaluation",
+          "Data Annotation",
+          "Model Feedback"
+        ],
+        "rank": "#39"
       }
     ]
   },
