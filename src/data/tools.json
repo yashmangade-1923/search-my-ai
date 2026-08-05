@@ -4445,6 +4445,31 @@
           "Speech Synthesis"
         ],
         "rank": "#18"
+      },
+      {
+        "name": "Spotify AI Remix and Covers",
+        "tagline": "An upcoming AI-powered tool by Spotify allowing fans to create AI-generated music covers and remixes.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Spotify"
+          },
+          {
+            "key": "Features",
+            "val": "Create AI-generated music covers, create AI-generated remixes, ensures artists opt-in, ensures artists receive credit and compensation, paid tool."
+          },
+          {
+            "key": "Partners",
+            "val": "Merlin, Universal Music Group"
+          }
+        ],
+        "tags": [
+          "Music Generation",
+          "AI Remix",
+          "Audio Covers",
+          "Fan Engagement"
+        ],
+        "rank": "#19"
       }
     ]
   },
@@ -6991,6 +7016,30 @@
           "Model Feedback"
         ],
         "rank": "#39"
+      },
+      {
+        "name": "GLM-5.2",
+        "tagline": "An open-weight AI model from Z.ai approaching frontier AI capabilities.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Z.ai"
+          },
+          {
+            "key": "Features",
+            "val": "Approaches frontier AI capabilities, open-weight."
+          },
+          {
+            "key": "Known Limitations",
+            "val": "Lacks key safety mitigations."
+          }
+        ],
+        "tags": [
+          "AI Model",
+          "Open-weight",
+          "Frontier AI"
+        ],
+        "rank": "#40"
       }
     ]
   },
@@ -7897,6 +7946,27 @@
           "Bluesky"
         ],
         "rank": "#14"
+      },
+      {
+        "name": "Wrinkles",
+        "tagline": "An AI-powered mobile app that acts as an audio tour guide revealing hidden history and local stories.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Not specified in text"
+          },
+          {
+            "key": "Features",
+            "val": "Available on iOS and Android, uncovers hidden stories, reveals local history, audio tour guide."
+          }
+        ],
+        "tags": [
+          "Mobile App",
+          "Audio Tour",
+          "History Discovery",
+          "Travel"
+        ],
+        "rank": "#15"
       }
     ]
   }
