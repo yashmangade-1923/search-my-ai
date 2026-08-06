@@ -3034,6 +3034,27 @@
           "AWS Integration"
         ],
         "rank": "#51"
+      },
+      {
+        "name": "Muse Code",
+        "tagline": "An AI agent designed to handle complex tasks within large code bases.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Meta"
+          },
+          {
+            "key": "Features",
+            "val": "Handles complex tasks with complex software, expanded AI coding offerings."
+          }
+        ],
+        "tags": [
+          "AI agent",
+          "Code analysis",
+          "Large code bases",
+          "Software development"
+        ],
+        "rank": "#52"
       }
     ]
   },
@@ -5627,6 +5648,49 @@
           "Productivity Platform"
         ],
         "rank": "#49"
+      },
+      {
+        "name": "Hark",
+        "tagline": "A browser use agent for efficiently completing tasks across the web.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Hark"
+          },
+          {
+            "key": "Features",
+            "val": "Claims to be faster and cheaper than competition, completes tasks via browser use."
+          }
+        ],
+        "tags": [
+          "Browser agent",
+          "Task automation",
+          "Productivity",
+          "AI agent"
+        ],
+        "rank": "#50"
+      },
+      {
+        "name": "Eney",
+        "tagline": "MacPaw's AI assistant offering on-device inference for developers building for its app store.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "MacPaw"
+          },
+          {
+            "key": "Features",
+            "val": "Local version, built using Liquid AI's models, offers on-device inference."
+          }
+        ],
+        "tags": [
+          "AI assistant",
+          "On-device inference",
+          "Local AI",
+          "Development tools",
+          "Productivity"
+        ],
+        "rank": "#51"
       }
     ]
   },
