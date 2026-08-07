@@ -5691,6 +5691,66 @@
           "Productivity"
         ],
         "rank": "#51"
+      },
+      {
+        "name": "Naïve",
+        "tagline": "Automates the grunt work of setting up and running a company.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Naïve"
+          },
+          {
+            "key": "Features",
+            "val": "Automates most of the work in setting up and running a business."
+          }
+        ],
+        "tags": [
+          "Business Automation",
+          "Productivity",
+          "Company Management"
+        ],
+        "rank": "#52"
+      },
+      {
+        "name": "Ditto",
+        "tagline": "A dating app that uses AI for matchmaking, replacing traditional swiping.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Ditto"
+          },
+          {
+            "key": "Features",
+            "val": "AI matchmaking."
+          }
+        ],
+        "tags": [
+          "Dating App",
+          "AI Matchmaking",
+          "Lifestyle"
+        ],
+        "rank": "#53"
+      },
+      {
+        "name": "Omilia Platform",
+        "tagline": "An AI-powered customer support platform for scaling operations.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Omilia"
+          },
+          {
+            "key": "Features",
+            "val": "Scalable customer support platform; achieved 10x ARR growth; likely leverages AI for automation and efficiency in customer interactions."
+          }
+        ],
+        "tags": [
+          "Customer Support",
+          "AI Platform",
+          "Business Productivity"
+        ],
+        "rank": "#54"
       }
     ]
   },
