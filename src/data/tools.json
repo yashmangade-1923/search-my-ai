@@ -3055,6 +3055,48 @@
           "Software development"
         ],
         "rank": "#52"
+      },
+      {
+        "name": "Astra",
+        "tagline": "An OpenAI model in development capable of independently identifying and carrying out cyberattacks.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Features",
+            "val": "Independently identifies and carries out cyberattacks against well-protected systems."
+          }
+        ],
+        "tags": [
+          "AI Model",
+          "Cybersecurity",
+          "Offensive Security"
+        ],
+        "rank": "#53"
+      },
+      {
+        "name": "Kitesurf",
+        "tagline": "A cloud-hosted browser designed for AI agents to perform automation tasks efficiently.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Cloudflare"
+          },
+          {
+            "key": "Features",
+            "val": "Cloud-hosted browser, uses less computing power than Chromium, designed for AI agents, helps developers build browser-based AI agents more efficiently."
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Browser",
+          "Automation",
+          "Developer Tools",
+          "Cloud-hosted"
+        ],
+        "rank": "#54"
       }
     ]
   },
@@ -5751,6 +5793,26 @@
           "Business Productivity"
         ],
         "rank": "#54"
+      },
+      {
+        "name": "AI Spend Console",
+        "tagline": "A product that tracks individual and team employee AI spending.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Rippling"
+          },
+          {
+            "key": "Features",
+            "val": "Tracks individual and team employee AI spending, provides ROI insights."
+          }
+        ],
+        "tags": [
+          "AI Spend Management",
+          "Financial Tracking",
+          "Employee Productivity"
+        ],
+        "rank": "#55"
       }
     ]
   },
