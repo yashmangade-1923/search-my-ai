@@ -5813,6 +5813,26 @@
           "Employee Productivity"
         ],
         "rank": "#55"
+      },
+      {
+        "name": "NextSlide",
+        "tagline": "AI-powered presentation creation startup.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "NextSlide (acquired by OpenAI)"
+          },
+          {
+            "key": "Features",
+            "val": "AI-assisted presentation creation"
+          }
+        ],
+        "tags": [
+          "Presentations",
+          "Productivity",
+          "AI-powered"
+        ],
+        "rank": "#56"
       }
     ]
   },
