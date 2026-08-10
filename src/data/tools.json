@@ -4010,6 +4010,29 @@
           "Multilingual"
         ],
         "rank": "#38"
+      },
+      {
+        "name": "Forefront AI",
+        "tagline": "Access powerful AI models like GPT-4 and Claude 3 Opus for free, with custom personas and shareable chats.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Forefront Technologies, Inc."
+          },
+          {
+            "key": "Features",
+            "val": "Free access to advanced LLMs, custom personas, shared conversations, image generation, file analysis."
+          }
+        ],
+        "tags": [
+          "Chatbot",
+          "LLM",
+          "Aggregator",
+          "Free",
+          "Productivity",
+          "Image Generation"
+        ],
+        "rank": "#39"
       }
     ]
   },
@@ -5833,6 +5856,28 @@
           "AI-powered"
         ],
         "rank": "#56"
+      },
+      {
+        "name": "ChatPDF",
+        "tagline": "Summarize and ask questions about any PDF document using AI.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "ChatPDF"
+          },
+          {
+            "key": "Features",
+            "val": "PDF summarization, Q&A with document content, citation of sources, support for multiple languages and large files."
+          }
+        ],
+        "tags": [
+          "PDF",
+          "Document Analysis",
+          "Chatbot",
+          "Productivity",
+          "Education"
+        ],
+        "rank": "#57"
       }
     ]
   },
