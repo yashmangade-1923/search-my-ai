@@ -3097,6 +3097,27 @@
           "Cloud-hosted"
         ],
         "rank": "#54"
+      },
+      {
+        "name": "Daybreak",
+        "tagline": "An AI cybersecurity defense program and new cyber-trained AI model.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Features",
+            "val": "Cybersecurity defense program, cyber-trained AI model for attack identification and counteraction."
+          }
+        ],
+        "tags": [
+          "Cybersecurity",
+          "AI Model",
+          "Defense",
+          "Enterprise"
+        ],
+        "rank": "#55"
       }
     ]
   },
@@ -4033,6 +4054,27 @@
           "Image Generation"
         ],
         "rank": "#39"
+      },
+      {
+        "name": "Muse Glimmer",
+        "tagline": "Meta's new open-weight AI model hinting at personal superintelligence.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Meta"
+          },
+          {
+            "key": "Features",
+            "val": "Open-weight foundational model, designed for personal superintelligence systems."
+          }
+        ],
+        "tags": [
+          "AI Model",
+          "Open-weight",
+          "Personal AI",
+          "Foundational Model"
+        ],
+        "rank": "#40"
       }
     ]
   },
