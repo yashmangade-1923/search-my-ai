@@ -4075,6 +4075,26 @@
           "Foundational Model"
         ],
         "rank": "#40"
+      },
+      {
+        "name": "River AI",
+        "tagline": "Startup developing personal AI agents.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "River AI (founded by xAI co-founder Igor Babuschkin)"
+          },
+          {
+            "key": "Features",
+            "val": "Focuses on creating personal AI agents for various applications."
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Personal AI",
+          "Agentic AI"
+        ],
+        "rank": "#41"
       }
     ]
   },
