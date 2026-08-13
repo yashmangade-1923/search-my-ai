@@ -3118,6 +3118,27 @@
           "Enterprise"
         ],
         "rank": "#55"
+      },
+      {
+        "name": "Blacksmith",
+        "tagline": "AI-powered code-testing startup",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Blacksmith (implied)"
+          },
+          {
+            "key": "Features",
+            "val": "AI code-testing"
+          }
+        ],
+        "tags": [
+          "Code Testing",
+          "AI Development",
+          "Software Development",
+          "Quality Assurance"
+        ],
+        "rank": "#56"
       }
     ]
   },
@@ -5940,6 +5961,28 @@
           "Education"
         ],
         "rank": "#57"
+      },
+      {
+        "name": "Mesh",
+        "tagline": "AI-powered contacts app and relationship manager",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Automattic"
+          },
+          {
+            "key": "Features",
+            "val": "AI-powered contacts app, relationship manager, Android app availability"
+          }
+        ],
+        "tags": [
+          "CRM",
+          "Contacts",
+          "Relationship Management",
+          "Productivity",
+          "Android"
+        ],
+        "rank": "#58"
       }
     ]
   },
