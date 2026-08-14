@@ -3139,6 +3139,27 @@
           "Quality Assurance"
         ],
         "rank": "#56"
+      },
+      {
+        "name": "LlamaFile",
+        "tagline": "Run open-source LLMs locally on your computer with a single file.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Mozilla AI / Simon Willison"
+          },
+          {
+            "key": "Features",
+            "val": "Single-file execution, cross-platform, compatible with GGUF models, low-barrier local LLM deployment."
+          }
+        ],
+        "tags": [
+          "LLM",
+          "Local Inference",
+          "Open Source",
+          "Developer Tool"
+        ],
+        "rank": "#57"
       }
     ]
   },
@@ -5983,6 +6004,27 @@
           "Android"
         ],
         "rank": "#58"
+      },
+      {
+        "name": "Quinvio AI",
+        "tagline": "Generate AI-powered video presentations from text in minutes.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Quinvio"
+          },
+          {
+            "key": "Features",
+            "val": "Text-to-video presentations, customizable templates, AI scriptwriting, diverse avatars and voices, background music."
+          }
+        ],
+        "tags": [
+          "Presentation",
+          "Video Generation",
+          "Productivity",
+          "Text-to-Video"
+        ],
+        "rank": "#59"
       }
     ]
   },
