@@ -3160,6 +3160,27 @@
           "Developer Tool"
         ],
         "rank": "#57"
+      },
+      {
+        "name": "AutoGen",
+        "tagline": "A framework for building multi-agent conversational AI applications.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Microsoft"
+          },
+          {
+            "key": "Features",
+            "val": "Enables multiple LLM agents to communicate and collaborate, supports diverse applications like coding, complex problem-solving, and role-playing scenarios."
+          }
+        ],
+        "tags": [
+          "Multi-Agent AI",
+          "LLM Framework",
+          "Code Generation",
+          "Automation"
+        ],
+        "rank": "#58"
       }
     ]
   },
@@ -4137,6 +4158,27 @@
           "Agentic AI"
         ],
         "rank": "#41"
+      },
+      {
+        "name": "Falcon",
+        "tagline": "A family of powerful open-source large language models.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Technology Innovation Institute (TII)"
+          },
+          {
+            "key": "Features",
+            "val": "State-of-the-art performance, various sizes (e.g., Falcon-7B, Falcon-40B, Falcon-180B), suitable for diverse NLP tasks."
+          }
+        ],
+        "tags": [
+          "LLM",
+          "Open Source",
+          "Text Generation",
+          "Natural Language Processing"
+        ],
+        "rank": "#42"
       }
     ]
   },
