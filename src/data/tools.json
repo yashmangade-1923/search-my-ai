@@ -4179,6 +4179,28 @@
           "Natural Language Processing"
         ],
         "rank": "#42"
+      },
+      {
+        "name": "Coze",
+        "tagline": "Build AI bots with plugins, custom knowledge, and flexible deployment.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "ByteDance"
+          },
+          {
+            "key": "Features",
+            "val": "Bot creation, plugin integration, custom knowledge base, multi-platform deployment (Discord, Messenger, website)."
+          }
+        ],
+        "tags": [
+          "Bot builder",
+          "AI assistant",
+          "No-code",
+          "Platform",
+          "ByteDance"
+        ],
+        "rank": "#43"
       }
     ]
   },
@@ -4702,6 +4724,27 @@
           "Fan Engagement"
         ],
         "rank": "#19"
+      },
+      {
+        "name": "OpenAI Voice Engine",
+        "tagline": "Generate natural-sounding speech and clone voices from a short audio sample.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Features",
+            "val": "Text-to-speech, voice cloning from 15-second audio, emotion preservation, multilingual support."
+          }
+        ],
+        "tags": [
+          "Voice synthesis",
+          "Voice cloning",
+          "Text-to-speech",
+          "Audio generation"
+        ],
+        "rank": "#20"
       }
     ]
   },
