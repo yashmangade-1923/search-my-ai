@@ -8450,6 +8450,26 @@
           "Travel"
         ],
         "rank": "#15"
+      },
+      {
+        "name": "Komo Search AI",
+        "tagline": "An AI-powered search engine focusing on privacy, speed, and summarized results.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Komo Technologies, Inc."
+          },
+          {
+            "key": "Features",
+            "val": "AI-powered summaries, ad-free search, private mode, multiple search categories (Explore, Chat, Learn, etc.), trending topics."
+          }
+        ],
+        "tags": [
+          "search engine",
+          "privacy",
+          "summarization"
+        ],
+        "rank": "#16"
       }
     ]
   }
