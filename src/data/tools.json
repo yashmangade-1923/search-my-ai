@@ -3181,6 +3181,27 @@
           "Automation"
         ],
         "rank": "#58"
+      },
+      {
+        "name": "Warp Factories",
+        "tagline": "An infrastructure system designed to make building AI software factories as easy as possible.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Warp"
+          },
+          {
+            "key": "Features",
+            "val": "Out-of-the-box software factory for AI development, simplifies building AI software factories."
+          }
+        ],
+        "tags": [
+          "AI development",
+          "infrastructure",
+          "software factory",
+          "developer tools"
+        ],
+        "rank": "#59"
       }
     ]
   },
