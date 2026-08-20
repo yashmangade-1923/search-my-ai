@@ -6131,6 +6131,26 @@
           "Text-to-Video"
         ],
         "rank": "#59"
+      },
+      {
+        "name": "Callie",
+        "tagline": "An AI-powered meeting scheduling assistant.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Calendly"
+          },
+          {
+            "key": "Features",
+            "val": "Meeting scheduling assistance"
+          }
+        ],
+        "tags": [
+          "Meeting scheduling",
+          "AI assistant",
+          "Productivity"
+        ],
+        "rank": "#60"
       }
     ]
   },
