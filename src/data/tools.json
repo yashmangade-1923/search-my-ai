@@ -4766,6 +4766,48 @@
           "Audio generation"
         ],
         "rank": "#20"
+      },
+      {
+        "name": "Superwhisper",
+        "tagline": "A dictation tool that provides speech-to-text functionality across all applications.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Unknown"
+          },
+          {
+            "key": "Features",
+            "val": "Dictation, works across all apps, speech-to-text."
+          }
+        ],
+        "tags": [
+          "Dictation",
+          "Speech-to-Text",
+          "Productivity",
+          "Audio Tool"
+        ],
+        "rank": "#21"
+      },
+      {
+        "name": "Monologue",
+        "tagline": "A dictation tool that provides speech-to-text functionality across all applications.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Unknown"
+          },
+          {
+            "key": "Features",
+            "val": "Dictation, works across all apps, speech-to-text."
+          }
+        ],
+        "tags": [
+          "Dictation",
+          "Speech-to-Text",
+          "Productivity",
+          "Audio Tool"
+        ],
+        "rank": "#22"
       }
     ]
   },
@@ -6151,6 +6193,27 @@
           "Productivity"
         ],
         "rank": "#60"
+      },
+      {
+        "name": "Linkdaze",
+        "tagline": "A smart digital calendar with an AI meal planner.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Linkdaze"
+          },
+          {
+            "key": "Features",
+            "val": "AI meal planner, smart calendar, no paywall for features."
+          }
+        ],
+        "tags": [
+          "Calendar",
+          "Meal Planning",
+          "Productivity",
+          "AI-powered"
+        ],
+        "rank": "#61"
       }
     ]
   },
@@ -7564,6 +7627,50 @@
           "Frontier AI"
         ],
         "rank": "#40"
+      },
+      {
+        "name": "Router",
+        "tagline": "An AI model routing service for switching between various large language models via an API.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Ramp"
+          },
+          {
+            "key": "Features",
+            "val": "Routes prompts between different AI models, API access, allows switching between LLMs."
+          }
+        ],
+        "tags": [
+          "LLM Router",
+          "API",
+          "Model Management",
+          "Developer Tool",
+          "Data Management"
+        ],
+        "rank": "#41"
+      },
+      {
+        "name": "Binance Agent OS",
+        "tagline": "A system enabling AI agents to perform automated trading.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Binance"
+          },
+          {
+            "key": "Features",
+            "val": "Enables AI agents to trade, works with tools like ChatGPT, Claude Code, Cursor."
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Automated Trading",
+          "Crypto",
+          "Financial AI",
+          "Data Automation"
+        ],
+        "rank": "#42"
       }
     ]
   },
