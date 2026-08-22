@@ -3202,6 +3202,27 @@
           "developer tools"
         ],
         "rank": "#59"
+      },
+      {
+        "name": "Vellum",
+        "tagline": "The LLM operations platform for prompt engineering, testing, and monitoring.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Vellum"
+          },
+          {
+            "key": "Features",
+            "val": "Prompt management, versioning, A/B testing, model evaluation, safety guardrails, monitoring, cost optimization."
+          }
+        ],
+        "tags": [
+          "LLM Ops",
+          "Prompt Engineering",
+          "Model Evaluation",
+          "AI Development"
+        ],
+        "rank": "#60"
       }
     ]
   },
@@ -7671,6 +7692,27 @@
           "Data Automation"
         ],
         "rank": "#42"
+      },
+      {
+        "name": "Mostly AI",
+        "tagline": "Generates high-quality synthetic data for AI training, testing, and analytics.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Mostly AI"
+          },
+          {
+            "key": "Features",
+            "val": "Preserves original data structure and patterns, privacy-preserving (GDPR, CCPA compliant), fast data generation, synthetic data for various data types (tabular, time-series)."
+          }
+        ],
+        "tags": [
+          "Synthetic Data",
+          "Data Generation",
+          "Data Privacy",
+          "AI Training Data"
+        ],
+        "rank": "#43"
       }
     ]
   },
