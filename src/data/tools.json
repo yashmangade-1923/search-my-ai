@@ -7713,6 +7713,27 @@
           "AI Training Data"
         ],
         "rank": "#43"
+      },
+      {
+        "name": "Faraday",
+        "tagline": "An AI agent designed to replicate scientific papers.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Inherent"
+          },
+          {
+            "key": "Features",
+            "val": "Replicates scientific papers, acts as an AI agent for research."
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Research",
+          "Scientific Papers",
+          "Data Replication"
+        ],
+        "rank": "#44"
       }
     ]
   },
