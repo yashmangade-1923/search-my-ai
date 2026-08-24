@@ -4243,6 +4243,26 @@
           "ByteDance"
         ],
         "rank": "#43"
+      },
+      {
+        "name": "Ox Alpha",
+        "tagline": "A mysterious new AI model that has emerged, driving speculation in AI communities.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Unknown"
+          },
+          {
+            "key": "Features",
+            "val": "An emerging AI model, likely generative, attracting significant online attention and speculation about its capabilities."
+          }
+        ],
+        "tags": [
+          "AI Model",
+          "Generative AI",
+          "Emerging AI"
+        ],
+        "rank": "#44"
       }
     ]
   },
