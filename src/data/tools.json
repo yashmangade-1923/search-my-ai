@@ -6255,6 +6255,26 @@
           "AI-powered"
         ],
         "rank": "#61"
+      },
+      {
+        "name": "Instinct",
+        "tagline": "A powerful AI assistant capable of broad actions on users' behalf, raising privacy and security concerns.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Not Specified"
+          },
+          {
+            "key": "Features",
+            "val": "Sweeping access, broad terms, ability to act on users’ behalf."
+          }
+        ],
+        "tags": [
+          "AI Assistant",
+          "Productivity",
+          "Privacy Concerns"
+        ],
+        "rank": "#62"
       }
     ]
   },
