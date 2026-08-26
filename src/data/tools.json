@@ -8721,6 +8721,27 @@
           "summarization"
         ],
         "rank": "#16"
+      },
+      {
+        "name": "Keenable",
+        "tagline": "A platform indexing the web to provide a vast search index for AI agents.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Keenable"
+          },
+          {
+            "key": "Features",
+            "val": "Provides specialized web indexing for AI agents, allowing them to access and process information from the internet more effectively."
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Web Indexing",
+          "Search",
+          "Platform"
+        ],
+        "rank": "#17"
       }
     ]
   }
