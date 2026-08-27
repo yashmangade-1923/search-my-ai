@@ -1247,6 +1247,27 @@
           "collaboration"
         ],
         "rank": "#26"
+      },
+      {
+        "name": "Perceptron",
+        "tagline": "An AI model providing visual intelligence to help machines navigate and understand the world, especially for factory automation.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Perceptron (founded by ex-Meta scientists)"
+          },
+          {
+            "key": "Features",
+            "val": "Provides in-depth visual intelligence, helps machines navigate and understand their environment."
+          }
+        ],
+        "tags": [
+          "Visual AI",
+          "Machine Vision",
+          "AI Model",
+          "Industrial AI"
+        ],
+        "rank": "#27"
       }
     ]
   },
@@ -4849,6 +4870,28 @@
           "Audio Tool"
         ],
         "rank": "#22"
+      },
+      {
+        "name": "Radar",
+        "tagline": "Podcast intelligence platform that transcribes and analyzes podcasts, making them searchable and accessible to AI agents.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Particle"
+          },
+          {
+            "key": "Features",
+            "val": "Transcribes and analyzes over 130,000 podcasts, makes conversations searchable on the web, accessible to AI agents via API and MCP."
+          }
+        ],
+        "tags": [
+          "Podcast",
+          "Transcription",
+          "Search",
+          "AI Agents",
+          "Audio Analysis"
+        ],
+        "rank": "#23"
       }
     ]
   },
@@ -6275,6 +6318,28 @@
           "Privacy Concerns"
         ],
         "rank": "#62"
+      },
+      {
+        "name": "Runable",
+        "tagline": "A platform that leverages AI agents for building, managing, and accelerating the growth of businesses.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Runable"
+          },
+          {
+            "key": "Features",
+            "val": "Supports AI agents for various business tasks, high token usage indicates active platform and user base."
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Business Automation",
+          "Productivity",
+          "Growth",
+          "Enterprise AI"
+        ],
+        "rank": "#63"
       }
     ]
   },
@@ -7774,6 +7839,28 @@
           "Data Replication"
         ],
         "rank": "#44"
+      },
+      {
+        "name": "QueryStory",
+        "tagline": "A platform that uses LLMs and cybersecurity to enhance the coherence and trustworthiness of AI queries and outputs.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "QueryStory"
+          },
+          {
+            "key": "Features",
+            "val": "Leverages LLMs and cybersecurity know-how, makes AI queries coherent and verifiable."
+          }
+        ],
+        "tags": [
+          "LLM",
+          "Cybersecurity",
+          "AI Query",
+          "Trustworthy AI",
+          "Data Integrity"
+        ],
+        "rank": "#45"
       }
     ]
   },
