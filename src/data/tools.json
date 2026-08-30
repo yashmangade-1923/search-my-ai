@@ -3244,6 +3244,27 @@
           "AI Development"
         ],
         "rank": "#60"
+      },
+      {
+        "name": "OpenAI Assistants API",
+        "tagline": "A platform for developers to build powerful AI assistants and agents within their applications.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Features",
+            "val": "Persistent threads, built-in tools (Code Interpreter, Retrieval), function calling, agentic capabilities"
+          }
+        ],
+        "tags": [
+          "API",
+          "Developer Tool",
+          "Agent",
+          "LLM Integration"
+        ],
+        "rank": "#61"
       }
     ]
   },
@@ -4892,6 +4913,28 @@
           "Audio Analysis"
         ],
         "rank": "#23"
+      },
+      {
+        "name": "WhisperX",
+        "tagline": "An enhanced speech-to-text alignment and diarization tool built on OpenAI's Whisper model.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Max Bain (open-source project)"
+          },
+          {
+            "key": "Features",
+            "val": "Speaker diarization, accurate VAD (Voice Activity Detection), forced alignment, supports various languages"
+          }
+        ],
+        "tags": [
+          "Open Source",
+          "Speech-to-Text",
+          "Audio Processing",
+          "Diarization",
+          "Python Library"
+        ],
+        "rank": "#24"
       }
     ]
   },
