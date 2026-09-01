@@ -1840,6 +1840,26 @@
           "mobile app"
         ],
         "rank": "#22"
+      },
+      {
+        "name": "Clipto",
+        "tagline": "AI-powered platform for searching and analyzing terabytes of video content.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Clipto (a three-year-old startup)"
+          },
+          {
+            "key": "Features",
+            "val": "AI-driven video search, scalable to terabytes of video data, reached $15M ARR."
+          }
+        ],
+        "tags": [
+          "Video Search",
+          "Video Analysis",
+          "AI Video"
+        ],
+        "rank": "#23"
       }
     ]
   },
@@ -6383,6 +6403,47 @@
           "Enterprise AI"
         ],
         "rank": "#63"
+      },
+      {
+        "name": "Blue Voice",
+        "tagline": "A specialized AI assistant for police officers, trained on department-specific laws and protocols.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Not specified, developed by a Harvard Law dropout who raised $6M."
+          },
+          {
+            "key": "Features",
+            "val": "Accesses department-specific laws, local ordinances, protocols, and guidelines; provides specialized legal/policy insights."
+          }
+        ],
+        "tags": [
+          "Legal AI",
+          "Police Assistant",
+          "Specialized Chatbot"
+        ],
+        "rank": "#64"
+      },
+      {
+        "name": "Circleback",
+        "tagline": "An AI-powered meeting note-taker that automates transcription and summarization.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Circleback"
+          },
+          {
+            "key": "Features",
+            "val": "Automated meeting notes, transcription, summarization, offers a free tier and various pricing plans."
+          }
+        ],
+        "tags": [
+          "Meeting Assistant",
+          "Note-taking",
+          "Productivity AI",
+          "Transcription"
+        ],
+        "rank": "#65"
       }
     ]
   },
