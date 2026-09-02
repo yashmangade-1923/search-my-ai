@@ -6444,6 +6444,68 @@
           "Transcription"
         ],
         "rank": "#65"
+      },
+      {
+        "name": "Empirik",
+        "tagline": "Predicts IT infrastructure outages before they occur.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Empirik"
+          },
+          {
+            "key": "Features",
+            "val": "Proactive outage prediction for IT infrastructure reliability."
+          }
+        ],
+        "tags": [
+          "IT Operations",
+          "Predictive Analytics",
+          "System Reliability"
+        ],
+        "rank": "#66"
+      },
+      {
+        "name": "AIR",
+        "tagline": "Platform for discovering, vetting, and managing AI agents within companies.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "AIR"
+          },
+          {
+            "key": "Features",
+            "val": "Discover agents, continuously vet skills/add-ons, block unwanted behavior."
+          }
+        ],
+        "tags": [
+          "AI Governance",
+          "Agent Management",
+          "AI Security",
+          "Enterprise AI"
+        ],
+        "rank": "#67"
+      },
+      {
+        "name": "Fambot",
+        "tagline": "An AI 'chief of staff' designed to help families manage daily logistics.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Fambot"
+          },
+          {
+            "key": "Features",
+            "val": "Manages emails, calendars, school updates, sports schedules, and family logistics."
+          }
+        ],
+        "tags": [
+          "Family Management",
+          "Personal Assistant",
+          "Scheduling AI",
+          "Productivity"
+        ],
+        "rank": "#68"
       }
     ]
   },
@@ -7965,6 +8027,26 @@
           "Data Integrity"
         ],
         "rank": "#45"
+      },
+      {
+        "name": "AfterQuery",
+        "tagline": "AI model-training startup enabling advanced model development.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "AfterQuery"
+          },
+          {
+            "key": "Features",
+            "val": "Platform for training AI models."
+          }
+        ],
+        "tags": [
+          "AI Training",
+          "Machine Learning",
+          "Model Development"
+        ],
+        "rank": "#46"
       }
     ]
   },
@@ -8508,6 +8590,27 @@
           "Developer Tool"
         ],
         "rank": "#20"
+      },
+      {
+        "name": "Google Pics",
+        "tagline": "AI design tool from Google for prompt-based image creation.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "Create designs using text prompts, competing with Canva and Adobe."
+          }
+        ],
+        "tags": [
+          "AI Design",
+          "Image Generation",
+          "Prompt-based",
+          "Creative Software"
+        ],
+        "rank": "#21"
       }
     ]
   },
