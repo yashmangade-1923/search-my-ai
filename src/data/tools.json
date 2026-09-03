@@ -3285,6 +3285,28 @@
           "LLM Integration"
         ],
         "rank": "#61"
+      },
+      {
+        "name": "Hugging Face Transformers",
+        "tagline": "A state-of-the-art machine learning library for natural language processing, computer vision, and audio tasks.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Hugging Face"
+          },
+          {
+            "key": "Features",
+            "val": "Provides thousands of pre-trained models for various modalities (text, vision, audio), enables fine-tuning, supports PyTorch, TensorFlow, and JAX."
+          }
+        ],
+        "tags": [
+          "NLP",
+          "Computer Vision",
+          "Audio AI",
+          "Machine Learning Library",
+          "Open Source"
+        ],
+        "rank": "#62"
       }
     ]
   },
@@ -6506,6 +6528,27 @@
           "Productivity"
         ],
         "rank": "#68"
+      },
+      {
+        "name": "Tesseract OCR",
+        "tagline": "An open-source optical character recognition (OCR) engine for extracting text from images.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google (sponsored)"
+          },
+          {
+            "key": "Features",
+            "val": "Supports over 100 languages, works on various image formats, command-line interface, API integrations."
+          }
+        ],
+        "tags": [
+          "OCR",
+          "Document Processing",
+          "Text Extraction",
+          "Open Source"
+        ],
+        "rank": "#69"
       }
     ]
   },
