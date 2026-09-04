@@ -3307,6 +3307,27 @@
           "Open Source"
         ],
         "rank": "#62"
+      },
+      {
+        "name": "Abliteration.ai",
+        "tagline": "Platform providing access to powerful AI models without guardrails for cybersecurity and development.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Abliteration.ai"
+          },
+          {
+            "key": "Features",
+            "val": "Removes AI guardrails, makes powerful AI models without guardrails easier to access, improves cybersecurity."
+          }
+        ],
+        "tags": [
+          "AI models",
+          "guardrails",
+          "cybersecurity",
+          "development"
+        ],
+        "rank": "#63"
       }
     ]
   },
@@ -4347,6 +4368,27 @@
           "Emerging AI"
         ],
         "rank": "#44"
+      },
+      {
+        "name": "Ollie",
+        "tagline": "Privacy-focused AI assistant designed for families.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Ollie"
+          },
+          {
+            "key": "Features",
+            "val": "Family-focused, won’t use data to train AI models, won't share data with others, strong focus on privacy."
+          }
+        ],
+        "tags": [
+          "AI assistant",
+          "privacy",
+          "family",
+          "chatbot"
+        ],
+        "rank": "#45"
       }
     ]
   },
@@ -8090,6 +8132,27 @@
           "Model Development"
         ],
         "rank": "#46"
+      },
+      {
+        "name": "WeatherNext 3",
+        "tagline": "Google's advanced AI weather model for precise forecasting.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "Latest AI weather model, uses deep learning techniques, integrates with Google Search, Google Maps, and Gemini."
+          }
+        ],
+        "tags": [
+          "weather",
+          "forecasting",
+          "deep learning",
+          "Google"
+        ],
+        "rank": "#47"
       }
     ]
   },
