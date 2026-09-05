@@ -1268,6 +1268,32 @@
           "Industrial AI"
         ],
         "rank": "#27"
+      },
+      {
+        "name": "RunDiffusion",
+        "tagline": "Cloud-based platform for running Stable Diffusion models, offering fast and easy AI image generation.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "RunDiffusion"
+          },
+          {
+            "key": "Features",
+            "val": "Fast GPU servers, pre-installed models, custom model uploads, no setup required, web UI access (e.g., Automatic1111)."
+          },
+          {
+            "key": "Pricing Model",
+            "val": "Pay-as-you-go, subscription tiers"
+          }
+        ],
+        "tags": [
+          "Image Generation",
+          "Cloud Platform",
+          "Stable Diffusion",
+          "Art Generation",
+          "No-Code"
+        ],
+        "rank": "#28"
       }
     ]
   },
@@ -1860,6 +1886,32 @@
           "AI Video"
         ],
         "rank": "#23"
+      },
+      {
+        "name": "Magic Animate",
+        "tagline": "Animate static images and human photos into dynamic videos with controllable motion sequences.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Tencent ARC Lab (Open Source Project)"
+          },
+          {
+            "key": "Features",
+            "val": "Image-to-video animation, character animation, customizable motion sequences, supports various input formats."
+          },
+          {
+            "key": "Pricing Model",
+            "val": "Open Source"
+          }
+        ],
+        "tags": [
+          "Video Generation",
+          "Image Animation",
+          "Open Source",
+          "Motion Graphics",
+          "Deepfake"
+        ],
+        "rank": "#24"
       }
     ]
   },
