@@ -1294,6 +1294,28 @@
           "No-Code"
         ],
         "rank": "#28"
+      },
+      {
+        "name": "ComfyUI",
+        "tagline": "Powerful node-based UI for Stable Diffusion workflows.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Open-source community"
+          },
+          {
+            "key": "Features",
+            "val": "Node-based interface, highly customizable workflows, efficient resource usage, supports advanced Stable Diffusion features (ControlNet, LoRAs, custom models, inpainting, outpainting)."
+          }
+        ],
+        "tags": [
+          "Image Generation",
+          "Stable Diffusion",
+          "Workflow Automation",
+          "Node-based",
+          "Customizable"
+        ],
+        "rank": "#29"
       }
     ]
   },
@@ -4441,6 +4463,28 @@
           "chatbot"
         ],
         "rank": "#45"
+      },
+      {
+        "name": "text-generation-webui",
+        "tagline": "A gradio web UI for running large language models locally.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "oobabooga (primary maintainer)"
+          },
+          {
+            "key": "Features",
+            "val": "Supports various LLM formats (GGML, GPTQ, GGUF, ExLlama, Transformers), multiple chat modes, text generation, customizable interface, API for integration."
+          }
+        ],
+        "tags": [
+          "LLM",
+          "Local LLM",
+          "Text Generation",
+          "Open-source",
+          "Chatbot"
+        ],
+        "rank": "#46"
       }
     ]
   },
