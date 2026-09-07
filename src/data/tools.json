@@ -1316,6 +1316,31 @@
           "Customizable"
         ],
         "rank": "#29"
+      },
+      {
+        "name": "Hugging Face Diffusers",
+        "tagline": "An open-source library providing pre-trained diffusion models for generating images, videos, and audio.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Hugging Face"
+          },
+          {
+            "key": "Features",
+            "val": "Easy-to-use pipelines, diverse model architectures, training utilities, community-contributed models, support for various generative tasks."
+          }
+        ],
+        "tags": [
+          "Diffusion Models",
+          "Generative AI",
+          "Image Generation",
+          "Video Generation",
+          "Audio Generation",
+          "Open Source",
+          "Library",
+          "Framework"
+        ],
+        "rank": "#30"
       }
     ]
   },
@@ -8249,6 +8274,29 @@
           "Google"
         ],
         "rank": "#47"
+      },
+      {
+        "name": "NVIDIA Morpheus",
+        "tagline": "An open AI framework for cybersecurity that provides a highly optimized AI pipeline for detecting and preventing security threats.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "NVIDIA"
+          },
+          {
+            "key": "Features",
+            "val": "Real-time threat detection, AI-powered security analytics, data processing pipelines, pre-trained AI models for cybersecurity, anomaly detection."
+          }
+        ],
+        "tags": [
+          "Cybersecurity",
+          "Threat Detection",
+          "AI Framework",
+          "Data Analytics",
+          "Security",
+          "NVIDIA"
+        ],
+        "rank": "#48"
       }
     ]
   },
