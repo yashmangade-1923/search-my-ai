@@ -4510,6 +4510,26 @@
           "Chatbot"
         ],
         "rank": "#46"
+      },
+      {
+        "name": "Muse",
+        "tagline": "Meta's new personal AI agent designed to assist users across various digital services.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Meta"
+          },
+          {
+            "key": "Features",
+            "val": "Access to user email, calendars, payments, and health services for personalized assistance."
+          }
+        ],
+        "tags": [
+          "Personal AI",
+          "AI Assistant",
+          "Consumer AI"
+        ],
+        "rank": "#47"
       }
     ]
   },
