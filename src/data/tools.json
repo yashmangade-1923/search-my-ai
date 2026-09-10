@@ -1341,6 +1341,27 @@
           "Framework"
         ],
         "rank": "#30"
+      },
+      {
+        "name": "Apple Reference Image",
+        "tagline": "A system to help users determine whether iPhone photos have been edited, including alterations made by AI.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Apple"
+          },
+          {
+            "key": "Features",
+            "val": "Verifies photo authenticity, detects AI alterations, provides proof against AI manipulation."
+          }
+        ],
+        "tags": [
+          "Image verification",
+          "AI detection",
+          "Photo authenticity",
+          "Anti-deepfake"
+        ],
+        "rank": "#31"
       }
     ]
   },
