@@ -3448,6 +3448,28 @@
           "development"
         ],
         "rank": "#63"
+      },
+      {
+        "name": "DeepSeek",
+        "tagline": "An AI company known for developing open-source large language models and coding assistants.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "DeepSeek"
+          },
+          {
+            "key": "Features",
+            "val": "Open-source large language models, coding models, code generation, natural language processing."
+          }
+        ],
+        "tags": [
+          "LLM",
+          "coding",
+          "chatbot",
+          "open-source",
+          "writing"
+        ],
+        "rank": "#64"
       }
     ]
   },
