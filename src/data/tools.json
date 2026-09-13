@@ -4573,6 +4573,49 @@
           "Consumer AI"
         ],
         "rank": "#47"
+      },
+      {
+        "name": "Yi-Large",
+        "tagline": "A high-performing large language model known for its efficiency and multilingual capabilities.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "01.AI"
+          },
+          {
+            "key": "Features",
+            "val": "Multilingual support, strong performance in benchmarks, long context window, efficient inference"
+          }
+        ],
+        "tags": [
+          "LLM",
+          "Model",
+          "Multilingual",
+          "Generative AI"
+        ],
+        "rank": "#48"
+      },
+      {
+        "name": "Mistral 7B",
+        "tagline": "A small yet powerful open-source large language model from Mistral AI, highly efficient for various tasks.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Mistral AI"
+          },
+          {
+            "key": "Features",
+            "val": "Efficient performance, suitable for fine-tuning, strong capabilities despite its size, open-source weights"
+          }
+        ],
+        "tags": [
+          "LLM",
+          "Model",
+          "Open Source",
+          "Generative AI",
+          "Text Generation"
+        ],
+        "rank": "#49"
       }
     ]
   },
