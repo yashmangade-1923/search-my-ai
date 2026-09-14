@@ -3470,6 +3470,28 @@
           "writing"
         ],
         "rank": "#64"
+      },
+      {
+        "name": "LiteLLM",
+        "tagline": "Simplify calling all LLM APIs with a unified interface.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Ishaan Gulrajani, Krrish Dholakia (Open-source)"
+          },
+          {
+            "key": "Features",
+            "val": "Unified API for various LLMs (OpenAI, Azure, Anthropic, Cohere, etc.), cost tracking, fallbacks, streaming, prompt template management, caching, data privacy."
+          }
+        ],
+        "tags": [
+          "llm api",
+          "developer tool",
+          "python library",
+          "api management",
+          "orchestration"
+        ],
+        "rank": "#65"
       }
     ]
   },
@@ -8403,6 +8425,28 @@
           "NVIDIA"
         ],
         "rank": "#48"
+      },
+      {
+        "name": "Ragas",
+        "tagline": "Evaluation framework for Retrieval Augmented Generation (RAG) systems.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Ragas.io (Open-source)"
+          },
+          {
+            "key": "Features",
+            "val": "Metrics for faithfulness, answer relevance, context relevance, context recall, context precision. Integrates with LlamaIndex and LangChain. Benchmarking RAG pipelines."
+          }
+        ],
+        "tags": [
+          "rag",
+          "llm evaluation",
+          "data quality",
+          "nlp",
+          "benchmarking"
+        ],
+        "rank": "#49"
       }
     ]
   },
