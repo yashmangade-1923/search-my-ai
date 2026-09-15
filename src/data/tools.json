@@ -6840,6 +6840,28 @@
           "Open Source"
         ],
         "rank": "#69"
+      },
+      {
+        "name": "Fathom",
+        "tagline": "An AI-powered notetaker that automatically records and summarizes meetings.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "YC-backed (acquired by Superhuman)"
+          },
+          {
+            "key": "Features",
+            "val": "Records meetings, provides automatic notetaking, generous free plan, over 400,000 monthly active users"
+          }
+        ],
+        "tags": [
+          "Meeting Assistant",
+          "Notetaker",
+          "Summarization",
+          "Productivity",
+          "AI-powered"
+        ],
+        "rank": "#70"
       }
     ]
   },
@@ -7279,6 +7301,28 @@
           "machine learning"
         ],
         "rank": "#15"
+      },
+      {
+        "name": "Daydream",
+        "tagline": "A fashion app leveraging AI to help users shop outfits directly from their camera roll.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Not explicitly stated"
+          },
+          {
+            "key": "Features",
+            "val": "Turns saved outfit photos into shoppable results; searches for products through Siri without opening the app"
+          }
+        ],
+        "tags": [
+          "Fashion",
+          "Shopping",
+          "Image Analysis",
+          "Product Discovery",
+          "iOS"
+        ],
+        "rank": "#16"
       }
     ]
   },
