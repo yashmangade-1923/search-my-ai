@@ -1362,6 +1362,27 @@
           "Anti-deepfake"
         ],
         "rank": "#31"
+      },
+      {
+        "name": "Superpose",
+        "tagline": "An AI-powered camera app that suggests poses for photos.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Former TikTok execs (startup)"
+          },
+          {
+            "key": "Features",
+            "val": "Analyzes selfies or photos and generates four potential poses using AI."
+          }
+        ],
+        "tags": [
+          "Photography",
+          "Posing",
+          "Image Generation",
+          "Social Media"
+        ],
+        "rank": "#32"
       }
     ]
   },
@@ -3492,6 +3513,27 @@
           "orchestration"
         ],
         "rank": "#65"
+      },
+      {
+        "name": "Nemotron",
+        "tagline": "Nvidia's open-weight AI model for developing specialized AI applications.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Nvidia"
+          },
+          {
+            "key": "Features",
+            "val": "Open-weight, foundational AI model."
+          }
+        ],
+        "tags": [
+          "Foundation Model",
+          "Open-Weight",
+          "Developer Tool",
+          "LLM (implied)"
+        ],
+        "rank": "#66"
       }
     ]
   },
@@ -6862,6 +6904,28 @@
           "AI-powered"
         ],
         "rank": "#70"
+      },
+      {
+        "name": "Salesforce Koa",
+        "tagline": "An AI reasoning model designed for sales, marketing, and customer support tasks.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Salesforce"
+          },
+          {
+            "key": "Features",
+            "val": "Built on Nvidia's Nemotron model, specialized AI reasoning for business functions."
+          }
+        ],
+        "tags": [
+          "Business AI",
+          "CRM AI",
+          "Sales AI",
+          "Marketing AI",
+          "Customer Service AI"
+        ],
+        "rank": "#71"
       }
     ]
   },
