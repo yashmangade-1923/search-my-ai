@@ -6926,6 +6926,26 @@
           "Customer Service AI"
         ],
         "rank": "#71"
+      },
+      {
+        "name": "Cowork",
+        "tagline": "An integrated platform by Anthropic merging chat functionalities with collaborative features.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Anthropic"
+          },
+          {
+            "key": "Features",
+            "val": "Merges Claude chat, collaborative functionalities"
+          }
+        ],
+        "tags": [
+          "Collaboration",
+          "Productivity",
+          "Chatbot Integration"
+        ],
+        "rank": "#72"
       }
     ]
   },
