@@ -9139,6 +9139,28 @@
           "Creative Software"
         ],
         "rank": "#21"
+      },
+      {
+        "name": "Restyle",
+        "tagline": "AI-powered feature by Pinterest to redesign rooms and visualize furniture and decor.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Pinterest"
+          },
+          {
+            "key": "Features",
+            "val": "Visualizing furniture, decor, and lighting in photos of user's own rooms; helping turn saved inspiration into purchases."
+          }
+        ],
+        "tags": [
+          "interior design",
+          "home decor",
+          "visualization",
+          "image editing",
+          "e-commerce"
+        ],
+        "rank": "#22"
       }
     ]
   },
