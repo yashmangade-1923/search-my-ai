@@ -3534,6 +3534,26 @@
           "LLM (implied)"
         ],
         "rank": "#66"
+      },
+      {
+        "name": "Jev",
+        "tagline": "A new kind of AI model offering a cheaper and faster path to software intelligence for developers.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "From a ChatGPT inventor"
+          },
+          {
+            "key": "Features",
+            "val": "Cheaper and faster path to software intelligence"
+          }
+        ],
+        "tags": [
+          "AI Model",
+          "Developer Tool",
+          "Software Intelligence"
+        ],
+        "rank": "#67"
       }
     ]
   },
@@ -6946,6 +6966,48 @@
           "Chatbot Integration"
         ],
         "rank": "#72"
+      },
+      {
+        "name": "Google CC",
+        "tagline": "An AI agent that helps families run their households by coordinating schedules, tasks, and more.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "Shares emails, schedules, and tasks; manages calendars, fills out forms, makes shopping lists, plans meals"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Household Management",
+          "Family Productivity",
+          "Personal Assistant"
+        ],
+        "rank": "#73"
+      },
+      {
+        "name": "Meta Muse",
+        "tagline": "An AI agent available on Mac that can work with your files and apps to take actions on your behalf.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Meta"
+          },
+          {
+            "key": "Features",
+            "val": "Works with files and apps, takes actions on your behalf on Mac"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Desktop Automation",
+          "Mac Integration",
+          "Productivity Assistant"
+        ],
+        "rank": "#74"
       }
     ]
   },
