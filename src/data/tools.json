@@ -8637,6 +8637,27 @@
           "benchmarking"
         ],
         "rank": "#49"
+      },
+      {
+        "name": "Vals AI",
+        "tagline": "A platform aiming to become the gold standard for neutral and trustworthy AI benchmarking.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Vals"
+          },
+          {
+            "key": "Features",
+            "val": "Provides neutral and trustworthy resources for AI model benchmarking and evaluation."
+          }
+        ],
+        "tags": [
+          "AI benchmarking",
+          "model evaluation",
+          "trustworthiness",
+          "AI research"
+        ],
+        "rank": "#50"
       }
     ]
   },
