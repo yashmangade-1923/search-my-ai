@@ -7008,6 +7008,27 @@
           "Productivity Assistant"
         ],
         "rank": "#74"
+      },
+      {
+        "name": "ScrollEd",
+        "tagline": "Transforms textbooks into engaging, scrollable multimedia feeds with video, audio, and quizzes.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "ScrollEd"
+          },
+          {
+            "key": "Features",
+            "val": "Converts textbooks to interactive feeds; Generates video, audio, and quizzes from text content; Instagram-like interface for learning."
+          }
+        ],
+        "tags": [
+          "Education",
+          "Content Transformation",
+          "Learning",
+          "Multimedia"
+        ],
+        "rank": "#75"
       }
     ]
   },
