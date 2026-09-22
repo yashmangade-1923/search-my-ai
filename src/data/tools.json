@@ -7029,6 +7029,28 @@
           "Multimedia"
         ],
         "rank": "#75"
+      },
+      {
+        "name": "Tabby",
+        "tagline": "AI-powered real-time bookkeeping interface",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "A former accountant (creator)"
+          },
+          {
+            "key": "Features",
+            "val": "Handles clients’ paperwork, provides up-to-the-minute data on business profit and loss"
+          }
+        ],
+        "tags": [
+          "Bookkeeping",
+          "Finance",
+          "Accounting",
+          "Productivity",
+          "Business"
+        ],
+        "rank": "#76"
       }
     ]
   },
