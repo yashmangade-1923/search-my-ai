@@ -4700,6 +4700,48 @@
           "Text Generation"
         ],
         "rank": "#49"
+      },
+      {
+        "name": "GPT-6 Sol",
+        "tagline": "OpenAI's latest large language model, offering enhanced performance at a lower cost.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Features",
+            "val": "Lower cost, fewer mistakes, advanced AI capabilities"
+          }
+        ],
+        "tags": [
+          "LLM",
+          "AI Model",
+          "Generative AI",
+          "Chatbot"
+        ],
+        "rank": "#50"
+      },
+      {
+        "name": "GPT-6 Luna",
+        "tagline": "A new cutting-edge language model from OpenAI, providing improved efficiency and precision.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Features",
+            "val": "Lower cost, fewer mistakes, advanced AI capabilities"
+          }
+        ],
+        "tags": [
+          "LLM",
+          "AI Model",
+          "Generative AI",
+          "Chatbot"
+        ],
+        "rank": "#51"
       }
     ]
   },
