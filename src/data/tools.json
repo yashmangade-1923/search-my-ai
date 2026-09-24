@@ -5372,6 +5372,28 @@
           "Python Library"
         ],
         "rank": "#24"
+      },
+      {
+        "name": "Taste Profile",
+        "tagline": "Spotify feature allowing users to understand and reshape music recommendations using natural language.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Spotify"
+          },
+          {
+            "key": "Features",
+            "val": "View how Spotify understands tastes, use natural language to modify recommendations."
+          }
+        ],
+        "tags": [
+          "Music",
+          "Recommendations",
+          "Personalization",
+          "Natural Language",
+          "Spotify"
+        ],
+        "rank": "#25"
       }
     ]
   },
@@ -7093,6 +7115,27 @@
           "Business"
         ],
         "rank": "#76"
+      },
+      {
+        "name": "Ema",
+        "tagline": "Enterprise AI software and services platform.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Ema"
+          },
+          {
+            "key": "Features",
+            "val": "AI solutions for enterprise software and services, serving over 50 enterprise customers including Google and Microsoft."
+          }
+        ],
+        "tags": [
+          "Enterprise AI",
+          "Productivity",
+          "Business Software",
+          "AI Services"
+        ],
+        "rank": "#77"
       }
     ]
   },
@@ -9754,6 +9797,27 @@
           "Platform"
         ],
         "rank": "#17"
+      },
+      {
+        "name": "Ask Music",
+        "tagline": "Conversational AI feature within YouTube Music for finding desired songs and artists.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "YouTube (Google)"
+          },
+          {
+            "key": "Features",
+            "val": "Describe music in everyday language to find songs and artists."
+          }
+        ],
+        "tags": [
+          "Music",
+          "Conversational AI",
+          "Search",
+          "YouTube Music"
+        ],
+        "rank": "#18"
       }
     ]
   }
