@@ -3554,6 +3554,27 @@
           "Software Intelligence"
         ],
         "rank": "#67"
+      },
+      {
+        "name": "PrismML",
+        "tagline": "Platform for tiny open-weight LLMs designed to run efficiently on devices.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Prism"
+          },
+          {
+            "key": "Features",
+            "val": "Open-weight AI, on-device execution, optimized use of existing computing power."
+          }
+        ],
+        "tags": [
+          "LLM",
+          "On-device AI",
+          "Edge AI",
+          "Open-weight AI"
+        ],
+        "rank": "#68"
       }
     ]
   },
@@ -7136,6 +7157,27 @@
           "AI Services"
         ],
         "rank": "#77"
+      },
+      {
+        "name": "Ando",
+        "tagline": "Team messaging app designed for seamless collaboration between humans and AI agents.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Ando"
+          },
+          {
+            "key": "Features",
+            "val": "AI agents with distinct identities and inboxes, natural integration into conversations."
+          }
+        ],
+        "tags": [
+          "Team Collaboration",
+          "AI Agent",
+          "Messaging App",
+          "Workplace AI"
+        ],
+        "rank": "#78"
       }
     ]
   },
@@ -9372,6 +9414,27 @@
           "e-commerce"
         ],
         "rank": "#22"
+      },
+      {
+        "name": "Google Photos Virtual Closet",
+        "tagline": "AI-powered feature in Google Photos for creating a virtual wardrobe.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "Builds a virtual wardrobe from user photos, available on Android and iOS."
+          }
+        ],
+        "tags": [
+          "Virtual Wardrobe",
+          "Fashion AI",
+          "Image Analysis",
+          "Photo Organization"
+        ],
+        "rank": "#23"
       }
     ]
   },
