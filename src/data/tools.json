@@ -1383,6 +1383,26 @@
           "Social Media"
         ],
         "rank": "#32"
+      },
+      {
+        "name": "Stable Cascade",
+        "tagline": "A powerful latent diffusion model for high-quality image generation with an efficient multi-stage architecture.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Stability AI"
+          },
+          {
+            "key": "Features",
+            "val": "Improved aesthetic quality, efficient generation, flexible control over image synthesis."
+          }
+        ],
+        "tags": [
+          "Image Generation",
+          "Diffusion Model",
+          "Creative AI"
+        ],
+        "rank": "#33"
       }
     ]
   },
@@ -5415,6 +5435,26 @@
           "Spotify"
         ],
         "rank": "#25"
+      },
+      {
+        "name": "Riffusion",
+        "tagline": "Generative AI for real-time music and sound synthesis from text prompts and visual spectrograms.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Riffusion team"
+          },
+          {
+            "key": "Features",
+            "val": "Text-to-music generation, spectrogram visualization, style transfer, real-time control for audio creation."
+          }
+        ],
+        "tags": [
+          "Music Generation",
+          "Sound Synthesis",
+          "AI Audio"
+        ],
+        "rank": "#26"
       }
     ]
   },
