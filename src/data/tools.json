@@ -8868,6 +8868,26 @@
           "AI research"
         ],
         "rank": "#50"
+      },
+      {
+        "name": "Nscale",
+        "tagline": "A British AI neocloud platform focused on building massive AI data centers.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Nscale"
+          },
+          {
+            "key": "Features",
+            "val": "Provides AI cloud infrastructure, facilitates large-scale AI data center development."
+          }
+        ],
+        "tags": [
+          "AI Platform",
+          "Cloud Infrastructure",
+          "Data Management"
+        ],
+        "rank": "#51"
       }
     ]
   },
