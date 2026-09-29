@@ -4783,6 +4783,48 @@
           "Chatbot"
         ],
         "rank": "#51"
+      },
+      {
+        "name": "Sonnet 5.5",
+        "tagline": "Anthropic's significantly cheaper and faster mid-range AI model designed as a work partner.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Anthropic"
+          },
+          {
+            "key": "Features",
+            "val": "Faster response times, less token burn, improved efficiency for various tasks."
+          }
+        ],
+        "tags": [
+          "Large Language Model",
+          "AI Model",
+          "Chatbot",
+          "Efficiency"
+        ],
+        "rank": "#52"
+      },
+      {
+        "name": "Meta Business Agent",
+        "tagline": "Meta's AI agent platform specifically designed for enterprise businesses and developers.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Meta"
+          },
+          {
+            "key": "Features",
+            "val": "Enterprise-focused AI agent, leverages Meta's technology stack for business applications."
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Enterprise AI",
+          "Business Automation",
+          "Developer Tools"
+        ],
+        "rank": "#53"
       }
     ]
   },
@@ -5455,6 +5497,49 @@
           "AI Audio"
         ],
         "rank": "#26"
+      },
+      {
+        "name": "DetectifAI",
+        "tagline": "A startup building AI models to detect deepfake voices on smartphones in real time.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "DetectifAI"
+          },
+          {
+            "key": "Features",
+            "val": "AI models optimized for smartphone deployment, real-time deepfake voice flagging."
+          }
+        ],
+        "tags": [
+          "Deepfake Detection",
+          "Audio Analysis",
+          "Mobile AI",
+          "Fraud Prevention"
+        ],
+        "rank": "#27"
+      },
+      {
+        "name": "Modulate",
+        "tagline": "A voice AI platform offering models and an analysis suite to detect deepfakes, fraud, and scams.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Modulate"
+          },
+          {
+            "key": "Features",
+            "val": "Voice models, comprehensive analysis suite, deepfake detection, fraud detection, scam detection."
+          }
+        ],
+        "tags": [
+          "Voice AI",
+          "Deepfake Detection",
+          "Fraud Detection",
+          "Audio Security",
+          "Voice Analysis"
+        ],
+        "rank": "#28"
       }
     ]
   },
