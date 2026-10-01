@@ -3595,6 +3595,47 @@
           "Open-weight AI"
         ],
         "rank": "#68"
+      },
+      {
+        "name": "Flow Engineering",
+        "tagline": "Platform bringing AI agents to hardware design.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Flow Engineering"
+          },
+          {
+            "key": "Features",
+            "val": "AI agents for hardware design"
+          }
+        ],
+        "tags": [
+          "Hardware Design",
+          "AI Agents",
+          "Engineering"
+        ],
+        "rank": "#69"
+      },
+      {
+        "name": "Restate",
+        "tagline": "Durable execution engine for AI agents with custom storage and replication.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Restate"
+          },
+          {
+            "key": "Features",
+            "val": "Durable execution engine; custom storage, replication, and redundancy layers for fast, lightweight performance"
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Infrastructure",
+          "Execution Engine",
+          "Durability"
+        ],
+        "rank": "#70"
       }
     ]
   },
@@ -7303,6 +7344,26 @@
           "Workplace AI"
         ],
         "rank": "#78"
+      },
+      {
+        "name": "Destro AI",
+        "tagline": "AI platform for orchestrating collaboration between robots and humans.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Destro AI"
+          },
+          {
+            "key": "Features",
+            "val": "Enables collaboration between robots and humans"
+          }
+        ],
+        "tags": [
+          "Robotics",
+          "Collaboration",
+          "Workflow Automation"
+        ],
+        "rank": "#79"
       }
     ]
   },
