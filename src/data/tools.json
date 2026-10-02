@@ -3636,6 +3636,48 @@
           "Durability"
         ],
         "rank": "#70"
+      },
+      {
+        "name": "Photon",
+        "tagline": "A platform for developers to build AI agents that replace traditional mobile apps and work over messaging platforms.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Photon"
+          },
+          {
+            "key": "Features",
+            "val": "AI agent development, iMessage, SMS/RCS, email integration, app replacement capabilities."
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Developer Tool",
+          "Messaging",
+          "Platform"
+        ],
+        "rank": "#71"
+      },
+      {
+        "name": "Decisions API",
+        "tagline": "An OpenAI API providing fast and cheap intelligence for decision-making, described as a Jev clone.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Features",
+            "val": "Decision-making capabilities, Jev-clone intelligence, developer API integration."
+          }
+        ],
+        "tags": [
+          "API",
+          "Decision Model",
+          "AI Model",
+          "Developer Tool"
+        ],
+        "rank": "#72"
       }
     ]
   },
@@ -4866,6 +4908,27 @@
           "Developer Tools"
         ],
         "rank": "#53"
+      },
+      {
+        "name": "Sidekick",
+        "tagline": "An AI agent within Shopify's Canvas for building and customizing online stores through chat.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Shopify"
+          },
+          {
+            "key": "Features",
+            "val": "Chat-based store customization, real-time design changes, AI agent interaction."
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Chatbot",
+          "E-commerce",
+          "Shopify"
+        ],
+        "rank": "#54"
       }
     ]
   },
@@ -9034,6 +9097,26 @@
           "Data Management"
         ],
         "rank": "#51"
+      },
+      {
+        "name": "Strands Decider 2B",
+        "tagline": "A Jev-like decision model released by Amazon Web Services' Strand Labs.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Amazon Web Services' Strand Labs"
+          },
+          {
+            "key": "Features",
+            "val": "Decision model capabilities, Jev-like intelligence for various applications."
+          }
+        ],
+        "tags": [
+          "Decision Model",
+          "AI Model",
+          "Amazon AWS"
+        ],
+        "rank": "#52"
       }
     ]
   },
@@ -9641,6 +9724,27 @@
           "Photo Organization"
         ],
         "rank": "#23"
+      },
+      {
+        "name": "Canvas",
+        "tagline": "An AI-powered site builder from Shopify for creating and customizing online stores.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Shopify"
+          },
+          {
+            "key": "Features",
+            "val": "AI agent interaction, real-time design changes, e-commerce store creation."
+          }
+        ],
+        "tags": [
+          "E-commerce",
+          "Website Builder",
+          "AI Agent",
+          "Design"
+        ],
+        "rank": "#24"
       }
     ]
   },
