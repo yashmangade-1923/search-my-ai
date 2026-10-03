@@ -7427,6 +7427,28 @@
           "Workflow Automation"
         ],
         "rank": "#79"
+      },
+      {
+        "name": "Read.AI",
+        "tagline": "AI assistant for online meetings, providing summaries, transcripts, and insights.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Read AI"
+          },
+          {
+            "key": "Features",
+            "val": "Real-time meeting analysis, automatic summaries, full transcripts, key takeaways, sentiment analysis, action items, meeting timer for platforms like Zoom, Google Meet, and Microsoft Teams."
+          }
+        ],
+        "tags": [
+          "Meeting Assistant",
+          "Transcription",
+          "Summarization",
+          "Productivity",
+          "Virtual Meetings"
+        ],
+        "rank": "#80"
       }
     ]
   },
