@@ -4929,6 +4929,27 @@
           "Shopify"
         ],
         "rank": "#54"
+      },
+      {
+        "name": "Reka Flash",
+        "tagline": "A fast and efficient multimodal AI model designed for high-performance applications.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Reka AI"
+          },
+          {
+            "key": "Features",
+            "val": "Multimodal understanding (text, image, video), high speed, cost-efficiency, suitable for real-time applications."
+          }
+        ],
+        "tags": [
+          "multimodal",
+          "llm",
+          "foundation model",
+          "efficient"
+        ],
+        "rank": "#55"
       }
     ]
   },
