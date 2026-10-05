@@ -7470,6 +7470,52 @@
           "Virtual Meetings"
         ],
         "rank": "#80"
+      },
+      {
+        "name": "Atlassian Intelligence",
+        "tagline": "An AI assistant integrated across Atlassian products like Jira and Confluence to enhance team productivity and collaboration.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Atlassian"
+          },
+          {
+            "key": "Features",
+            "val": "Summarize content, generate text, answer questions, automate tasks within Jira, Confluence, and Trello."
+          }
+        ],
+        "tags": [
+          "AI Assistant",
+          "Productivity",
+          "Collaboration",
+          "Jira",
+          "Confluence",
+          "Atlassian"
+        ],
+        "rank": "#81"
+      },
+      {
+        "name": "Microsoft Recall",
+        "tagline": "An AI-powered 'photographic memory' feature for Windows PCs, designed to record and allow search of user activity for contextual assistance.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Microsoft"
+          },
+          {
+            "key": "Features",
+            "val": "Activity timeline, semantic search of past PC actions, contextual assistance based on recorded sessions."
+          }
+        ],
+        "tags": [
+          "Windows",
+          "AI Assistant",
+          "Memory",
+          "Search",
+          "Productivity",
+          "Privacy"
+        ],
+        "rank": "#82"
       }
     ]
   },
