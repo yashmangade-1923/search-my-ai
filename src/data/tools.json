@@ -4950,6 +4950,48 @@
           "efficient"
         ],
         "rank": "#55"
+      },
+      {
+        "name": "TikTok Shopping Assistant",
+        "tagline": "A conversational AI agent on TikTok to help users discover and purchase products.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "TikTok"
+          },
+          {
+            "key": "Features",
+            "val": "Conversational AI, product discovery, facilitates purchases."
+          }
+        ],
+        "tags": [
+          "AI assistant",
+          "shopping",
+          "conversational AI",
+          "e-commerce"
+        ],
+        "rank": "#56"
+      },
+      {
+        "name": "Hot Girl Hotline",
+        "tagline": "AI-powered personalized dating and relationship advice for young women.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Hot Girl Hotline"
+          },
+          {
+            "key": "Features",
+            "val": "Personalized advice, emphasis on safety and avoiding emotional dependency."
+          }
+        ],
+        "tags": [
+          "AI advice",
+          "relationships",
+          "personalization",
+          "wellness"
+        ],
+        "rank": "#57"
       }
     ]
   },
@@ -7516,6 +7558,28 @@
           "Privacy"
         ],
         "rank": "#82"
+      },
+      {
+        "name": "HackerRank AI Interviewer",
+        "tagline": "An AI-powered tool that conducts job interviews, streamlining the recruitment process.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "HackerRank"
+          },
+          {
+            "key": "Features",
+            "val": "Conducts job interviews, used by enterprises like Snowflake and Capgemini, already conducted over 500,000 interviews."
+          }
+        ],
+        "tags": [
+          "AI interviewer",
+          "recruitment",
+          "HR",
+          "hiring",
+          "assessment"
+        ],
+        "rank": "#83"
       }
     ]
   },
@@ -9206,6 +9270,28 @@
           "Amazon AWS"
         ],
         "rank": "#52"
+      },
+      {
+        "name": "Beam",
+        "tagline": "An open-weight AI model for enterprises and sovereign nations, designed for customized, local AI system development.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Reflection"
+          },
+          {
+            "key": "Features",
+            "val": "Lower compute cost, open-weight, allows institutions to build customized AI systems on proprietary data ('AI factories')."
+          }
+        ],
+        "tags": [
+          "AI model",
+          "open-weight",
+          "enterprise",
+          "customization",
+          "platform"
+        ],
+        "rank": "#53"
       }
     ]
   },
@@ -9834,6 +9920,27 @@
           "Design"
         ],
         "rank": "#24"
+      },
+      {
+        "name": "Safeworld Digital Humans",
+        "tagline": "Platform for building digital humans to ensure AI safety and human-robot interaction.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Safeworld"
+          },
+          {
+            "key": "Features",
+            "val": "Creates digital humans."
+          }
+        ],
+        "tags": [
+          "digital humans",
+          "generative AI",
+          "AI safety",
+          "3D design"
+        ],
+        "rank": "#25"
       }
     ]
   },
