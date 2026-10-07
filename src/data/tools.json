@@ -4992,6 +4992,26 @@
           "wellness"
         ],
         "rank": "#57"
+      },
+      {
+        "name": "Mistral Large 4",
+        "tagline": "A new large multimodal model from the French AI lab Mistral AI, aiming to leapfrog rivals.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Mistral AI"
+          },
+          {
+            "key": "Features",
+            "val": "Large multimodal model, advanced AI capabilities."
+          }
+        ],
+        "tags": [
+          "Large Language Model",
+          "Multimodal",
+          "AI Model"
+        ],
+        "rank": "#58"
       }
     ]
   },
@@ -7580,6 +7600,27 @@
           "assessment"
         ],
         "rank": "#83"
+      },
+      {
+        "name": "Pinterest Beauty Guides",
+        "tagline": "AI-powered guides that translate beauty Pins into salon action plans.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Pinterest"
+          },
+          {
+            "key": "Features",
+            "val": "Translates hair and nail Pins into salon terminology, provides estimated costs, appointment times, and maintenance needs."
+          }
+        ],
+        "tags": [
+          "Beauty",
+          "Personalization",
+          "Action Plan",
+          "Recommendations"
+        ],
+        "rank": "#84"
       }
     ]
   },
@@ -8041,6 +8082,26 @@
           "iOS"
         ],
         "rank": "#16"
+      },
+      {
+        "name": "Melius",
+        "tagline": "A platform focused on generating creative assets and campaigns for marketers.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Melius"
+          },
+          {
+            "key": "Features",
+            "val": "Generates creative marketing assets, generates marketing campaigns."
+          }
+        ],
+        "tags": [
+          "Marketing",
+          "Campaign Generation",
+          "Creative Assets"
+        ],
+        "rank": "#17"
       }
     ]
   },
@@ -9292,6 +9353,48 @@
           "platform"
         ],
         "rank": "#53"
+      },
+      {
+        "name": "PolicyLM-1.7B",
+        "tagline": "A lightweight decision model designed for real-time content moderation.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Musubi"
+          },
+          {
+            "key": "Features",
+            "val": "Real-time moderation, open weights, lightweight decision model."
+          }
+        ],
+        "tags": [
+          "Content Moderation",
+          "Decision Model",
+          "Open-weight",
+          "Real-time"
+        ],
+        "rank": "#54"
+      },
+      {
+        "name": "Mirror Particle",
+        "tagline": "A 'world model' built from scratch to predict human behavior for market research and brand strategy.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Mirror Particle"
+          },
+          {
+            "key": "Features",
+            "val": "Predicts human behavior, supports market research, aids brand strategy, 'world model'."
+          }
+        ],
+        "tags": [
+          "Behavior Prediction",
+          "Market Research",
+          "Brand Strategy",
+          "World Model"
+        ],
+        "rank": "#55"
       }
     ]
   },
