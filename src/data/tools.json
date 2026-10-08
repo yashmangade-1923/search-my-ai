@@ -7621,6 +7621,45 @@
           "Recommendations"
         ],
         "rank": "#84"
+      },
+      {
+        "name": "Hermes Agent",
+        "tagline": "AI agents for business users",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Nous Research"
+          },
+          {
+            "key": "Features",
+            "val": "AI agents for business operations"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Business",
+          "Productivity"
+        ],
+        "rank": "#85"
+      },
+      {
+        "name": "Dots",
+        "tagline": "Newly launched AI product from OpenAI",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Features",
+            "val": "New general AI product"
+          }
+        ],
+        "tags": [
+          "General AI",
+          "New Launch"
+        ],
+        "rank": "#86"
       }
     ]
   },
@@ -9395,6 +9434,26 @@
           "World Model"
         ],
         "rank": "#55"
+      },
+      {
+        "name": "Healthleap",
+        "tagline": "AI that flags hospital patients who may need a closer look",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Healthleap"
+          },
+          {
+            "key": "Features",
+            "val": "Patient risk assessment, hospital management"
+          }
+        ],
+        "tags": [
+          "Healthcare",
+          "Patient Management",
+          "Risk Assessment"
+        ],
+        "rank": "#56"
       }
     ]
   },
