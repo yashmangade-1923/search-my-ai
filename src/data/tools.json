@@ -7660,6 +7660,65 @@
           "New Launch"
         ],
         "rank": "#86"
+      },
+      {
+        "name": "Cal AI",
+        "tagline": "A popular AI-powered calorie tracking app.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Co-founded by Zach Yadegari"
+          },
+          {
+            "key": "Features",
+            "val": "AI-powered calorie tracking"
+          }
+        ],
+        "tags": [
+          "Health",
+          "Fitness",
+          "Calorie Tracking"
+        ],
+        "rank": "#87"
+      },
+      {
+        "name": "Granola",
+        "tagline": "An AI meeting note-taker that transcribes conversations and generates notes (inferred from context as a competitor to AI Edge Foresight).",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Not specified in text"
+          },
+          {
+            "key": "Features",
+            "val": "Meeting transcription, note generation, question answering"
+          }
+        ],
+        "tags": [
+          "Meeting Notes",
+          "Transcription"
+        ],
+        "rank": "#88"
+      },
+      {
+        "name": "AI Edge Foresight",
+        "tagline": "Google's new local-first, offline AI meeting note-taker.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "Offline transcription, note generation, question answering using on-device AI"
+          }
+        ],
+        "tags": [
+          "Meeting Notes",
+          "Transcription",
+          "On-device AI"
+        ],
+        "rank": "#89"
       }
     ]
   },
