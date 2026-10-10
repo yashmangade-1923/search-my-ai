@@ -9513,6 +9513,26 @@
           "Risk Assessment"
         ],
         "rank": "#56"
+      },
+      {
+        "name": "LMArena",
+        "tagline": "A popular leaderboard for evaluating and benchmarking AI models, focusing on alignment issues.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Unknown"
+          },
+          {
+            "key": "Features",
+            "val": "Measures AI models on alignment issues (e.g., lying), tracks model performance"
+          }
+        ],
+        "tags": [
+          "AI Evaluation",
+          "Model Benchmarking",
+          "Leaderboard"
+        ],
+        "rank": "#57"
       }
     ]
   },
