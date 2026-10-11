@@ -3678,6 +3678,28 @@
           "Developer Tool"
         ],
         "rank": "#72"
+      },
+      {
+        "name": "GitHub Copilot Workspace",
+        "tagline": "An AI-powered developer environment that generates and completes entire software projects from natural language prompts.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "GitHub / Microsoft"
+          },
+          {
+            "key": "Features",
+            "val": "Generates full repositories, drafts features, fixes bugs, suggests refactorings, enables conversational development workflow to build software from scratch."
+          }
+        ],
+        "tags": [
+          "Code Generation",
+          "AI Assistant",
+          "Software Development",
+          "IDE",
+          "Developer Tool"
+        ],
+        "rank": "#73"
       }
     ]
   },
