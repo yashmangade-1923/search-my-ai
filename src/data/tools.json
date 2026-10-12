@@ -3700,6 +3700,50 @@
           "Developer Tool"
         ],
         "rank": "#73"
+      },
+      {
+        "name": "Dify",
+        "tagline": "An LLM application development platform for building AI apps.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Dify.AI"
+          },
+          {
+            "key": "Features",
+            "val": "Visual prompt orchestration, RAG, agent capabilities, workflow management, monitoring, API access."
+          }
+        ],
+        "tags": [
+          "LLM App Development",
+          "RAG",
+          "AI Agents",
+          "Open Source",
+          "Platform"
+        ],
+        "rank": "#74"
+      },
+      {
+        "name": "FlowiseAI",
+        "tagline": "Low-code UI to build customized LLM orchestration flow and AI agents.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "FlowiseAI"
+          },
+          {
+            "key": "Features",
+            "val": "Drag-and-drop interface, supports LangChain and LlamaIndex, integrates with various LLMs and tools, agent building."
+          }
+        ],
+        "tags": [
+          "LLM Orchestration",
+          "No-code/Low-code",
+          "Visual Builder",
+          "LangChain",
+          "Open Source"
+        ],
+        "rank": "#75"
       }
     ]
   },
