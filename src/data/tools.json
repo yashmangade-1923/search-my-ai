@@ -5793,6 +5793,26 @@
           "Voice Analysis"
         ],
         "rank": "#28"
+      },
+      {
+        "name": "Huxe",
+        "tagline": "Personalized podcast startup leveraging AI.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Huxe"
+          },
+          {
+            "key": "Features",
+            "val": "AI-generated personalized podcasts"
+          }
+        ],
+        "tags": [
+          "Podcasting",
+          "Audio",
+          "Personalization"
+        ],
+        "rank": "#29"
       }
     ]
   },
@@ -8266,6 +8286,26 @@
           "Creative Assets"
         ],
         "rank": "#17"
+      },
+      {
+        "name": "Honeyjar",
+        "tagline": "Offers AI tools to improve PR and communications at every company.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Honeyjar"
+          },
+          {
+            "key": "Features",
+            "val": "AI for PR and comms improvement"
+          }
+        ],
+        "tags": [
+          "PR",
+          "Communications",
+          "Marketing AI"
+        ],
+        "rank": "#18"
       }
     ]
   },
@@ -10248,6 +10288,27 @@
           "3D design"
         ],
         "rank": "#25"
+      },
+      {
+        "name": "Blueprints AI",
+        "tagline": "Generates permit-ready construction blueprints from a photo, PDF, or sketch.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Blueprints AI"
+          },
+          {
+            "key": "Features",
+            "val": "Produces code-compliant construction blueprints from various inputs"
+          }
+        ],
+        "tags": [
+          "Architecture",
+          "Construction",
+          "Design",
+          "Blueprint Generation"
+        ],
+        "rank": "#26"
       }
     ]
   },
