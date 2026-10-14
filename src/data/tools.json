@@ -583,6 +583,27 @@
           "Writing"
         ],
         "rank": "#21"
+      },
+      {
+        "name": "Originality.ai",
+        "tagline": "AI content detection, plagiarism checking, and readability scoring for content creators.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Originality.ai"
+          },
+          {
+            "key": "Features",
+            "val": "Detects AI-generated content (ChatGPT, Claude, etc.), plagiarism checker, readability score, factual accuracy checker, team management."
+          }
+        ],
+        "tags": [
+          "AI Detection",
+          "Plagiarism Checker",
+          "Content Authenticity",
+          "SEO"
+        ],
+        "rank": "#22"
       }
     ]
   },
@@ -9639,6 +9660,29 @@
           "Leaderboard"
         ],
         "rank": "#57"
+      },
+      {
+        "name": "Amazon Bedrock",
+        "tagline": "A fully managed service for building and scaling generative AI applications with foundation models.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Amazon Web Services (AWS)"
+          },
+          {
+            "key": "Features",
+            "val": "Access to various FMs (e.g., Anthropic Claude, Meta Llama, Amazon Titan, Stability AI Stable Diffusion), serverless inference, model customization (fine-tuning, RAG), agents for task automation."
+          }
+        ],
+        "tags": [
+          "Foundation Models",
+          "API",
+          "Managed Service",
+          "Generative AI",
+          "Cloud Platform",
+          "Enterprise AI"
+        ],
+        "rank": "#58"
       }
     ]
   },
