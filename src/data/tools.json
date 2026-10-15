@@ -5099,6 +5099,27 @@
           "AI Model"
         ],
         "rank": "#58"
+      },
+      {
+        "name": "Zenzap",
+        "tagline": "An AI chat app designed to replace WhatsApp in the workplace for organizations.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Zenzap"
+          },
+          {
+            "key": "Features",
+            "val": "AI chat functionality, workplace communication, used by organizations including Starbucks and Taco Bell."
+          }
+        ],
+        "tags": [
+          "Workplace Chat",
+          "AI Chat",
+          "Communication",
+          "Enterprise"
+        ],
+        "rank": "#59"
       }
     ]
   },
@@ -7826,6 +7847,27 @@
           "On-device AI"
         ],
         "rank": "#89"
+      },
+      {
+        "name": "Industrial Next",
+        "tagline": "Helps manufacturers automate complex and delicate tasks, enabling factory robots to switch tasks rapidly.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Industrial Next"
+          },
+          {
+            "key": "Features",
+            "val": "Automates complex industrial tasks, rapid robot task switching, reduces setup time from weeks to minutes."
+          }
+        ],
+        "tags": [
+          "Industrial Automation",
+          "Robotics",
+          "Manufacturing",
+          "Process Automation"
+        ],
+        "rank": "#90"
       }
     ]
   },
@@ -8327,6 +8369,48 @@
           "Marketing AI"
         ],
         "rank": "#18"
+      },
+      {
+        "name": "Gudea",
+        "tagline": "Leverages AI to help organizations prevent social media crises before they erupt by tracking stories and rumors online.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Gudea"
+          },
+          {
+            "key": "Features",
+            "val": "Tracks how stories and rumors spread online, identifies AI-generated misinformation, hate speech, damaging rumors; acts as a 'storm tracker for the internet.'"
+          }
+        ],
+        "tags": [
+          "Social Media Monitoring",
+          "Crisis Prevention",
+          "Reputation Management",
+          "Misinformation Detection"
+        ],
+        "rank": "#19"
+      },
+      {
+        "name": "Floqer",
+        "tagline": "Uses AI agents to research sales prospects, automating the lead generation process for sales teams.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Floqer"
+          },
+          {
+            "key": "Features",
+            "val": "AI-powered sales prospect research, automates lead generation, supports sales and revenue operations."
+          }
+        ],
+        "tags": [
+          "Sales Automation",
+          "Lead Generation",
+          "Prospect Research",
+          "AI Agents"
+        ],
+        "rank": "#20"
       }
     ]
   },
@@ -9683,6 +9767,27 @@
           "Enterprise AI"
         ],
         "rank": "#58"
+      },
+      {
+        "name": "Apate",
+        "tagline": "Sends AI agents undercover to get scammed and gather fraud intelligence.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Apate.ai"
+          },
+          {
+            "key": "Features",
+            "val": "Deploys AI agents for undercover operations, gathers fraud intelligence, identifies scams."
+          }
+        ],
+        "tags": [
+          "Fraud Detection",
+          "Cybersecurity",
+          "Intelligence Gathering",
+          "AI Agents"
+        ],
+        "rank": "#59"
       }
     ]
   },
