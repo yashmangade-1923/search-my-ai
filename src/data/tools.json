@@ -5120,6 +5120,26 @@
           "Enterprise"
         ],
         "rank": "#59"
+      },
+      {
+        "name": "Chatbase",
+        "tagline": "Build a custom AI chatbot from your data.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Chatbase"
+          },
+          {
+            "key": "Features",
+            "val": "Train chatbots on documents, links, and text; embed on websites; analyze conversations; multi-language support."
+          }
+        ],
+        "tags": [
+          "Custom Chatbot",
+          "Knowledge Base",
+          "Website Chatbot"
+        ],
+        "rank": "#60"
       }
     ]
   },
