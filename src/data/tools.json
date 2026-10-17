@@ -1424,6 +1424,27 @@
           "Creative AI"
         ],
         "rank": "#33"
+      },
+      {
+        "name": "Glimpse",
+        "tagline": "AI model that reasons with images, excelling in scientific chart reasoning and short-form video captioning.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Elorian"
+          },
+          {
+            "key": "Features",
+            "val": "Scientific chart reasoning, short-form video captioning, visual reasoning tasks"
+          }
+        ],
+        "tags": [
+          "image analysis",
+          "video analysis",
+          "visual reasoning",
+          "AI model"
+        ],
+        "rank": "#34"
       }
     ]
   },
@@ -5140,6 +5161,27 @@
           "Website Chatbot"
         ],
         "rank": "#60"
+      },
+      {
+        "name": "Muse Spark Open",
+        "tagline": "An open-weight AI model from Meta and Apple, designed for local execution on Apple silicon.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Meta, Apple"
+          },
+          {
+            "key": "Features",
+            "val": "Open-weight, runs locally on Apple silicon"
+          }
+        ],
+        "tags": [
+          "AI model",
+          "open-weight",
+          "local inference",
+          "foundation model"
+        ],
+        "rank": "#61"
       }
     ]
   },
