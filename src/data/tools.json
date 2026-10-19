@@ -3786,6 +3786,27 @@
           "Open Source"
         ],
         "rank": "#75"
+      },
+      {
+        "name": "Vercel AI Gateway",
+        "tagline": "A unified API service for managing and routing AI model requests.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Vercel"
+          },
+          {
+            "key": "Features",
+            "val": "Unified API for AI models, routing capabilities, similar to OpenRouter"
+          }
+        ],
+        "tags": [
+          "API",
+          "AI Integration",
+          "Developer Tools",
+          "Model Routing"
+        ],
+        "rank": "#76"
       }
     ]
   },
