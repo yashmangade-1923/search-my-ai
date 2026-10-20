@@ -3807,6 +3807,48 @@
           "Model Routing"
         ],
         "rank": "#76"
+      },
+      {
+        "name": "TorchNeuron",
+        "tagline": "A development tool to help developers run PyTorch AI apps on Amazon's alternative chips.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Amazon"
+          },
+          {
+            "key": "Features",
+            "val": "Facilitates running PyTorch AI applications on Amazon's custom silicon, aiming to reduce dependency on Nvidia hardware."
+          }
+        ],
+        "tags": [
+          "developer tool",
+          "pytorch",
+          "neural networks",
+          "optimization"
+        ],
+        "rank": "#77"
+      },
+      {
+        "name": "OpenCode",
+        "tagline": "An open source AI coding agent that serves as an alternative to proprietary coding assistants.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Not specified, open source project"
+          },
+          {
+            "key": "Features",
+            "val": "Open source AI coding assistance, agent capabilities for code generation and analysis."
+          }
+        ],
+        "tags": [
+          "coding agent",
+          "open source",
+          "developer tool",
+          "AI assistant"
+        ],
+        "rank": "#78"
       }
     ]
   },
@@ -5203,6 +5245,48 @@
           "foundation model"
         ],
         "rank": "#61"
+      },
+      {
+        "name": "Tolan",
+        "tagline": "An AI companion app designed to help users navigate and manage various aspects of their lives.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Not specified"
+          },
+          {
+            "key": "Features",
+            "val": "AI companion, personal guidance, life navigation assistance."
+          }
+        ],
+        "tags": [
+          "AI companion",
+          "personal assistant",
+          "life management",
+          "chatbot"
+        ],
+        "rank": "#62"
+      },
+      {
+        "name": "Wabi",
+        "tagline": "A free and downloadable personal AI assistant offering a unique twist on AI companionship.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Wabi (startup by Eugenia Kuyda)"
+          },
+          {
+            "key": "Features",
+            "val": "Personal AI assistant, free to download, unique approach to user interaction."
+          }
+        ],
+        "tags": [
+          "AI assistant",
+          "personal AI",
+          "free tool",
+          "chatbot"
+        ],
+        "rank": "#63"
       }
     ]
   },
@@ -9871,6 +9955,29 @@
           "AI Agents"
         ],
         "rank": "#59"
+      },
+      {
+        "name": "Laplace Intelligence",
+        "tagline": "A platform that uses AI agents and interactive simulation to stress-test robots and self-driving vehicles.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "University of Michigan spinout Laplace Intelligence"
+          },
+          {
+            "key": "Features",
+            "val": "Red-teaming, interactive simulation, stress-testing for robotics and autonomous vehicle development."
+          }
+        ],
+        "tags": [
+          "AI agents",
+          "simulation",
+          "testing",
+          "robotics",
+          "autonomous vehicles",
+          "data analysis"
+        ],
+        "rank": "#60"
       }
     ]
   },
