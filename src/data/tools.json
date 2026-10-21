@@ -8035,6 +8035,28 @@
           "Process Automation"
         ],
         "rank": "#90"
+      },
+      {
+        "name": "Rosalind Workbench",
+        "tagline": "A tool that helps life sciences researchers plan experiments and analyze results.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI (acquired Orchestra Bio)"
+          },
+          {
+            "key": "Features",
+            "val": "Plan experiments, analyze research results, research workflow harness"
+          }
+        ],
+        "tags": [
+          "Life Sciences",
+          "Research",
+          "Experimentation",
+          "Data Analysis",
+          "Biotech"
+        ],
+        "rank": "#91"
       }
     ]
   },
@@ -9978,6 +10000,27 @@
           "data analysis"
         ],
         "rank": "#60"
+      },
+      {
+        "name": "Rosalind",
+        "tagline": "An AI model specifically designed for life sciences research.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI (acquired Orchestra Bio)"
+          },
+          {
+            "key": "Features",
+            "val": "AI model for life sciences research, underlying technology for Rosalind Workbench"
+          }
+        ],
+        "tags": [
+          "Life Sciences",
+          "Research",
+          "AI Model",
+          "Biotech"
+        ],
+        "rank": "#61"
       }
     ]
   },
