@@ -3849,6 +3849,27 @@
           "AI assistant"
         ],
         "rank": "#78"
+      },
+      {
+        "name": "Flint",
+        "tagline": "A free, laptop-sized coding model built largely by an AI research system.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Recursive"
+          },
+          {
+            "key": "Features",
+            "val": "Laptop-sized coding model, self-improving AI, free to use."
+          }
+        ],
+        "tags": [
+          "Coding Model",
+          "AI-Generated",
+          "Free",
+          "Development"
+        ],
+        "rank": "#79"
       }
     ]
   },
