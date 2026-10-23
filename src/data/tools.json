@@ -1445,6 +1445,27 @@
           "AI model"
         ],
         "rank": "#34"
+      },
+      {
+        "name": "Skybox AI",
+        "tagline": "Generate seamless 360-degree environments and skyboxes for games and virtual worlds.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Blockade Labs"
+          },
+          {
+            "key": "Features",
+            "val": "Text-to-360 image generation, style transfers, environment editing, API access."
+          }
+        ],
+        "tags": [
+          "3D environment",
+          "Image generation",
+          "Skybox",
+          "Virtual reality"
+        ],
+        "rank": "#35"
       }
     ]
   },
@@ -10712,6 +10733,27 @@
           "Blueprint Generation"
         ],
         "rank": "#26"
+      },
+      {
+        "name": "Meshy AI",
+        "tagline": "Generate high-quality 3D models and textures from text or image prompts.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Meshy"
+          },
+          {
+            "key": "Features",
+            "val": "Text-to-3D, Image-to-3D, texture generation, PBR materials, real-time rendering."
+          }
+        ],
+        "tags": [
+          "3D modeling",
+          "Game assets",
+          "Text-to-3D",
+          "Texture generation"
+        ],
+        "rank": "#27"
       }
     ]
   },
