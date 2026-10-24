@@ -8099,6 +8099,26 @@
           "Biotech"
         ],
         "rank": "#91"
+      },
+      {
+        "name": "OpenAI Decision Model",
+        "tagline": "A new AI model from OpenAI designed for enhanced decision-making.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "OpenAI"
+          },
+          {
+            "key": "Features",
+            "val": "Provides AI-driven decision support, competing with existing decision models."
+          }
+        ],
+        "tags": [
+          "Decision Support",
+          "AI Model",
+          "Productivity"
+        ],
+        "rank": "#92"
       }
     ]
   },
