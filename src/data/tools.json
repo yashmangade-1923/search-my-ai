@@ -10083,6 +10083,27 @@
           "Biotech"
         ],
         "rank": "#61"
+      },
+      {
+        "name": "Microsoft AI Diagnostic System",
+        "tagline": "An AI diagnostic system designed to outperform generalist doctors on hard medical cases.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Microsoft"
+          },
+          {
+            "key": "Features",
+            "val": "Medical diagnosis, enhanced performance on complex clinical scenarios, pursuit of medical superintelligence."
+          }
+        ],
+        "tags": [
+          "Medical AI",
+          "Diagnostics",
+          "Healthcare",
+          "Clinical Decision Support"
+        ],
+        "rank": "#62"
       }
     ]
   },
