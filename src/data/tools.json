@@ -5329,6 +5329,48 @@
           "chatbot"
         ],
         "rank": "#63"
+      },
+      {
+        "name": "Clova X",
+        "tagline": "Naver's hyperscale AI model for advanced conversations and creative tasks.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Naver"
+          },
+          {
+            "key": "Features",
+            "val": "Multimodal capabilities, creative writing, programming assistance, document summarization, search integration"
+          }
+        ],
+        "tags": [
+          "LLM",
+          "Chatbot",
+          "Multimodal",
+          "Korean AI"
+        ],
+        "rank": "#64"
+      },
+      {
+        "name": "Llama 3.1",
+        "tagline": "The latest open-source large language model from Meta, offering enhanced performance and capabilities.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Meta"
+          },
+          {
+            "key": "Features",
+            "val": "Improved reasoning, coding, multilingual support, extended context window, available in various parameter sizes"
+          }
+        ],
+        "tags": [
+          "LLM",
+          "Open Source",
+          "Foundational Model",
+          "Meta"
+        ],
+        "rank": "#65"
       }
     ]
   },
