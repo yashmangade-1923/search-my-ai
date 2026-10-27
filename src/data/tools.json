@@ -6106,6 +6106,26 @@
           "Personalization"
         ],
         "rank": "#29"
+      },
+      {
+        "name": "Dessa",
+        "tagline": "A new voice model by Block that generates eerily human-sounding speech.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Block"
+          },
+          {
+            "key": "Features",
+            "val": "Eerily human voice model, knowledge from conversational data"
+          }
+        ],
+        "tags": [
+          "Voice Model",
+          "Speech Synthesis",
+          "Audio"
+        ],
+        "rank": "#30"
       }
     ]
   },
