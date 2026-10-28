@@ -2084,6 +2084,28 @@
           "Deepfake"
         ],
         "rank": "#24"
+      },
+      {
+        "name": "Genie 4",
+        "tagline": "Google's world model for generating realistic, audio-enhanced virtual worlds.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "Maintains consistent scenes for up to two minutes, offers better physics, more humanlike characters, adds audio, real-time steering."
+          }
+        ],
+        "tags": [
+          "Generative AI",
+          "World Model",
+          "Video Generation",
+          "Simulation",
+          "Audio"
+        ],
+        "rank": "#25"
       }
     ]
   },
@@ -8181,6 +8203,27 @@
           "Productivity"
         ],
         "rank": "#92"
+      },
+      {
+        "name": "Ndoc",
+        "tagline": "A new productivity suite aiming to compete with established office software.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Ndoc (Rohit Patel's startup)"
+          },
+          {
+            "key": "Features",
+            "val": "Aims to replace or compete with Microsoft Office Suite and Google Workspace."
+          }
+        ],
+        "tags": [
+          "Productivity Suite",
+          "Office Software",
+          "Document Management",
+          "Workplace AI"
+        ],
+        "rank": "#93"
       }
     ]
   },
