@@ -10209,6 +10209,29 @@
           "Clinical Decision Support"
         ],
         "rank": "#62"
+      },
+      {
+        "name": "Databricks Assistant",
+        "tagline": "An AI assistant for data engineers and scientists within the Databricks platform.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Databricks"
+          },
+          {
+            "key": "Features",
+            "val": "Code generation (SQL, Python, R, Scala), debugging assistance, code explanation, query optimization, natural language interaction for data tasks."
+          }
+        ],
+        "tags": [
+          "Data Engineering",
+          "SQL",
+          "Python",
+          "Code Generation",
+          "Data Science",
+          "Databricks"
+        ],
+        "rank": "#63"
       }
     ]
   },
@@ -10900,6 +10923,28 @@
           "Texture generation"
         ],
         "rank": "#27"
+      },
+      {
+        "name": "Vizcom",
+        "tagline": "Rapidly generate concept art and sketches from text prompts for designers.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Vizcom"
+          },
+          {
+            "key": "Features",
+            "val": "AI-powered sketching, rapid concept generation, various artistic styles, real-time feedback, integration with existing design workflows."
+          }
+        ],
+        "tags": [
+          "Concept Art",
+          "Sketching",
+          "Design",
+          "Image Generation",
+          "Industrial Design"
+        ],
+        "rank": "#28"
       }
     ]
   },
