@@ -6148,6 +6148,48 @@
           "Audio"
         ],
         "rank": "#30"
+      },
+      {
+        "name": "Deepgram",
+        "tagline": "Provider of voice AI infrastructure and real-time audio/video solutions.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Deepgram"
+          },
+          {
+            "key": "Features",
+            "val": "Bolsters voice AI infrastructure, acquired Pipecat for real-time voice and video infrastructure."
+          }
+        ],
+        "tags": [
+          "voice ai",
+          "speech recognition",
+          "audio processing",
+          "real-time communication"
+        ],
+        "rank": "#31"
+      },
+      {
+        "name": "Pipecat",
+        "tagline": "Real-time voice and video infrastructure tool.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Daily (acquired by Deepgram)"
+          },
+          {
+            "key": "Features",
+            "val": "Provides real-time voice and video infrastructure."
+          }
+        ],
+        "tags": [
+          "real-time audio",
+          "real-time video",
+          "voice processing",
+          "video processing"
+        ],
+        "rank": "#32"
       }
     ]
   },
@@ -10232,6 +10274,28 @@
           "Databricks"
         ],
         "rank": "#63"
+      },
+      {
+        "name": "Dream",
+        "tagline": "AI world models for construction, grounded in real physics and construction standards.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Dream (founded by Ex-Palantir execs)"
+          },
+          {
+            "key": "Features",
+            "val": "Builds AI world models for construction, trained on over 100 million square feet of building data."
+          }
+        ],
+        "tags": [
+          "construction",
+          "world model",
+          "physics simulation",
+          "data analysis",
+          "architecture"
+        ],
+        "rank": "#64"
       }
     ]
   },
@@ -10945,6 +11009,27 @@
           "Industrial Design"
         ],
         "rank": "#28"
+      },
+      {
+        "name": "Style Sketch",
+        "tagline": "An AI fashion app for building a virtual closet and managing clothing items.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Meta"
+          },
+          {
+            "key": "Features",
+            "val": "Connects to Instagram, builds virtual closet from photos, adds items manually via photo/video/upload."
+          }
+        ],
+        "tags": [
+          "fashion",
+          "virtual closet",
+          "image analysis",
+          "instagram integration"
+        ],
+        "rank": "#29"
       }
     ]
   },
