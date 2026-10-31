@@ -8266,6 +8266,27 @@
           "Workplace AI"
         ],
         "rank": "#93"
+      },
+      {
+        "name": "Zest",
+        "tagline": "AI agent that finds restaurants and books reservations over text.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Zest"
+          },
+          {
+            "key": "Features",
+            "val": "Finds restaurants, combines tastes, puts restaurant options to a vote, makes reservations, operates over text."
+          }
+        ],
+        "tags": [
+          "AI assistant",
+          "concierge",
+          "restaurant reservations",
+          "text-based"
+        ],
+        "rank": "#94"
       }
     ]
   },
