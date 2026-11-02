@@ -1466,6 +1466,27 @@
           "Virtual reality"
         ],
         "rank": "#35"
+      },
+      {
+        "name": "Magnific AI",
+        "tagline": "The ultimate AI image upscaler and enhancer for incredible detail.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Magnific AI"
+          },
+          {
+            "key": "Features",
+            "val": "Advanced AI upscaling, detail enhancement, image refinement, artistic control, high-resolution output."
+          }
+        ],
+        "tags": [
+          "image upscaling",
+          "image enhancement",
+          "AI art",
+          "refinement"
+        ],
+        "rank": "#36"
       }
     ]
   },
@@ -8287,6 +8308,27 @@
           "text-based"
         ],
         "rank": "#94"
+      },
+      {
+        "name": "Pinokio",
+        "tagline": "A browser that downloads, installs, and runs AI models with one click.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Pinokio team (Open source)"
+          },
+          {
+            "key": "Features",
+            "val": "One-click installation and execution of various AI models (e.g., Stable Diffusion, LLMs, audio tools), sandbox environment, automatic dependency management."
+          }
+        ],
+        "tags": [
+          "AI models",
+          "local AI",
+          "utility",
+          "no-code"
+        ],
+        "rank": "#95"
       }
     ]
   },
