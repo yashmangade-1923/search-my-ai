@@ -3934,6 +3934,28 @@
           "Development"
         ],
         "rank": "#79"
+      },
+      {
+        "name": "PromptLayer",
+        "tagline": "Observability for your LLM applications.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "PromptLayer"
+          },
+          {
+            "key": "Features",
+            "val": "Prompt versioning, A/B testing, analytics, and API integration for LLMs."
+          }
+        ],
+        "tags": [
+          "LLM",
+          "Prompt Engineering",
+          "Observability",
+          "Developer Tool",
+          "AI Testing"
+        ],
+        "rank": "#80"
       }
     ]
   },
@@ -5414,6 +5436,28 @@
           "Meta"
         ],
         "rank": "#65"
+      },
+      {
+        "name": "Botpress",
+        "tagline": "The leading open-source platform for building AI assistants.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Botpress"
+          },
+          {
+            "key": "Features",
+            "val": "Visual bot builder, LLM integration, pre-built templates, multi-channel deployment, open-source."
+          }
+        ],
+        "tags": [
+          "Chatbot Builder",
+          "No-code",
+          "AI Assistant",
+          "Open Source",
+          "Conversation AI"
+        ],
+        "rank": "#66"
       }
     ]
   },
