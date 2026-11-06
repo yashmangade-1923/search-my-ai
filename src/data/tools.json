@@ -3977,6 +3977,27 @@
           "project management"
         ],
         "rank": "#81"
+      },
+      {
+        "name": "DBX Agent Cloud",
+        "tagline": "A new storage platform aimed at developers building AI models and agents.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Dropbox"
+          },
+          {
+            "key": "Features",
+            "val": "Storage platform; supports AI model and agent development."
+          }
+        ],
+        "tags": [
+          "storage",
+          "developer tools",
+          "AI infrastructure",
+          "platform"
+        ],
+        "rank": "#82"
       }
     ]
   },
@@ -10467,6 +10488,27 @@
           "security"
         ],
         "rank": "#65"
+      },
+      {
+        "name": "Axiom Math",
+        "tagline": "A startup focused on formally verifying mathematical proofs to ensure accuracy against AI-generated content.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Axiom Math"
+          },
+          {
+            "key": "Features",
+            "val": "Formally verifies mathematical proofs; successfully verified the Stacks Project."
+          }
+        ],
+        "tags": [
+          "mathematics",
+          "proof verification",
+          "data integrity",
+          "research"
+        ],
+        "rank": "#66"
       }
     ]
   },
