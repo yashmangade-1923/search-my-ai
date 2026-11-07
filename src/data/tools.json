@@ -3998,6 +3998,26 @@
           "platform"
         ],
         "rank": "#82"
+      },
+      {
+        "name": "Artex",
+        "tagline": "A penetration testing tool used for hacking, found publicly exposed.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Not specified"
+          },
+          {
+            "key": "Features",
+            "val": "Penetration testing, Hacking tool"
+          }
+        ],
+        "tags": [
+          "Security",
+          "Penetration Testing",
+          "Cybersecurity"
+        ],
+        "rank": "#83"
       }
     ]
   },
@@ -6297,6 +6317,27 @@
           "video processing"
         ],
         "rank": "#32"
+      },
+      {
+        "name": "Underdog",
+        "tagline": "A compact 32MB AI model capable of generating both speech and music.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Underdog"
+          },
+          {
+            "key": "Features",
+            "val": "Speech generation, Music generation, Small model size (32MB)"
+          }
+        ],
+        "tags": [
+          "Audio Generation",
+          "Speech Synthesis",
+          "Music Synthesis",
+          "AI Model"
+        ],
+        "rank": "#33"
       }
     ]
   },
@@ -10509,6 +10550,48 @@
           "research"
         ],
         "rank": "#66"
+      },
+      {
+        "name": "Physicl",
+        "tagline": "A pipeline designed to bridge the sim-to-real gap for robotics and online marketing.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Physicl"
+          },
+          {
+            "key": "Features",
+            "val": "Sim-to-real gap solution, Robotics pipeline, Online goods marketing"
+          }
+        ],
+        "tags": [
+          "Simulation",
+          "Robotics",
+          "Digital Twin",
+          "Data Pipeline"
+        ],
+        "rank": "#67"
+      },
+      {
+        "name": "Clutch",
+        "tagline": "An AI agent security startup developing tools to protect AI agents.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Clutch"
+          },
+          {
+            "key": "Features",
+            "val": "AI agent security"
+          }
+        ],
+        "tags": [
+          "AI Security",
+          "Agent Protection",
+          "Cybersecurity",
+          "Startup"
+        ],
+        "rank": "#68"
       }
     ]
   },
