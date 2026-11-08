@@ -8477,6 +8477,27 @@
           "Apple"
         ],
         "rank": "#96"
+      },
+      {
+        "name": "Airbnb AI Travel Agent",
+        "tagline": "An upcoming AI agent designed to assist travelers with trip planning and booking management.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Airbnb"
+          },
+          {
+            "key": "Features",
+            "val": "Plan trips, compare options, manage bookings, provide assistance throughout the stay"
+          }
+        ],
+        "tags": [
+          "Travel",
+          "AI Agent",
+          "Planning",
+          "Bookings"
+        ],
+        "rank": "#97"
       }
     ]
   },
