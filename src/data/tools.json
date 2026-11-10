@@ -8498,6 +8498,27 @@
           "Bookings"
         ],
         "rank": "#97"
+      },
+      {
+        "name": "Muse Ember",
+        "tagline": "A new lightweight model from Meta designed for efficient and cost-effective AI agent execution.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Meta"
+          },
+          {
+            "key": "Features",
+            "val": "Lightweight model, optimized for agent execution, significantly cheaper than frontier competitors like Haiku and Luna."
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Large Language Model",
+          "Cost-effective",
+          "Meta Model"
+        ],
+        "rank": "#98"
       }
     ]
   },
