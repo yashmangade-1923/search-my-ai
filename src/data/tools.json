@@ -6338,6 +6338,28 @@
           "AI Model"
         ],
         "rank": "#33"
+      },
+      {
+        "name": "Spotify AI DJ",
+        "tagline": "A personalized AI DJ experience with customizable voices and conversational control.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Spotify"
+          },
+          {
+            "key": "Features",
+            "val": "Customizable voices and personalities, option to reduce or turn off commentary between songs."
+          }
+        ],
+        "tags": [
+          "Music",
+          "Audio",
+          "Personalization",
+          "AI DJ",
+          "Entertainment"
+        ],
+        "rank": "#34"
       }
     ]
   },
@@ -8519,6 +8541,28 @@
           "Meta Model"
         ],
         "rank": "#98"
+      },
+      {
+        "name": "Claude Meetings",
+        "tagline": "Transforms workplace discussions into actionable plans and tasks with AI assistance.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Anthropic"
+          },
+          {
+            "key": "Features",
+            "val": "Drafts discussion plans, maps timelines, answers questions in chat, accesses connected work apps for information."
+          }
+        ],
+        "tags": [
+          "Meeting Assistant",
+          "Productivity",
+          "Workplace AI",
+          "AI Assistant",
+          "Collaboration"
+        ],
+        "rank": "#99"
       }
     ]
   },
