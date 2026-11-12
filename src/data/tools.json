@@ -8563,6 +8563,28 @@
           "Collaboration"
         ],
         "rank": "#99"
+      },
+      {
+        "name": "Databricks Genie agent",
+        "tagline": "An AI agent designed to provide unvarnished truth and internal feedback to company leadership.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Databricks"
+          },
+          {
+            "key": "Features",
+            "val": "Gathers internal feedback, provides objective insights, operates as an internal truth-teller."
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Internal Tool",
+          "Feedback",
+          "Productivity",
+          "Leadership Support"
+        ],
+        "rank": "#100"
       }
     ]
   },
