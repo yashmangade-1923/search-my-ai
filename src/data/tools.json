@@ -1487,6 +1487,27 @@
           "refinement"
         ],
         "rank": "#36"
+      },
+      {
+        "name": "Phota Labs",
+        "tagline": "Leverages AI to transform everyday photos into professional-looking shots through automated editing.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Phota Labs"
+          },
+          {
+            "key": "Features",
+            "val": "Automated photo editing, professional-looking photo enhancement"
+          }
+        ],
+        "tags": [
+          "Photo Editing",
+          "Image Enhancement",
+          "AI Photography",
+          "Automation"
+        ],
+        "rank": "#37"
       }
     ]
   },
@@ -9128,6 +9149,27 @@
           "AI Agents"
         ],
         "rank": "#20"
+      },
+      {
+        "name": "Nectar",
+        "tagline": "Automates influencer marketing from discovery to outreach and partnership management for brands.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Nectar"
+          },
+          {
+            "key": "Features",
+            "val": "Creator discovery, outreach management, partnership management, campaign results tracking"
+          }
+        ],
+        "tags": [
+          "Influencer Marketing",
+          "Marketing Automation",
+          "Brand Outreach",
+          "AI Agent"
+        ],
+        "rank": "#21"
       }
     ]
   },
