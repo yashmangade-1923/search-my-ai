@@ -4039,6 +4039,27 @@
           "Cybersecurity"
         ],
         "rank": "#83"
+      },
+      {
+        "name": "LangSmith",
+        "tagline": "Model and platform agnostic agent management tool for AI agents.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "LangChain"
+          },
+          {
+            "key": "Features",
+            "val": "AI agent management, model agnostic, platform agnostic"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Development",
+          "Management",
+          "Monitoring"
+        ],
+        "rank": "#84"
       }
     ]
   },
@@ -8606,6 +8627,27 @@
           "Leadership Support"
         ],
         "rank": "#100"
+      },
+      {
+        "name": "ElevenAI",
+        "tagline": "A new meeting notetaker and dictation app aimed at teams and enterprises.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "ElevenLabs"
+          },
+          {
+            "key": "Features",
+            "val": "Meeting note-taking, dictation, team collaboration"
+          }
+        ],
+        "tags": [
+          "Meeting Assistant",
+          "Transcription",
+          "Productivity",
+          "Audio"
+        ],
+        "rank": "#101"
       }
     ]
   },
