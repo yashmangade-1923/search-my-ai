@@ -2148,6 +2148,27 @@
           "Audio"
         ],
         "rank": "#25"
+      },
+      {
+        "name": "Stable Video Diffusion",
+        "tagline": "Generates high-quality video clips from text or image prompts.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Stability AI"
+          },
+          {
+            "key": "Features",
+            "val": "Video generation from image or text, multiple aspect ratios, motion control"
+          }
+        ],
+        "tags": [
+          "video generation",
+          "text-to-video",
+          "image-to-video",
+          "AI model"
+        ],
+        "rank": "#26"
       }
     ]
   },
@@ -11964,6 +11985,27 @@
           "YouTube Music"
         ],
         "rank": "#18"
+      },
+      {
+        "name": "Sunlight.ai",
+        "tagline": "AI-powered search engine for legal and regulatory documents.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Sunlight.ai"
+          },
+          {
+            "key": "Features",
+            "val": "Summarization, query answering, legal research, document analysis"
+          }
+        ],
+        "tags": [
+          "legal tech",
+          "AI search",
+          "document analysis",
+          "research assistant"
+        ],
+        "rank": "#19"
       }
     ]
   }
