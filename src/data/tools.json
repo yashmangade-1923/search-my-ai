@@ -8669,6 +8669,67 @@
           "Audio"
         ],
         "rank": "#101"
+      },
+      {
+        "name": "Corba",
+        "tagline": "AI cybersecurity platform that rapidly achieved a $1B valuation.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Corba"
+          },
+          {
+            "key": "Features",
+            "val": "AI-powered cybersecurity product for network protection and breach detection."
+          }
+        ],
+        "tags": [
+          "Cybersecurity",
+          "Platform",
+          "AI-powered"
+        ],
+        "rank": "#102"
+      },
+      {
+        "name": "Ask Maps",
+        "tagline": "Google Maps feature for building detailed trip itineraries with real-time information.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Google"
+          },
+          {
+            "key": "Features",
+            "val": "Plan holiday shopping day trips, multi-day road trips, coastal hikes, and oceanfront dining itineraries with real-time details."
+          }
+        ],
+        "tags": [
+          "Navigation",
+          "Travel",
+          "Planning",
+          "AI-powered"
+        ],
+        "rank": "#103"
+      },
+      {
+        "name": "Dreamteam",
+        "tagline": "An AI-native CRM platform designed to compete with established CRM solutions.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Dreamteam (founded by Freshworks alums)"
+          },
+          {
+            "key": "Features",
+            "val": "AI-native customer relationship management (CRM) functionalities."
+          }
+        ],
+        "tags": [
+          "CRM",
+          "Business Software",
+          "AI-native"
+        ],
+        "rank": "#104"
       }
     ]
   },
@@ -9233,6 +9294,26 @@
           "AI Agent"
         ],
         "rank": "#21"
+      },
+      {
+        "name": "Tone",
+        "tagline": "AI sales voice startup aiming to achieve sales performance comparable to top human salespeople.",
+        "specs": [
+          {
+            "key": "Company",
+            "val": "Jordan Belfort's startup"
+          },
+          {
+            "key": "Features",
+            "val": "AI-generated voice for sales, closing deals."
+          }
+        ],
+        "tags": [
+          "Sales",
+          "Voice AI",
+          "Marketing"
+        ],
+        "rank": "#22"
       }
     ]
   },
